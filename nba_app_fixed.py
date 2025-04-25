@@ -16,11 +16,11 @@ client = OpenAI(
 )
 
 # Load player data
-with open("/Users/aryamane/Downloads/player_chunks_with_draft_year_in_chunk.json", "r", encoding="utf-8") as f:
+with open("player_chunks_with_draft_year_in_chunk.json", "r", encoding="utf-8") as f:
     player_data = json.load(f)
 
 # Load FAISS index
-index = faiss.read_index("/Users/aryamane/Downloads/player_index.faiss")  # Make sure this file exists
+index = faiss.read_index("player_index.faiss")  # Make sure this file exists
 
 # Load embedding model
 embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
