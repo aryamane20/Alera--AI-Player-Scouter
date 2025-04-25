@@ -79,6 +79,8 @@ Based on the query, suggest 1–2 ideal players and explain why.
     # Heuristic: extract capitalized names from the recommendation
     retrieved_names = [p["name"] for p in retrieved_players]
     recommended_names = [name for name in retrieved_names if name in full_response]
+    recommended_names = list(dict.fromkeys(recommended_names))  # <-- this removes duplicates
+
 
 
     return full_response, recommended_names[:2]  # return top 2 names
