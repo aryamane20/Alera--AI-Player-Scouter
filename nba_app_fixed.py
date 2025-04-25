@@ -105,10 +105,14 @@ if st.button("Find Players"):
         st.markdown(f"{name}")
 
         encoded_name = urllib.parse.quote(name)
-        tableau_url = f"{tableau_base_url}?:language=en&PlayerParam={encoded_name}"
+        tableau_url = f"{tableau_base_url}?:embed=yes&:showVizHome=no&PlayerParam={encoded_name}"
 
         st.markdown("#### 📊 Stat Overview")
         st.write("🔗 Tableau URL:", tableau_url)
         st.components.v1.iframe(tableau_url, height=600, width=1000)
 
-        st.markdown("---")
+        st.markdown(
+        f'<a href="{tableau_url}" target="_blank">🔗 View Stats for {name}</a>',
+        unsafe_allow_html=True
+    )
+
