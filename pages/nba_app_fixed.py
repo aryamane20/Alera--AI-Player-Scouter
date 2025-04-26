@@ -96,7 +96,7 @@ After listing all players, give a final recommendation for the best overall fit.
         else:
             detailed_recommendations[name] = "No detailed recommendation found."
 
-        # Extract final summary
+    # Extract final summary
     final_summary = "No final best fit recommendation was provided."
 
     if "Final Best Fit Recommendation" in full_response:
@@ -106,6 +106,8 @@ After listing all players, give a final recommendation for the best overall fit.
         else:
             final_summary = "No final best fit recommendation was provided."
 
+    # Proper return
+    return final_summary, recommended_names, detailed_recommendations
 
 # --- Streamlit UI Setup ---
 st.set_page_config(page_title="Alera – Player Scouter", layout="wide", page_icon="🏀")
