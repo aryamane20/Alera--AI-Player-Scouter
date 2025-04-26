@@ -34,7 +34,7 @@ def retrieve_players(query, model, index, player_chunks, k=5):
 
 # Smart query formatting
 def format_query_for_embedding(query):
-    match = re.search(r"(19|20)\\d{2}", query)
+    match = re.search(r"(19|20)\d{2}", query)
     if match:
         year = match.group(0)
         return f"{year} draft class: {query}"
@@ -45,8 +45,8 @@ def recommend_players_with_deepseek(query, retrieved_players):
     if not retrieved_players:
         return "No matching players found.", [], {}
 
-    context = "\\n\\n".join([p["chunk"] for p in retrieved_players])
-    match = re.search(r"(19|20)\\d{2}", query)
+    context = "\n\n".join([p["chunk"] for p in retrieved_players])
+    match = re.search(r"(19|20)\d{2}", query)
     draft_year = match.group(0) if match else None
 
     system_msg = (
@@ -56,16 +56,16 @@ def recommend_players_with_deepseek(query, retrieved_players):
         "You are an expert NBA scout assistant helping identify ideal draft picks."
     )
 
-    prompt = f\"\"\"
+    prompt = f"""
 Scouting Query: {query}
 
 Here are some potential players:
 {context}
 
-Based on the query, suggest 3-4 ideal players. 
+Based on the query, suggest 3-4 ideal players.
 For each player, give a short paragraph explaining why they are a good fit.
 After listing all players, give a final recommendation for the best overall fit.
-\"\"\"
+"""
 
     response = client.chat.completions.create(
         model="deepseek-chat",
@@ -78,8 +78,8 @@ After listing all players, give a final recommendation for the best overall fit.
 
     full_response = response.choices[0].message.content
 
-    # Remove any extra suggestions like \"Would you like deeper stats...\"
-    full_response = full_response.split(\"Would you like deeper stats\")[0].strip()
+    # Remove any extra suggestions like "Would you like deeper stats..."
+    full_response = full_response.split("Would you like deeper stats")[0].strip()
 
     # Heuristic: extract player names
     retrieved_names = [p["name"] for p in retrieved_players]
@@ -89,17 +89,17 @@ After listing all players, give a final recommendation for the best overall fit.
     # Extract individual player recommendations
     detailed_recommendations = {}
     for name in recommended_names:
-        pattern = rf\"{name}(.*?)\\n\\n\"
+        pattern = rf"{name}(.*?)(\n\n|$)"
         match = re.search(pattern, full_response, re.DOTALL)
         if match:
             detailed_recommendations[name] = match.group(1).strip()
         else:
-            detailed_recommendations[name] = \"No detailed recommendation found.\"
+            detailed_recommendations[name] = "No detailed recommendation found."
 
     # Extract final summary
-    final_summary = \"Final Best Fit Recommendation:\"
-    if \"Final Best Fit Recommendation\" in full_response:
-        final_summary = full_response.split(\"Final Best Fit Recommendation\")[-1].strip()
+    final_summary = "Final Best Fit Recommendation:"
+    if "Final Best Fit Recommendation" in full_response:
+        final_summary = full_response.split("Final Best Fit Recommendation")[-1].strip()
 
     return final_summary, recommended_names[:2], detailed_recommendations  # Return top 2 names
 
