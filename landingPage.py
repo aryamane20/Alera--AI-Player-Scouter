@@ -125,4 +125,4 @@ Built for the next generation of stars.
 
 # Button to Go to Scouting App
 if st.button("Go to Scouting App"):
-    st.switch_page("nba_scout_app.py")
+    st.switch_page("nba_app_fixed.py")
