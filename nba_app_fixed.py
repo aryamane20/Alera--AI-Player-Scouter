@@ -86,69 +86,43 @@ Based on the query, suggest 1–2 ideal players and explain why.
     return full_response, recommended_names[:2]  # return top 2 names
 
 
-# Streamlit UI
-st.set_page_config(page_title="Alera", layout="wide", page_icon="🏀")
+# --- Streamlit UI Setup ---
+st.set_page_config(page_title="Alera – Player Scouter", layout="wide", page_icon="🏀")
 
 # Display Logo + App Title
-logo = Image.open("Logo.png")
+logo = Image.open("alera_logo.png")
 st.image(logo, width=60)
-st.markdown("## **Alera – Your Vision, Their Future**")
+st.markdown("## **Alera – NBA Draft Player Scouter**")
 
-#input query
+# --- User Input ---
 query = st.text_input("🔍 Enter your scouting query:", "Stretch 4 who can shoot 3s and rebound (2025 draft class)")
 
+# Initialize session state to track button press
+if "button_pressed" not in st.session_state:
+    st.session_state.button_pressed = False
+
+# Handle Button Press
 if st.button("🔎 Find Players"):
-    formatted_query = format_query_for_embedding(query)
-    retrieved = retrieve_players(formatted_query, embedding_model, index, player_data)
-    response, recommended_names = recommend_players_with_deepseek(query, retrieved)
+    st.session_state.button_pressed = True
+
+# Only run this AFTER button was clicked
+if st.session_state.button_pressed:
+    with st.spinner('Finding the best players... 🏀'):
+        formatted_query = format_query_for_embedding(query)
+        retrieved = retrieve_players(formatted_query, embedding_model, index, player_data)
+        response, recommended_names = recommend_players_with_deepseek(query, retrieved)
+
+    st.success("Recommendations ready!")
 
     tableau_base_url = "https://public.tableau.com/views/Player_Stats_17453432818390/playerstats"
 
-    st.markdown("## 📊 **Player Stats for Recommended Players**")
-
+    st.markdown("## **Player Stats for Recommended Players**")
     for name in recommended_names:
-        st.markdown(f"### **{name}**")
+        st.markdown(f"### 👤 **{name}**")
         encoded_name = urllib.parse.quote(name)
         tableau_url = f"{tableau_base_url}?:embed=yes&:showVizHome=no&PlayerParam={encoded_name}"
         st.components.v1.iframe(tableau_url, height=850, width=1200)
         st.markdown("---")
 
-    st.markdown("## **AI Recommendation: Best Fit Summary**")
-    st.markdown(response)
-
-    formatted_query = format_query_for_embedding(query)
-    retrieved = retrieve_players(formatted_query, embedding_model, index, player_data)
-    response, recommended_names = recommend_players_with_deepseek(query, retrieved)
-
-    tableau_base_url = "https://public.tableau.com/views/Player_Stats_17453432818390/playerstats"
-
-    st.markdown("## 📊 **Player Stats for Recommended Players**")
-
-    for name in recommended_names:
-        st.markdown(f"### **{name}**")
-        encoded_name = urllib.parse.quote(name)
-        tableau_url = f"{tableau_base_url}?:embed=yes&:showVizHome=no&PlayerParam={encoded_name}"
-        st.components.v1.iframe(tableau_url, height=850, width=1200)
-        st.markdown("---")
-
-    st.markdown("## **AI Recommendation: Best Fit Summary**")
-    st.markdown(response)
-    formatted_query = format_query_for_embedding(query)
-    retrieved = retrieve_players(formatted_query, embedding_model, index, player_data)
-    response, recommended_names = recommend_players_with_deepseek(query, retrieved)
-
-    tableau_base_url = "https://public.tableau.com/views/Player_Stats_17453432818390/playerstats"
-
-    st.markdown("## **📊 Player Stats for Recommended Players**")
-
-    for name in recommended_names:
-        st.markdown(f"**{name}**")
-        encoded_name = urllib.parse.quote(name)
-        tableau_url = f"{tableau_base_url}?:embed=yes&:showVizHome=no&PlayerParam={encoded_name}"
-
-        st.components.v1.iframe(tableau_url, height=850, width=1200)
-        st.markdown("---")
-
-    # AI recommendation to the bottom
     st.markdown("## **AI Recommendation: Best Fit Summary**")
     st.markdown(response)
