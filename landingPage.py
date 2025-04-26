@@ -70,7 +70,7 @@ st.markdown("""</div>""", unsafe_allow_html=True)
  
 # Hero Section
 st.markdown("""
-# **Alera – NBA Draft Player Scouter**
+# **Alera – Player Scouter**
 ### _"Your Vision, Their Future."_
 """)
  
@@ -95,7 +95,7 @@ st.write("\n" * 3)
 st.markdown("""
 ## About Alera
 Alera empowers scouts, coaches, and managers by providing AI-powered player recommendations. 
-Our system intelligently blends advanced player stats with qualitative scouting insights to help you find the perfect draft pick.
+Our system intelligently blends player stats with qualitative scouting insights to help you find the perfect player for your team.
 """)
  
 # Features Section
@@ -124,5 +124,5 @@ Built for the next generation of stars.
 """)
 
 # Button to Go to Scouting App
-if st.button("Go to Scouting App"):
-    st.switch_page("nba_app_fixed.py")
+if st.button("Let's go Scouting!"):
+    st.switch_page("pages/nba_app_fixed.py")
