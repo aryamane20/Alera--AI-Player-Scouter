@@ -62,7 +62,7 @@ Scouting Query: {query}
 Here are some potential players:
 {context}
 
-Based on the query, suggest 1–2 ideal players and explain why.
+Based on the query, suggest 3-4 ideal players and explain why.
 """
 
     response = client.chat.completions.create(
@@ -116,13 +116,19 @@ if st.session_state.button_pressed:
 
     tableau_base_url = "https://public.tableau.com/views/Player_Stats_17453432818390/playerstats"
 
-    st.markdown("## **Player Stats for Recommended Players**")
+    # 🏀 New flow: loop through players one-by-one
+    st.markdown("## **Recommended Players**")
+
     for name in recommended_names:
         st.markdown(f"### 👤 **{name}**")
+
+        # Tableau dashboard immediately after name
         encoded_name = urllib.parse.quote(name)
         tableau_url = f"{tableau_base_url}?:embed=yes&:showVizHome=no&PlayerParam={encoded_name}"
         st.components.v1.iframe(tableau_url, height=850, width=1200)
+
         st.markdown("---")
 
+    # 🏆 Final fit recommendation after all players
     st.markdown("## **AI Recommendation: Best Fit Summary**")
     st.markdown(response)
