@@ -90,7 +90,7 @@ Based on the query, suggest 1–2 ideal players and explain why.
 st.set_page_config(page_title="Alera – Player Scouter", layout="wide", page_icon="🏀")
 
 # Display Logo + App Title
-logo = Image.open("alera_logo.png")
+logo = Image.open("Logo.png")
 st.image(logo, width=60)
 st.markdown("## **Alera – NBA Draft Player Scouter**")
 
