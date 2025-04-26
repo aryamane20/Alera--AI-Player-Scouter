@@ -96,12 +96,16 @@ After listing all players, give a final recommendation for the best overall fit.
         else:
             detailed_recommendations[name] = "No detailed recommendation found."
 
-    # Extract final summary
-    final_summary = "Final Best Fit Recommendation:"
-    if "Final Best Fit Recommendation" in full_response:
-        final_summary = full_response.split("Final Best Fit Recommendation")[-1].strip()
+        # Extract final summary
+    final_summary = "No final best fit recommendation was provided."
 
-    return final_summary, recommended_names[:2], detailed_recommendations  # Return top 2 names
+    if "Final Best Fit Recommendation" in full_response:
+        parts = full_response.split("Final Best Fit Recommendation")
+        if len(parts) > 1:
+            final_summary = parts[-1].strip()
+        else:
+            final_summary = "No final best fit recommendation was provided."
+
 
 # --- Streamlit UI Setup ---
 st.set_page_config(page_title="Alera – Player Scouter", layout="wide", page_icon="🏀")
