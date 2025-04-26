@@ -100,7 +100,7 @@ Our system intelligently blends advanced player stats with qualitative scouting 
  
 # Features Section
 st.markdown("""
-## Features <a id='features'></a>
+## Features
 - **AI-Powered Player Scouting**
 - **Deep Analytics and Player Comparisons**
 - **Custom Attribute Search**
