@@ -1,9 +1,9 @@
 import streamlit as st
+from openai import OpenAI
 import json
 import faiss
 import numpy as np
 from sentence_transformers import SentenceTransformer
-from openai import OpenAI
 import re
 import urllib.parse
 
