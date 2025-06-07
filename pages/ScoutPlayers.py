@@ -6,8 +6,7 @@ from sentence_transformers import SentenceTransformer
 from openai import OpenAI
 import re
 import urllib.parse
-import os
-from dotenv import load_dotenv
+
 
 # ---------------------
 # 🔧 Setup
@@ -33,8 +32,7 @@ st.markdown("""
 
 # Load the key
 
-load_dotenv()
-api_key = os.getenv("OPENAI_API_KEY")
+api_key = st.secrets["OPENAI_API_KEY"]
 
 # Hardcode DeepSeek base URL
 client = OpenAI(
