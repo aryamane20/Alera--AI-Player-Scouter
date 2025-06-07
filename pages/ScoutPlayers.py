@@ -188,7 +188,6 @@ if find_clicked:
                 else:
                     tableau_base_url = "https://public.tableau.com/views/Player_Stats_17453432818390/playerstats"
 
-
                 for name in recommended_names:
                     encoded_name = urllib.parse.quote(name)
                     url = f"{tableau_base_url}?:language=en&PlayerParam={encoded_name}"
