@@ -189,10 +189,11 @@ if find_clicked:
                     tableau_base_url = "https://public.tableau.com/views/Player_Stats_17453432818390/playerstats"
 
                 for name in recommended_names:
-                    encoded_name = urllib.parse.quote(name)
-                    url = f"{tableau_base_url}?:language=en&PlayerParam={encoded_name}"
-                    st.markdown(f"**{name}**")
-                    st.components.v1.iframe(url, height=500)
-                    st.markdown("---")
+                   encoded_name = urllib.parse.quote(name)
+                   tableau_url = (f"{tableau_base_url}?:embed=yes&:showVizHome=no&PlayerParam={encoded_name}")
+                   st.components.v1.iframe(tableau_url, height=850, width=1200)
+                   st.markdown(f"#### {name}")
+                   st.components.v1.iframe(tableau_url, height=850, width=1200)
+                   st.markdown("---")
     except Exception as e:
             st.error(f"Error: {e}")
