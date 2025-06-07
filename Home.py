@@ -11,7 +11,7 @@ st.set_page_config(
 # ---------------------
 # 🔁 Load + Encode Logo
 # ---------------------
-logo = Image.open("/Users/aryamane/Desktop/Projects/nba-draft-scout-app-cloned/Logo.png")  # Update path if needed
+logo = Image.open("Logo.png")  # Update path if needed
 buffered = BytesIO()
 logo.save(buffered, format="PNG")
 logo_b64 = base64.b64encode(buffered.getvalue()).decode()

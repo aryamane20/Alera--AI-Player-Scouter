@@ -48,18 +48,18 @@ embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
 # Load FAISS index based on player type
 def load_index(player_type):
     if player_type == "Draft":
-        return faiss.read_index("/Users/aryamane/Desktop/Projects/nba-draft-scout-app-cloned/faiss_draft_index/index.faiss")
+        return faiss.read_index("faiss_draft_index/index.faiss")
     else:
-        return faiss.read_index("/Users/aryamane/Desktop/Projects/nba-draft-scout-app-cloned/faiss_midseason_index/index.faiss")
+        return faiss.read_index("faiss_midseason_index/index.faiss")
 
 
 # Load player chunks
 def load_chunks(player_type):
     if player_type == "Draft":
-        with open("/Users/aryamane/Desktop/Projects/nba-draft-scout-app-cloned/player_chunks_with_draft_year_in_chunk.json", "r", encoding="utf-8") as f:
+        with open("player_chunks_with_draft_year_in_chunk.json", "r", encoding="utf-8") as f:
             return json.load(f)
     else:
-        with open("/Users/aryamane/Desktop/Projects/nba-draft-scout-app-cloned/midtrade_player_chunks_cleaned.json", "r", encoding="utf-8") as f:
+        with open("midtrade_player_chunks_cleaned.json", "r", encoding="utf-8") as f:
             return json.load(f)
 
 # Retrieve top-k similar players
