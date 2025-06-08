@@ -185,9 +185,9 @@ if find_clicked:
                 st.markdown("### Player Dashboards")
                 shown_names = set()
                 if player_type == "Draft":
-                    tableau_base_url = "https://public.tableau.com/views/Player_Stats_17453432818390/playerstats"
+                    tableau_base_url = "https://public.tableau.com/views/Player_Stats_17453432818390/PlayerOverview"
                 else:
-                    tableau_base_url = "https://public.tableau.com/views/Player_Stats_17453432818390/playerstats"
+                    tableau_base_url = "https://public.tableau.com/views/MidtradeStats/MidtradeStats"
 
                 for name in recommended_names:
                    name = name.strip()
