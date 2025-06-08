@@ -183,17 +183,21 @@ if find_clicked:
 
             if recommended_names:
                 st.markdown("### Player Dashboards")
+                shown_names = set()
                 if player_type == "Draft":
                     tableau_base_url = "https://public.tableau.com/views/Player_Stats_17453432818390/playerstats"
                 else:
                     tableau_base_url = "https://public.tableau.com/views/Player_Stats_17453432818390/playerstats"
 
                 for name in recommended_names:
-                   encoded_name = urllib.parse.quote(name)
-                   tableau_url = (f"{tableau_base_url}?:embed=yes&:showVizHome=no&PlayerParam={encoded_name}")
-                   st.components.v1.iframe(tableau_url, height=850, width=1200)
-                   st.markdown(f"#### {name}")
-                   st.components.v1.iframe(tableau_url, height=850, width=1200)
-                   st.markdown("---")
+                   name = name.strip()
+                   if name and name not in shown_names:
+                    encoded_name = urllib.parse.quote(name)
+                    tableau_url = (f"{tableau_base_url}?:embed=yes&:showVizHome=no&PlayerParam={encoded_name}")
+                    st.components.v1.iframe(tableau_url, height=850, width=1200)
+                    st.markdown(f"#### {name}")
+                    st.components.v1.iframe(tableau_url, height=850, width=1200)
+                    st.markdown("---")
+                    shown_names.add(name)
     except Exception as e:
             st.error(f"Error: {e}")
