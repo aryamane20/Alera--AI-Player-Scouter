@@ -135,3 +135,7 @@ st.markdown("""
 ---
 Built for the next generation of stars.
 """)
+st.markdown("""
+---
+👨‍💻 Developed by **Arya Mane** and **Ameya Phansalkar**
+""")
