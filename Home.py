@@ -137,7 +137,7 @@ Built for the next generation of stars.
 """)
 st.markdown("""
     <hr style="margin-top: 50px;"/>
-    <div style='text-align: right; font-size: 0.9em; color: gray;'>
-        © Developed by **Arya Mane** and **Ameya Phansalkar**
+    <div style='text-align: right; font-size: 0.9em; color: black;'>
+        © Developed by Arya Mane and Ameya Phansalkar
     </div>
 """, unsafe_allow_html=True)
