@@ -9,7 +9,7 @@ import urllib.parse
 
 
 # ---------------------
-# 🔧 Setup
+# Setup
 # ---------------------
 
 st.set_page_config(
@@ -39,7 +39,7 @@ client = OpenAI(
     api_key=api_key,
     base_url="https://api.deepseek.com/v1"
 )
-print("Loaded key:", api_key[:8], "...")  # ✅ Should show the correct prefix
+print("Loaded key:", api_key[:8], "...") 
 
 embedding_model = SentenceTransformer("all-MiniLM-L6-v2")
 
@@ -115,7 +115,7 @@ Based on the query, suggest 1–2 ideal players and explain why. Do not mention 
     return full_response, recommended_names[:2]
 
 # ---------------------
-# 🎨 Streamlit UI (Minimal OpenAI Style)
+# Streamlit UI
 # ---------------------
 st.markdown("<h1 style='text-align: center;'>Alera</h1>", unsafe_allow_html=True)
 st.markdown("<h3 style='text-align: center; color: gray;'>Your Vision. Their Future.</h3>", unsafe_allow_html=True)
@@ -195,7 +195,7 @@ if find_clicked:
                     encoded_name = urllib.parse.quote(name)
                     tableau_url = (f"{tableau_base_url}?:embed=yes&:showVizHome=no&PlayerParam={encoded_name}")
                     st.markdown(f"#### {name}")
-                    st.components.v1.iframe(tableau_url, height=850, width=1200)
+                    st.components.v1.iframe(tableau_url, height=850, width=1300)
                     st.markdown("---")
                     shown_names.add(name)
     except Exception as e:

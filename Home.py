@@ -9,7 +9,7 @@ st.set_page_config(
     initial_sidebar_state="collapsed")
 
 # ---------------------
-# 🔁 Load + Encode Logo
+# Load + Encode Logo
 # ---------------------
 logo = Image.open("Logo.png")  # Update path if needed
 buffered = BytesIO()
@@ -17,7 +17,7 @@ logo.save(buffered, format="PNG")
 logo_b64 = base64.b64encode(buffered.getvalue()).decode()
 
 # ---------------------
-# 💅 Custom CSS Styling
+# Custom CSS Styling
 # ---------------------
 st.markdown("""
     <style>
@@ -57,7 +57,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # ---------------------
-# 👤 Branding Block
+# Branding Block
 # ---------------------
 st.markdown(f"""
     <div style="text-align: center; padding-top: 80px;">
@@ -70,7 +70,7 @@ st.markdown(f"""
 """, unsafe_allow_html=True)
 
 # ---------------------
-# 🔘 Let's Go Button
+# Let's Go Button
 # ---------------------
 clicked = st.markdown("""
     <div style="text-align: center; margin-top: 5px;">
@@ -98,7 +98,7 @@ if st.query_params.get("nav") == "ScoutPlayers":
 
 
 # ---------------------
-# 📌 About Section
+# About Section
 # ---------------------
 st.markdown("""
 ## About Alera
@@ -107,7 +107,7 @@ Our system intelligently blends player stats with qualitative scouting insights 
 """)
 
 # ---------------------
-# 🔍 Features Section
+# Features Section
 # ---------------------
 st.markdown("""
 ## Features
@@ -119,7 +119,7 @@ st.markdown("""
 """)
 
 # ---------------------
-# 🧠 How It Works Section
+# How It Works Section
 # ---------------------
 st.markdown("""
 ## How It Works
@@ -129,7 +129,7 @@ st.markdown("""
 """)
 
 # ---------------------
-# 🦶 Footer
+# Footer
 # ---------------------
 st.markdown("""
 ---
@@ -137,5 +137,8 @@ Built for the next generation of stars.
 """)
 st.markdown("""
 ---
-👨‍💻 Developed by **Arya Mane** and **Ameya Phansalkar**
+    <hr style="margin-top: 50px;"/>
+    <div style='text-align: right; font-size: 0.9em; color: gray;'>
+        © Developed by **Arya Mane** and **Ameya Phansalkar**
+    </div>
 """)
