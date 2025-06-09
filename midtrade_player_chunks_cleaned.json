@@ -1,0 +1,1774 @@
+[
+  {
+    "name": "Precious Achiuwa",
+    "chunk": "Player: Precious Achiuwa\nHeight: 6-8, Weight: 243 lbs\nPros: Athletic forward, versatile defender, solid finisher around the rim\nCons: Lacks consistent outside shot, still developing offensive game, decision-making can be shaky\nStats: PPG: 6.0, RPG: 5.0, APG: 0.8, BPG: 0.6, SPG: 0.7, FG%: 49.9, FT%: 58.9, 3P%: 27.0"
+  },
+  {
+    "name": "Steven Adams",
+    "chunk": "Player: Steven Adams\nHeight: 6-11, Weight: 265 lbs\nPros: Elite offensive rebounder, great screen setter, strong physical presence\nCons: Limited scoring threat, poor free-throw shooter, not a floor spacer\nStats: PPG: 4.1, RPG: 5.7, APG: 1.1, BPG: 0.6, SPG: 0.4, FG%: 55.1, FT%: 48.0, 3P%: 0.0"
+  },
+  {
+    "name": "Bam Adebayo",
+    "chunk": "Player: Bam Adebayo\nHeight: 6-9, Weight: 255 lbs\nPros: Versatile defender, capable playmaker, excellent mid-range touch\nCons: Lacks elite size for center, inconsistent perimeter shooting, not a high-volume scorer\nStats: PPG: 18.0, RPG: 9.7, APG: 4.3, BPG: 0.7, SPG: 1.3, FG%: 48.2, FT%: 75.7, 3P%: 34.9"
+  },
+  {
+    "name": "Ochai Agbaji",
+    "chunk": "Player: Ochai Agbaji\nHeight: 6-5, Weight: 215 lbs\nPros: Solid 3-and-D potential, good athlete, plays with energy\nCons: Limited shot creation, inconsistent handle, needs to refine offensive skills\nStats: PPG: 10.4, RPG: 3.8, APG: 1.5, BPG: 0.5, SPG: 0.9, FG%: 49.8, FT%: 70.8, 3P%: 39.9"
+  },
+  {
+    "name": "Santi Aldama",
+    "chunk": "Player: Santi Aldama\nHeight: 7-0, Weight: 215 lbs\nPros: Skilled big man, good outside shooter, capable passer\nCons: Needs to add strength, can be inconsistent defensively, lacks elite athleticism\nStats: PPG: 12.5, RPG: 6.4, APG: 2.8, BPG: 0.4, SPG: 0.7, FG%: 48.4, FT%: 70.1, 3P%: 37.0"
+  },
+  {
+    "name": "Trey Alexander",
+    "chunk": "Player: Trey Alexander\nHeight: 6-4, Weight: 185 lbs\nPros: Smooth shooter, effective pick-and-roll playmaker, good size for a guard\nCons: Not elite athletically, needs strength, inconsistent defensive impact\nStats: PPG: 1.3, RPG: 0.5, APG: 0.5, BPG: 0.0, SPG: 0.1, FG%: 31.7, FT%: 75.0, 3P%: 17.6"
+  },
+  {
+    "name": "Nickeil Alexander-Walker",
+    "chunk": "Player: Nickeil Alexander-Walker\nHeight: 6-5, Weight: 205 lbs\nPros: Combo guard with defensive versatility, good ball movement, improving three-point shot\nCons: Streaky scorer, turnover-prone, inconsistent decision-making\nStats: PPG: 9.3, RPG: 3.0, APG: 2.7, BPG: 0.4, SPG: 0.6, FG%: 43.1, FT%: 79.3, 3P%: 37.6"
+  },
+  {
+    "name": "Grayson Allen",
+    "chunk": "Player: Grayson Allen\nHeight: 6-4, Weight: 198 lbs\nPros: Good outside shooter, high-energy defender, cuts well off the ball\nCons: Undersized defensively, limited playmaking, past discipline concerns\nStats: PPG: 10.6, RPG: 3.0, APG: 2.1, BPG: 0.3, SPG: 0.8, FG%: 44.8, FT%: 81.6, 3P%: 42.6"
+  },
+  {
+    "name": "Jarrett Allen",
+    "chunk": "Player: Jarrett Allen\nHeight: 6-9, Weight: 243 lbs\nPros: Great rim protector, strong finisher, high efficiency scorer\nCons: Limited offensive game outside the paint, not a floor spacer, struggles at free throws\nStats: PPG: 13.5, RPG: 9.6, APG: 1.9, BPG: 0.9, SPG: 1.0, FG%: 70.8, FT%: 74.4, 3P%: 0.0"
+  },
+  {
+    "name": "Jose Alvarado",
+    "chunk": "Player: Jose Alvarado\nHeight: 6-0, Weight: 179 lbs\nPros: Pesky perimeter defender, great hustle, good vision as a playmaker\nCons: Undersized, inconsistent shooting, limited finishing in traffic\nStats: PPG: 10.3, RPG: 2.4, APG: 4.6, BPG: 0.2, SPG: 1.3, FG%: 39.2, FT%: 81.1, 3P%: 35.9"
+  },
+  {
+    "name": "Kyle Anderson",
+    "chunk": "Player: Kyle Anderson\nHeight: 6-9, Weight: 230 lbs\nPros: High IQ, versatile on both ends, good playmaker for his size\nCons: Slow-footed, not a consistent shooter, lacks vertical pop\nStats: PPG: 5.6, RPG: 3.2, APG: 2.4, BPG: 0.6, SPG: 0.6, FG%: 46.5, FT%: 71.6, 3P%: 36.6"
+  },
+  {
+    "name": "Giannis Antetokounmpo",
+    "chunk": "Player: Giannis Antetokounmpo\nHeight: 6-11, Weight: 243 lbs\nPros: Elite athleticism, dominant scorer, versatile defender, strong playmaker\nCons: Poor free-throw shooter, limited shooting range, can be turnover-prone\nStats: PPG: 30.5, RPG: 12.2, APG: 6.5, BPG: 1.2, SPG: 0.9, FG%: 60.1, FT%: 62.2, 3P%: 22.1"
+  },
+  {
+    "name": "Cole Anthony",
+    "chunk": "Player: Cole Anthony\nHeight: 6-2, Weight: 185 lbs\nPros: Quick first step, confident scorer, can shoot off the dribble\nCons: Inconsistent decision-making, defensive limitations, streaky shooting\nStats: PPG: 9.1, RPG: 2.9, APG: 2.8, BPG: 0.5, SPG: 0.6, FG%: 42.5, FT%: 82.4, 3P%: 34.8"
+  },
+  {
+    "name": "OG Anunoby",
+    "chunk": "Player: OG Anunoby\nHeight: 6-7, Weight: 240 lbs\nPros: Elite wing defender, good corner three shooter, physical and strong\nCons: Not a great shot creator, injury history, limited passing vision\nStats: PPG: 17.7, RPG: 4.8, APG: 2.0, BPG: 0.9, SPG: 1.6, FG%: 46.5, FT%: 81.0, 3P%: 36.5"
+  },
+  {
+    "name": "Taran Armstrong",
+    "chunk": "Player: Taran Armstrong\nHeight: 6-5, Weight: 190 lbs\nPros: High-level passer, tall point guard, good pick-and-roll operator\nCons: Needs to improve scoring efficiency, lacks burst, untested against top competition\nStats: PPG: 0.0, RPG: 0.0, APG: 0.0, BPG: 0.0, SPG: 0.0, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Deni Avdija",
+    "chunk": "Player: Deni Avdija\nHeight: 6-9, Weight: 240 lbs\nPros: Strong passer, good size for forward, improved defender\nCons: Inconsistent shooter, limited scoring creativity, still raw offensively\nStats: PPG: 16.9, RPG: 7.2, APG: 3.9, BPG: 0.5, SPG: 1.0, FG%: 47.6, FT%: 78.0, 3P%: 36.5"
+  },
+  {
+    "name": "Deandre Ayton",
+    "chunk": "Player: Deandre Ayton\nHeight: 7-0, Weight: 252 lbs\nPros: Strong rebounder, soft touch around the rim, good mid-range shooter\nCons: Inconsistent motor, not a rim protector, lacks passing vision\nStats: PPG: 14.4, RPG: 10.2, APG: 1.6, BPG: 1.0, SPG: 0.8, FG%: 56.6, FT%: 66.7, 3P%: 18.8"
+  },
+  {
+    "name": "Marvin Bagley III",
+    "chunk": "Player: Marvin Bagley III\nHeight: 6-10, Weight: 235 lbs\nPros: Good athleticism, solid inside finisher, decent rebounder\nCons: Injury-prone, poor defender, limited range and versatility\nStats: PPG: 4.7, RPG: 2.8, APG: 0.3, BPG: 0.3, SPG: 0.3, FG%: 54.1, FT%: 65.7, 3P%: 19.0"
+  },
+  {
+    "name": "Marcus Bagley",
+    "chunk": "Player: Marcus Bagley\nHeight: 6-6, Weight: 217 lbs\nPros: Strong frame, decent outside shooter, potential as a 3-and-D wing\nCons: Injury history, still raw, inconsistent production\nStats: PPG: 6.7, RPG: 7.0, APG: 1.0, BPG: 1.2, SPG: 0.9, FG%: 39.1, FT%: 80.0, 3P%: 15.6"
+  },
+  {
+    "name": "Patrick Baldwin, Jr.",
+    "chunk": "Player: Patrick Baldwin, Jr.\nHeight: 6-9, Weight: 220 lbs\nPros: Smooth shooting stroke, good size, potential as a stretch four\nCons: Lacks elite mobility, needs to improve defense and rebounding, low college efficiency\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "LaMelo Ball",
+    "chunk": "Player: LaMelo Ball\nHeight: 6-7, Weight: 180 lbs\nPros: Elite passer, excellent court vision, great handle and creativity, strong rebounder for a guard\nCons: Injury-prone, inconsistent shooting efficiency, defensive effort can fluctuate\nStats: PPG: 25.2, RPG: 4.9, APG: 7.4, BPG: 0.3, SPG: 1.1, FG%: 40.5, FT%: 84.3, 3P%: 33.9"
+  },
+  {
+    "name": "Lonzo Ball",
+    "chunk": "Player: Lonzo Ball\nHeight: 6-6, Weight: 190 lbs\nPros: Strong perimeter defender, improved three-point shooting, unselfish playmaker\nCons: Chronic injury issues, struggles scoring inside, average free-throw shooter\nStats: PPG: 7.6, RPG: 3.4, APG: 3.3, BPG: 0.5, SPG: 1.3, FG%: 36.6, FT%: 81.5, 3P%: 34.4"
+  },
+  {
+    "name": "Paolo Banchero",
+    "chunk": "Player: Paolo Banchero\nHeight: 6-10, Weight: 250 lbs\nPros: Versatile scorer, strong playmaker for size, physical presence in the paint\nCons: Inconsistent three-point shooter, can be turnover-prone, defense still developing\nStats: PPG: 26.1, RPG: 7.6, APG: 4.8, BPG: 0.6, SPG: 0.8, FG%: 44.8, FT%: 72.3, 3P%: 32.8"
+  },
+  {
+    "name": "Desmond Bane",
+    "chunk": "Player: Desmond Bane\nHeight: 6-5, Weight: 215 lbs\nPros: Elite three-point shooter, strong and physical, reliable defender\nCons: Limited off-the-dribble creativity, undersized for a wing, average playmaker\nStats: PPG: 19.2, RPG: 6.1, APG: 5.3, BPG: 0.4, SPG: 1.1, FG%: 47.6, FT%: 90.0, 3P%: 38.6"
+  },
+  {
+    "name": "Dalano Banton",
+    "chunk": "Player: Dalano Banton\nHeight: 6-8, Weight: 203 lbs\nPros: Tall guard with playmaking ability, good transition player, active defensively\nCons: Inconsistent shooter, turnover-prone, needs to develop offensive polish\nStats: PPG: 8.3, RPG: 2.0, APG: 2.4, BPG: 0.5, SPG: 0.6, FG%: 39.1, FT%: 72.8, 3P%: 32.4"
+  },
+  {
+    "name": "Dominick Barlow",
+    "chunk": "Player: Dominick Barlow\nHeight: 6-8, Weight: 215 lbs\nPros: Athletic big with defensive potential, good finisher around the rim, active rebounder\nCons: Raw offensive game, limited shooting range, needs experience and polish\nStats: PPG: 4.3, RPG: 2.4, APG: 0.5, BPG: 0.5, SPG: 0.2, FG%: 52.6, FT%: 67.6, 3P%: 25.0"
+  },
+  {
+    "name": "Harrison Barnes",
+    "chunk": "Player: Harrison Barnes\nHeight: 6-8, Weight: 225 lbs\nPros: Reliable scorer, experienced veteran, solid defender\nCons: Not a playmaker, can disappear offensively, limited ceiling\nStats: PPG: 12.3, RPG: 3.8, APG: 1.7, BPG: 0.2, SPG: 0.5, FG%: 50.8, FT%: 80.9, 3P%: 43.3"
+  },
+  {
+    "name": "Scottie Barnes",
+    "chunk": "Player: Scottie Barnes\nHeight: 6-7, Weight: 237 lbs\nPros: Excellent defender, versatile playmaker, strong finisher\nCons: Inconsistent jumper, turnover-prone at times, still developing offensive game\nStats: PPG: 19.3, RPG: 7.7, APG: 5.8, BPG: 1.0, SPG: 1.4, FG%: 44.6, FT%: 75.5, 3P%: 27.1"
+  },
+  {
+    "name": "R.J. Barrett",
+    "chunk": "Player: R.J. Barrett\nHeight: 6-6, Weight: 214 lbs\nPros: Aggressive scorer, strong slasher, solid size and strength for a wing\nCons: Streaky shooter, inconsistent defense, lacks elite playmaking\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Charles Bassey",
+    "chunk": "Player: Charles Bassey\nHeight: 6-10, Weight: 230 lbs\nPros: Strong rebounder and shot-blocker, good interior finisher, physical defender\nCons: Limited offensive range, foul-prone, struggles with spacing\nStats: PPG: 4.4, RPG: 4.2, APG: 0.5, BPG: 0.8, SPG: 0.4, FG%: 58.1, FT%: 63.6, 3P%: nan"
+  },
+  {
+    "name": "Emoni Bates",
+    "chunk": "Player: Emoni Bates\nHeight: 6-8, Weight: 202 lbs\nPros: Natural scorer with deep shooting range, confident with the ball, good shot creator\nCons: Needs strength, poor shot selection, inconsistent defensively\nStats: PPG: 3.7, RPG: 0.7, APG: 0.8, BPG: 0.1, SPG: 0.1, FG%: 34.2, FT%: nan, 3P%: 36.7"
+  },
+  {
+    "name": "Jamison Battle",
+    "chunk": "Player: Jamison Battle\nHeight: 6-7, Weight: 220 lbs\nPros: Capable three-point shooter, good size for a wing, effective in catch-and-shoot\nCons: Limited off-the-dribble game, not elite defensively, inconsistent rebounding\nStats: PPG: 7.1, RPG: 2.7, APG: 0.9, BPG: 0.2, SPG: 0.3, FG%: 42.9, FT%: 88.9, 3P%: 40.5"
+  },
+  {
+    "name": "Nicolas Batum",
+    "chunk": "Player: Nicolas Batum\nHeight: 6-8, Weight: 230 lbs\nPros: Versatile defender, good passer, capable spot-up shooter\nCons: Inconsistent offensive aggressiveness, aging, not a high-usage player\nStats: PPG: 4.1, RPG: 2.9, APG: 1.2, BPG: 0.6, SPG: 0.7, FG%: 43.2, FT%: 81.0, 3P%: 42.8"
+  },
+  {
+    "name": "Damion Baugh",
+    "chunk": "Player: Damion Baugh\nHeight: 6-4, Weight: 194 lbs\nPros: Strong defender, good size for a guard, improving passer\nCons: Limited shooting, offensive game still developing, not an elite athlete\nStats: PPG: 7.3, RPG: 3.3, APG: 3.7, BPG: 0.1, SPG: 1.0, FG%: 32.3, FT%: 86.7, 3P%: 21.4"
+  },
+  {
+    "name": "Bradley Beal",
+    "chunk": "Player: Bradley Beal\nHeight: 6-4, Weight: 207 lbs\nPros: Prolific scorer, strong shot creator, capable passer\nCons: Injury concerns, average defender, can be inefficient at times\nStats: PPG: 17.0, RPG: 3.3, APG: 3.7, BPG: 0.5, SPG: 1.1, FG%: 49.7, FT%: 80.3, 3P%: 38.6"
+  },
+  {
+    "name": "Malik Beasley",
+    "chunk": "Player: Malik Beasley\nHeight: 6-4, Weight: 187 lbs\nPros: Sharp shooter, quick release, moves well off the ball\nCons: Defensive issues, not a playmaker, can be streaky\nStats: PPG: 16.1, RPG: 2.6, APG: 1.7, BPG: 0.1, SPG: 0.9, FG%: 42.7, FT%: 69.6, 3P%: 41.1"
+  },
+  {
+    "name": "MarJon Beauchamp",
+    "chunk": "Player: MarJon Beauchamp\nHeight: 6-7, Weight: 199 lbs\nPros: Athletic wing, good defender, high motor\nCons: Limited offensive polish, inconsistent jumper, struggles creating shots\nStats: PPG: 2.2, RPG: 1.2, APG: 0.3, BPG: 0.0, SPG: 0.1, FG%: 41.5, FT%: 75.0, 3P%: 34.5"
+  },
+  {
+    "name": "Reece Beekman",
+    "chunk": "Player: Reece Beekman\nHeight: 6-3, Weight: 190 lbs\nPros: Excellent perimeter defender, poised playmaker, quick hands\nCons: Needs shooting consistency, undersized, not a high-volume scorer\nStats: PPG: 2.5, RPG: 1.1, APG: 1.7, BPG: 0.1, SPG: 0.9, FG%: 32.7, FT%: 76.2, 3P%: 17.5"
+  },
+  {
+    "name": "Saddiq Bey",
+    "chunk": "Player: Saddiq Bey\nHeight: 6-7, Weight: 215 lbs\nPros: 3-and-D potential, strong body, reliable shooter\nCons: Inconsistent playmaking, streaky shooting, average on-ball defense\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Goga Bitadze",
+    "chunk": "Player: Goga Bitadze\nHeight: 6-10, Weight: 250 lbs\nPros: Strong interior presence, shot-blocker, mid-range touch\nCons: Struggles with athletic bigs, limited mobility, not a stretch big\nStats: PPG: 6.8, RPG: 6.3, APG: 1.9, BPG: 1.4, SPG: 0.7, FG%: 61.3, FT%: 63.9, 3P%: 10.7"
+  },
+  {
+    "name": "LaMelo Ball",
+    "chunk": "Player: LaMelo Ball\nHeight: 6-7, Weight: 180 lbs\nPros: Elite passer, excellent court vision, great handle and creativity, strong rebounder for a guard\nCons: Injury-prone, inconsistent shooting efficiency, defensive effort can fluctuate\nStats: PPG: 25.2, RPG: 4.9, APG: 7.4, BPG: 0.3, SPG: 1.1, FG%: 40.5, FT%: 84.3, 3P%: 33.9"
+  },
+  {
+    "name": "Lonzo Ball",
+    "chunk": "Player: Lonzo Ball\nHeight: 6-6, Weight: 190 lbs\nPros: Strong perimeter defender, improved three-point shooting, unselfish playmaker\nCons: Chronic injury issues, struggles scoring inside, average free-throw shooter\nStats: PPG: 7.6, RPG: 3.4, APG: 3.3, BPG: 0.5, SPG: 1.3, FG%: 36.6, FT%: 81.5, 3P%: 34.4"
+  },
+  {
+    "name": "Paolo Banchero",
+    "chunk": "Player: Paolo Banchero\nHeight: 6-10, Weight: 250 lbs\nPros: Versatile scorer, strong playmaker for size, physical presence in the paint\nCons: Inconsistent three-point shooter, can be turnover-prone, defense still developing\nStats: PPG: 26.1, RPG: 7.6, APG: 4.8, BPG: 0.6, SPG: 0.8, FG%: 44.8, FT%: 72.3, 3P%: 32.8"
+  },
+  {
+    "name": "Desmond Bane",
+    "chunk": "Player: Desmond Bane\nHeight: 6-5, Weight: 215 lbs\nPros: Elite three-point shooter, strong and physical, reliable defender\nCons: Limited off-the-dribble creativity, undersized for a wing, average playmaker\nStats: PPG: 19.2, RPG: 6.1, APG: 5.3, BPG: 0.4, SPG: 1.1, FG%: 47.6, FT%: 90.0, 3P%: 38.6"
+  },
+  {
+    "name": "Dalano Banton",
+    "chunk": "Player: Dalano Banton\nHeight: 6-8, Weight: 203 lbs\nPros: Tall guard with playmaking ability, good transition player, active defensively\nCons: Inconsistent shooter, turnover-prone, needs to develop offensive polish\nStats: PPG: 8.3, RPG: 2.0, APG: 2.4, BPG: 0.5, SPG: 0.6, FG%: 39.1, FT%: 72.8, 3P%: 32.4"
+  },
+  {
+    "name": "Dominick Barlow",
+    "chunk": "Player: Dominick Barlow\nHeight: 6-8, Weight: 215 lbs\nPros: Athletic big with defensive potential, good finisher around the rim, active rebounder\nCons: Raw offensive game, limited shooting range, needs experience and polish\nStats: PPG: 4.3, RPG: 2.4, APG: 0.5, BPG: 0.5, SPG: 0.2, FG%: 52.6, FT%: 67.6, 3P%: 25.0"
+  },
+  {
+    "name": "Harrison Barnes",
+    "chunk": "Player: Harrison Barnes\nHeight: 6-8, Weight: 225 lbs\nPros: Reliable scorer, experienced veteran, solid defender\nCons: Not a playmaker, can disappear offensively, limited ceiling\nStats: PPG: 12.3, RPG: 3.8, APG: 1.7, BPG: 0.2, SPG: 0.5, FG%: 50.8, FT%: 80.9, 3P%: 43.3"
+  },
+  {
+    "name": "Scottie Barnes",
+    "chunk": "Player: Scottie Barnes\nHeight: 6-7, Weight: 237 lbs\nPros: Excellent defender, versatile playmaker, strong finisher\nCons: Inconsistent jumper, turnover-prone at times, still developing offensive game\nStats: PPG: 19.3, RPG: 7.7, APG: 5.8, BPG: 1.0, SPG: 1.4, FG%: 44.6, FT%: 75.5, 3P%: 27.1"
+  },
+  {
+    "name": "R.J. Barrett",
+    "chunk": "Player: R.J. Barrett\nHeight: 6-6, Weight: 214 lbs\nPros: Aggressive scorer, strong slasher, solid size and strength for a wing\nCons: Streaky shooter, inconsistent defense, lacks elite playmaking\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Charles Bassey",
+    "chunk": "Player: Charles Bassey\nHeight: 6-10, Weight: 230 lbs\nPros: Strong rebounder and shot-blocker, good interior finisher, physical defender\nCons: Limited offensive range, foul-prone, struggles with spacing\nStats: PPG: 4.4, RPG: 4.2, APG: 0.5, BPG: 0.8, SPG: 0.4, FG%: 58.1, FT%: 63.6, 3P%: nan"
+  },
+  {
+    "name": "Emoni Bates",
+    "chunk": "Player: Emoni Bates\nHeight: 6-8, Weight: 202 lbs\nPros: Natural scorer with deep shooting range, confident with the ball, good shot creator\nCons: Needs strength, poor shot selection, inconsistent defensively\nStats: PPG: 3.7, RPG: 0.7, APG: 0.8, BPG: 0.1, SPG: 0.1, FG%: 34.2, FT%: nan, 3P%: 36.7"
+  },
+  {
+    "name": "Jamison Battle",
+    "chunk": "Player: Jamison Battle\nHeight: 6-7, Weight: 220 lbs\nPros: Capable three-point shooter, good size for a wing, effective in catch-and-shoot\nCons: Limited off-the-dribble game, not elite defensively, inconsistent rebounding\nStats: PPG: 7.1, RPG: 2.7, APG: 0.9, BPG: 0.2, SPG: 0.3, FG%: 42.9, FT%: 88.9, 3P%: 40.5"
+  },
+  {
+    "name": "Nicolas Batum",
+    "chunk": "Player: Nicolas Batum\nHeight: 6-8, Weight: 230 lbs\nPros: Versatile defender, good passer, capable spot-up shooter\nCons: Inconsistent offensive aggressiveness, aging, not a high-usage player\nStats: PPG: 4.1, RPG: 2.9, APG: 1.2, BPG: 0.6, SPG: 0.7, FG%: 43.2, FT%: 81.0, 3P%: 42.8"
+  },
+  {
+    "name": "Damion Baugh",
+    "chunk": "Player: Damion Baugh\nHeight: 6-4, Weight: 194 lbs\nPros: Strong defender, good size for a guard, improving passer\nCons: Limited shooting, offensive game still developing, not an elite athlete\nStats: PPG: 7.3, RPG: 3.3, APG: 3.7, BPG: 0.1, SPG: 1.0, FG%: 32.3, FT%: 86.7, 3P%: 21.4"
+  },
+  {
+    "name": "Bradley Beal",
+    "chunk": "Player: Bradley Beal\nHeight: 6-4, Weight: 207 lbs\nPros: Prolific scorer, strong shot creator, capable passer\nCons: Injury concerns, average defender, can be inefficient at times\nStats: PPG: 17.0, RPG: 3.3, APG: 3.7, BPG: 0.5, SPG: 1.1, FG%: 49.7, FT%: 80.3, 3P%: 38.6"
+  },
+  {
+    "name": "Malik Beasley",
+    "chunk": "Player: Malik Beasley\nHeight: 6-4, Weight: 187 lbs\nPros: Sharp shooter, quick release, moves well off the ball\nCons: Defensive issues, not a playmaker, can be streaky\nStats: PPG: 16.1, RPG: 2.6, APG: 1.7, BPG: 0.1, SPG: 0.9, FG%: 42.7, FT%: 69.6, 3P%: 41.1"
+  },
+  {
+    "name": "MarJon Beauchamp",
+    "chunk": "Player: MarJon Beauchamp\nHeight: 6-7, Weight: 199 lbs\nPros: Athletic wing, good defender, high motor\nCons: Limited offensive polish, inconsistent jumper, struggles creating shots\nStats: PPG: 2.2, RPG: 1.2, APG: 0.3, BPG: 0.0, SPG: 0.1, FG%: 41.5, FT%: 75.0, 3P%: 34.5"
+  },
+  {
+    "name": "Reece Beekman",
+    "chunk": "Player: Reece Beekman\nHeight: 6-3, Weight: 190 lbs\nPros: Excellent perimeter defender, poised playmaker, quick hands\nCons: Needs shooting consistency, undersized, not a high-volume scorer\nStats: PPG: 2.5, RPG: 1.1, APG: 1.7, BPG: 0.1, SPG: 0.9, FG%: 32.7, FT%: 76.2, 3P%: 17.5"
+  },
+  {
+    "name": "Saddiq Bey",
+    "chunk": "Player: Saddiq Bey\nHeight: 6-7, Weight: 215 lbs\nPros: 3-and-D potential, strong body, reliable shooter\nCons: Inconsistent playmaking, streaky shooting, average on-ball defense\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Goga Bitadze",
+    "chunk": "Player: Goga Bitadze\nHeight: 6-10, Weight: 250 lbs\nPros: Strong interior presence, shot-blocker, mid-range touch\nCons: Struggles with athletic bigs, limited mobility, not a stretch big\nStats: PPG: 6.8, RPG: 6.3, APG: 1.9, BPG: 1.4, SPG: 0.7, FG%: 61.3, FT%: 63.9, 3P%: 10.7"
+  },
+  {
+    "name": "Bismack Biyombo",
+    "chunk": "Player: Bismack Biyombo\nHeight: 6-8, Weight: 255 lbs\nPros: Elite shot-blocker, strong rebounder, high energy defender\nCons: Limited offensive skills, poor free-throw shooter, fouls frequently\nStats: PPG: 5.1, RPG: 5.6, APG: 1.1, BPG: 0.8, SPG: 0.6, FG%: 58.8, FT%: 40.0, 3P%: nan"
+  },
+  {
+    "name": "Anthony Black",
+    "chunk": "Player: Anthony Black\nHeight: 6-7, Weight: 200 lbs\nPros: Tall guard with great defensive instincts, strong passer, good in transition\nCons: Needs to improve shooting, limited offensive polish, inconsistent scoring\nStats: PPG: 9.4, RPG: 3.0, APG: 2.9, BPG: 0.6, SPG: 1.1, FG%: 42.6, FT%: 75.5, 3P%: 31.8"
+  },
+  {
+    "name": "Bogdan Bogdanovic",
+    "chunk": "Player: Bogdan Bogdanovic\nHeight: 6-5, Weight: 225 lbs\nPros: Skilled shooter, reliable ball-handler, experienced in big moments\nCons: Streaky scoring, average defender, prone to injuries\nStats: PPG: 10.3, RPG: 2.9, APG: 2.6, BPG: 0.2, SPG: 0.7, FG%: 42.2, FT%: 87.7, 3P%: 35.8"
+  },
+  {
+    "name": "Bol Bol",
+    "chunk": "Player: Bol Bol\nHeight: 7-3, Weight: 220 lbs\nPros: Unique height and length, solid ball-handling for size, shot-blocking upside\nCons: Injury-prone, lacks strength, inconsistent role and effort\nStats: PPG: 6.8, RPG: 2.9, APG: 0.6, BPG: 0.7, SPG: 0.2, FG%: 52.5, FT%: 76.9, 3P%: 34.4"
+  },
+  {
+    "name": "Adem Bona",
+    "chunk": "Player: Adem Bona\nHeight: 6-10, Weight: 235 lbs\nPros: Athletic big, elite rim protector, strong finisher\nCons: Raw offensive game, poor free-throw shooter, limited range\nStats: PPG: 5.8, RPG: 4.2, APG: 0.5, BPG: 1.2, SPG: 0.4, FG%: 70.3, FT%: 67.0, 3P%: 0.0"
+  },
+  {
+    "name": "Devin Booker",
+    "chunk": "Player: Devin Booker\nHeight: 6-6, Weight: 206 lbs\nPros: Elite scorer at all three levels, strong playmaker, clutch performer\nCons: Not elite defensively, turnover-prone under pressure, injury history\nStats: PPG: 25.6, RPG: 4.1, APG: 7.1, BPG: 0.2, SPG: 0.9, FG%: 46.1, FT%: 89.4, 3P%: 33.2"
+  },
+  {
+    "name": "B.J. Boston, Jr.",
+    "chunk": "Player: B.J. Boston, Jr.\nHeight: 6-6, Weight: 188 lbs\nPros: Natural scorer, long frame for a wing, potential to be a shot creator\nCons: Streaky shooter, needs strength, raw decision-making\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Chris Boucher",
+    "chunk": "Player: Chris Boucher\nHeight: 6-9, Weight: 200 lbs\nPros: Good shot-blocker, capable stretch big, high activity level\nCons: Thin frame, inconsistent shooting, struggles with physical bigs\nStats: PPG: 10.0, RPG: 4.5, APG: 0.7, BPG: 0.5, SPG: 0.5, FG%: 49.2, FT%: 78.2, 3P%: 36.3"
+  },
+  {
+    "name": "Jamaree Bouyea",
+    "chunk": "Player: Jamaree Bouyea\nHeight: 6-2, Weight: 180 lbs\nPros: Quick and crafty, effective in pick-and-roll, good defensive instincts\nCons: Undersized, limited shooting consistency, adjusting to NBA speed\nStats: PPG: 3.4, RPG: 1.0, APG: 2.0, BPG: 0.4, SPG: 0.8, FG%: 50.0, FT%: 66.7, 3P%: 20.0"
+  },
+  {
+    "name": "Tony Bradley",
+    "chunk": "Player: Tony Bradley\nHeight: 6-11, Weight: 248 lbs\nPros: Strong rebounder, soft touch inside, experienced center\nCons: Limited offensive game, lacks mobility, not a rim protector\nStats: PPG: 3.1, RPG: 2.5, APG: 0.4, BPG: 0.5, SPG: 0.1, FG%: 62.0, FT%: 50.0, 3P%: 25.0"
+  },
+  {
+    "name": "Malaki Branham",
+    "chunk": "Player: Malaki Branham\nHeight: 6-4, Weight: 180 lbs\nPros: Smooth scorer, good mid-range game, poised young guard\nCons: Needs defensive improvement, inconsistent shooting from deep, low assist numbers\nStats: PPG: 5.0, RPG: 1.1, APG: 0.8, BPG: 0.0, SPG: 0.2, FG%: 45.8, FT%: 81.8, 3P%: 40.5"
+  },
+  {
+    "name": "Christian Braun",
+    "chunk": "Player: Christian Braun\nHeight: 6-6, Weight: 220 lbs\nPros: High energy, solid defender, makes winning plays\nCons: Limited shot creation, average ball-handler, inconsistent shooter\nStats: PPG: 15.0, RPG: 5.4, APG: 2.6, BPG: 0.5, SPG: 1.1, FG%: 56.0, FT%: 81.2, 3P%: 37.4"
+  },
+  {
+    "name": "Jalen Bridges",
+    "chunk": "Player: Jalen Bridges\nHeight: 6-8, Weight: 225 lbs\nPros: Athletic and versatile wing, improving shooter, solid defender\nCons: Needs to improve ball-handling, limited offensive variety, still developing\nStats: PPG: 1.1, RPG: 0.5, APG: 0.0, BPG: 0.0, SPG: 0.0, FG%: 28.6, FT%: 75.0, 3P%: 28.6"
+  },
+  {
+    "name": "Mikal Bridges",
+    "chunk": "Player: Mikal Bridges\nHeight: 6-6, Weight: 209 lbs\nPros: Elite wing defender, improving scorer, great durability\nCons: Still growing as primary scorer, not a playmaker, can be passive\nStats: PPG: 17.2, RPG: 3.4, APG: 3.6, BPG: 0.6, SPG: 1.0, FG%: 49.2, FT%: 80.6, 3P%: 35.1"
+  },
+  {
+    "name": "Miles Bridges",
+    "chunk": "Player: Miles Bridges\nHeight: 6-7, Weight: 225 lbs\nPros: Athletic and powerful forward, good scorer, strong rebounder\nCons: Defensive lapses, inconsistent outside shooting, off-court concerns\nStats: PPG: 20.3, RPG: 7.5, APG: 3.9, BPG: 0.7, SPG: 0.7, FG%: 43.1, FT%: 87.0, 3P%: 31.3"
+  },
+  {
+    "name": "Malcolm Brogdon",
+    "chunk": "Player: Malcolm Brogdon\nHeight: 6-4, Weight: 229 lbs\nPros: Smart, efficient scorer, excellent decision-maker, strong defender\nCons: Injury-prone, lacks elite athleticism, aging\nStats: PPG: 12.7, RPG: 3.8, APG: 4.1, BPG: 0.2, SPG: 0.5, FG%: 43.3, FT%: 88.0, 3P%: 28.6"
+  },
+  {
+    "name": "Dillon Brooks",
+    "chunk": "Player: Dillon Brooks\nHeight: 6-6, Weight: 225 lbs\nPros: Tenacious defender, confident scorer, high motor\nCons: Questionable shot selection, foul-prone, inconsistent shooting\nStats: PPG: 13.9, RPG: 3.6, APG: 1.7, BPG: 0.2, SPG: 0.8, FG%: 43.0, FT%: 82.1, 3P%: 39.4"
+  },
+  {
+    "name": "Keion Brooks, Jr.",
+    "chunk": "Player: Keion Brooks, Jr.\nHeight: 6-7, Weight: 210 lbs\nPros: Strong slasher, athletic, solid rebounder\nCons: Inconsistent shooter, lacks three-point range, needs to improve defense\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Jaylen Brown",
+    "chunk": "Player: Jaylen Brown\nHeight: 6-6, Weight: 223 lbs\nPros: Elite athlete, versatile scorer, strong defender\nCons: Questionable ball-handling under pressure, inconsistent decision-making\nStats: PPG: 21.8, RPG: 5.9, APG: 4.3, BPG: 0.3, SPG: 1.1, FG%: 46.1, FT%: 76.3, 3P%: 32.4"
+  },
+  {
+    "name": "Bruce Brown, Jr.",
+    "chunk": "Player: Bruce Brown, Jr.\nHeight: 6-4, Weight: 202 lbs\nPros: Tough defender, good rebounder for size, can guard multiple positions\nCons: Streaky shooter, limited shot creation, undersized for forward\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Kobe Brown",
+    "chunk": "Player: Kobe Brown\nHeight: 6-7, Weight: 250 lbs\nPros: Strong frame, versatile defender, capable shooter from deep\nCons: Lacks elite quickness, needs better shot creation, sometimes passive offensively\nStats: PPG: 2.2, RPG: 1.5, APG: 0.7, BPG: 0.1, SPG: 0.2, FG%: 50.0, FT%: 75.0, 3P%: 25.9"
+  },
+  {
+    "name": "Jalen Brunson",
+    "chunk": "Player: Jalen Brunson\nHeight: 6-2, Weight: 190 lbs\nPros: Crafty scorer, elite footwork, excellent leader and decision-maker\nCons: Undersized, limited lateral quickness, average defender\nStats: PPG: 26.5, RPG: 3.0, APG: 7.2, BPG: 0.2, SPG: 0.8, FG%: 48.0, FT%: 82.9, 3P%: 37.6"
+  },
+  {
+    "name": "Thomas Bryant",
+    "chunk": "Player: Thomas Bryant\nHeight: 6-10, Weight: 248 lbs\nPros: Efficient scorer around the rim, strong rebounder, good energy\nCons: Limited rim protection, average lateral quickness, defensive lapses\nStats: PPG: 5.9, RPG: 3.5, APG: 0.7, BPG: 0.6, SPG: 0.4, FG%: 50.6, FT%: 86.5, 3P%: 34.2"
+  },
+  {
+    "name": "Kobe Bufkin",
+    "chunk": "Player: Kobe Bufkin\nHeight: 6-4, Weight: 195 lbs\nPros: Skilled guard with scoring upside, good handle, solid off-ball movement\nCons: Needs to add strength, inconsistent shooter, still raw defensively\nStats: PPG: 5.3, RPG: 2.1, APG: 1.7, BPG: 0.2, SPG: 0.3, FG%: 38.3, FT%: 72.2, 3P%: 21.1"
+  },
+  {
+    "name": "Alec Burks",
+    "chunk": "Player: Alec Burks\nHeight: 6-5, Weight: 214 lbs\nPros: Veteran scorer, reliable shooter, capable secondary ball-handler\nCons: Inconsistent defender, injury history, not a primary creator\nStats: PPG: 7.1, RPG: 2.6, APG: 1.2, BPG: 0.2, SPG: 0.6, FG%: 42.1, FT%: 77.6, 3P%: 41.7"
+  },
+  {
+    "name": "Jimmy Butler III",
+    "chunk": "Player: Jimmy Butler III\nHeight: 6-7, Weight: 230 lbs\nPros: Elite two-way player, strong mid-range game, excels in clutch moments\nCons: Not a volume three-point shooter, aging, sometimes coasts in regular season\nStats: PPG: 18.1, RPG: 5.6, APG: 5.4, BPG: 0.3, SPG: 1.4, FG%: 49.5, FT%: 82.9, 3P%: 31.2"
+  },
+  {
+    "name": "Jared Butler",
+    "chunk": "Player: Jared Butler\nHeight: 6-3, Weight: 193 lbs\nPros: Smart combo guard, good shooter, solid defender\nCons: Undersized, needs to improve playmaking, injury concerns\nStats: PPG: 9.0, RPG: 1.8, APG: 3.7, BPG: 0.2, SPG: 0.7, FG%: 44.8, FT%: 82.4, 3P%: 35.5"
+  },
+  {
+    "name": "Matas Buzelis",
+    "chunk": "Player: Matas Buzelis\nHeight: 6-10, Weight: 209 lbs\nPros: Tall, fluid forward with good shooting touch, high upside, ball-handling ability for size\nCons: Needs to bulk up, still raw defensively, inconsistent production\nStats: PPG: 8.6, RPG: 3.5, APG: 1.0, BPG: 0.9, SPG: 0.4, FG%: 45.4, FT%: 80.7, 3P%: 35.9"
+  },
+  {
+    "name": "Jamal Cain",
+    "chunk": "Player: Jamal Cain\nHeight: 6-6, Weight: 191 lbs\nPros: Athletic wing, active rebounder, capable slasher\nCons: Limited outside shooting, not a creator, defense needs polish\nStats: PPG: 5.3, RPG: 2.3, APG: 0.6, BPG: 0.2, SPG: 0.6, FG%: 43.0, FT%: 68.0, 3P%: 32.5"
+  },
+  {
+    "name": "Kentavious Caldwell-Pope",
+    "chunk": "Player: Kentavious Caldwell-Pope\nHeight: 6-5, Weight: 204 lbs\nPros: Excellent perimeter defender, reliable spot-up shooter, experienced\nCons: Limited shot creation, not a playmaker, offensive ceiling is capped\nStats: PPG: 8.5, RPG: 2.3, APG: 1.8, BPG: 0.4, SPG: 1.3, FG%: 42.6, FT%: 86.1, 3P%: 33.3"
+  },
+  {
+    "name": "Toumani Camara",
+    "chunk": "Player: Toumani Camara\nHeight: 6-7, Weight: 229 lbs\nPros: High-motor forward, versatile defender, strong rebounder\nCons: Needs to develop shooting range, limited offensive skills, raw decision-making\nStats: PPG: 11.3, RPG: 5.8, APG: 2.2, BPG: 0.6, SPG: 1.5, FG%: 45.8, FT%: 72.2, 3P%: 37.5"
+  },
+  {
+    "name": "Vlatko Cancar",
+    "chunk": "Player: Vlatko Cancar\nHeight: 6-8, Weight: 236 lbs\nPros: Smart team player, capable shooter, good positional awareness\nCons: Limited athleticism, inconsistent production, injury history\nStats: PPG: 1.4, RPG: 2.0, APG: 0.5, BPG: 0.1, SPG: 0.2, FG%: 38.5, FT%: nan, 3P%: 26.7"
+  },
+  {
+    "name": "Clint Capela",
+    "chunk": "Player: Clint Capela\nHeight: 6-10, Weight: 256 lbs\nPros: Elite rebounder, rim protector, great in pick-and-roll\nCons: Poor free-throw shooter, no shooting range, struggles against stretch bigs\nStats: PPG: 8.9, RPG: 8.5, APG: 1.1, BPG: 1.0, SPG: 0.6, FG%: 55.9, FT%: 53.6, 3P%: 0.0"
+  },
+  {
+    "name": "Branden Carlson",
+    "chunk": "Player: Branden Carlson\nHeight: 7-0, Weight: 220 lbs\nPros: Tall center with shooting range, solid shot-blocker, decent mobility\nCons: Needs to improve physicality, rebounding, and consistency\nStats: PPG: 3.6, RPG: 1.6, APG: 0.4, BPG: 0.6, SPG: 0.1, FG%: 44.3, FT%: 77.8, 3P%: 33.3"
+  },
+  {
+    "name": "Bub Carrington",
+    "chunk": "Player: Bub Carrington\nHeight: 6-4, Weight: 190 lbs\nPros: Creative scorer, strong ball-handler, confident shooter\nCons: Needs to add strength, defensive game still developing, streaky at times\nStats: PPG: 9.8, RPG: 4.2, APG: 4.4, BPG: 0.3, SPG: 0.7, FG%: 40.1, FT%: 81.2, 3P%: 33.9"
+  },
+  {
+    "name": "Devin Carter",
+    "chunk": "Player: Devin Carter\nHeight: 6-2, Weight: 195 lbs\nPros: Elite defender for size, high motor, improved shooting\nCons: Undersized, not a true point guard, limited creation ability\nStats: PPG: 4.0, RPG: 2.2, APG: 1.2, BPG: 0.1, SPG: 0.6, FG%: 37.9, FT%: 60.4, 3P%: 30.2"
+  },
+  {
+    "name": "Jevon Carter",
+    "chunk": "Player: Jevon Carter\nHeight: 6-1, Weight: 200 lbs\nPros: Tough defender, good three-point shooter, great hustle\nCons: Undersized, limited playmaking, streaky scoring\nStats: PPG: 4.2, RPG: 1.1, APG: 1.1, BPG: 0.1, SPG: 0.4, FG%: 37.7, FT%: 80.0, 3P%: 33.3"
+  },
+  {
+    "name": "Wendell Carter, Jr.",
+    "chunk": "Player: Wendell Carter, Jr.\nHeight: 6-10, Weight: 270 lbs\nPros: Strong rebounder, versatile offensively, capable floor spacer\nCons: Injury history, not a dominant rim protector, occasional inconsistency\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Alex Caruso",
+    "chunk": "Player: Alex Caruso\nHeight: 6-5, Weight: 186 lbs\nPros: Elite perimeter defender, high basketball IQ, efficient role player\nCons: Limited scoring threat, injury-prone, not a primary ball-handler\nStats: PPG: 7.4, RPG: 2.8, APG: 2.5, BPG: 0.5, SPG: 1.7, FG%: 44.6, FT%: 81.1, 3P%: 36.7"
+  },
+  {
+    "name": "Stephon Castle",
+    "chunk": "Player: Stephon Castle\nHeight: 6-6, Weight: 215 lbs\nPros: Big combo guard, good defender, confident playmaker\nCons: Inconsistent jumper, still developing offensive game, decision-making under pressure\nStats: PPG: 14.6, RPG: 3.6, APG: 4.1, BPG: 0.3, SPG: 0.9, FG%: 42.8, FT%: 72.4, 3P%: 28.4"
+  },
+  {
+    "name": "Julian Champagnie",
+    "chunk": "Player: Julian Champagnie\nHeight: 6-7, Weight: 217 lbs\nPros: Solid shooter, versatile forward, good size for a wing\nCons: Not an elite athlete, needs better defense, limited playmaking\nStats: PPG: 9.9, RPG: 3.9, APG: 1.4, BPG: 0.4, SPG: 0.7, FG%: 41.5, FT%: 90.4, 3P%: 37.1"
+  },
+  {
+    "name": "Justin Champagnie",
+    "chunk": "Player: Justin Champagnie\nHeight: 6-6, Weight: 206 lbs\nPros: Strong rebounder for size, hustles on both ends, energy player\nCons: Limited offensive game, inconsistent shooter, not a creator\nStats: PPG: 8.8, RPG: 5.7, APG: 1.0, BPG: 0.6, SPG: 1.0, FG%: 51.1, FT%: 68.5, 3P%: 38.3"
+  },
+  {
+    "name": "Ulrich Chomche",
+    "chunk": "Player: Ulrich Chomche\nHeight: 6-11, Weight: 235 lbs\nPros: Great size and athleticism, shot-blocking potential, developing interior presence\nCons: Very raw offensively, lacks polish, needs experience\nStats: PPG: 0.7, RPG: 1.1, APG: 0.3, BPG: 0.1, SPG: 0.0, FG%: 40.0, FT%: 50.0, 3P%: nan"
+  },
+  {
+    "name": "Cameron Christie",
+    "chunk": "Player: Cameron Christie\nHeight: 6-6, Weight: 190 lbs\nPros: Good size for a guard, promising shooter, smooth offensive skills\nCons: Needs strength, defense still developing, lacks experience\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Max Christie",
+    "chunk": "Player: Max Christie\nHeight: 6-5, Weight: 190 lbs\nPros: Good three-point shooter, high basketball IQ, improving defender\nCons: Still developing physically, limited shot creation, streaky scoring\nStats: PPG: 9.5, RPG: 3.2, APG: 1.8, BPG: 0.4, SPG: 0.8, FG%: 42.9, FT%: 85.5, 3P%: 36.9"
+  },
+  {
+    "name": "Josh Christopher",
+    "chunk": "Player: Josh Christopher\nHeight: 6-4, Weight: 215 lbs\nPros: Athletic scorer, explosive first step, confident with the ball\nCons: Inconsistent shooting, needs defensive improvement, turnover-prone\nStats: PPG: 2.0, RPG: 0.6, APG: 0.6, BPG: 0.2, SPG: 0.4, FG%: 35.5, FT%: 66.7, 3P%: 18.2"
+  },
+  {
+    "name": "Sidy Cissoko",
+    "chunk": "Player: Sidy Cissoko\nHeight: 6-6, Weight: 200 lbs\nPros: Versatile defender, strong frame, good feel for the game\nCons: Inconsistent shooting, limited offensive creativity, still raw\nStats: PPG: 1.5, RPG: 1.0, APG: 0.7, BPG: 0.0, SPG: 0.1, FG%: 43.3, FT%: 33.3, 3P%: 23.1"
+  },
+  {
+    "name": "Jaylen Clark",
+    "chunk": "Player: Jaylen Clark\nHeight: 6-4, Weight: 205 lbs\nPros: Elite perimeter defender, high energy, effective slasher\nCons: Offensive game still developing, shooting needs improvement, limited creation\nStats: PPG: 3.9, RPG: 1.3, APG: 0.6, BPG: 0.0, SPG: 0.8, FG%: 48.0, FT%: 78.0, 3P%: 42.3"
+  },
+  {
+    "name": "Brandon Clarke",
+    "chunk": "Player: Brandon Clarke\nHeight: 6-8, Weight: 215 lbs\nPros: Efficient finisher, excellent shot blocker, great in transition\nCons: Undersized for center, limited shooting, injury history\nStats: PPG: 8.3, RPG: 5.1, APG: 1.0, BPG: 0.6, SPG: 0.8, FG%: 62.1, FT%: 70.1, 3P%: 5.9"
+  },
+  {
+    "name": "Jordan Clarkson",
+    "chunk": "Player: Jordan Clarkson\nHeight: 6-3, Weight: 194 lbs\nPros: Instant offense, strong shot creator, fearless scorer\nCons: Streaky shooter, defensive lapses, not a playmaker\nStats: PPG: 16.2, RPG: 3.2, APG: 3.7, BPG: 0.2, SPG: 0.8, FG%: 40.8, FT%: 79.7, 3P%: 36.2"
+  },
+  {
+    "name": "Nicolas Claxton",
+    "chunk": "Player: Nicolas Claxton\nHeight: 6-11, Weight: 215 lbs\nPros: Elite rim protector, great mobility, finishes well around the rim\nCons: Limited offensive range, poor free throw shooter, needs more strength\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Donovan Clingan",
+    "chunk": "Player: Donovan Clingan\nHeight: 7-2, Weight: 280 lbs\nPros: Massive presence in the paint, dominant shot-blocker, good touch inside\nCons: Mobility concerns, raw offensive skills, adjusting to NBA speed\nStats: PPG: 6.5, RPG: 7.9, APG: 1.1, BPG: 1.6, SPG: 0.5, FG%: 53.9, FT%: 59.6, 3P%: 28.6"
+  },
+  {
+    "name": "Noah Clowney",
+    "chunk": "Player: Noah Clowney\nHeight: 6-9, Weight: 210 lbs\nPros: Versatile forward, improving shooter, mobile defender\nCons: Needs strength, inconsistent production, developing offensive tools\nStats: PPG: 9.1, RPG: 3.9, APG: 0.9, BPG: 0.5, SPG: 0.5, FG%: 35.8, FT%: 83.8, 3P%: 33.3"
+  },
+  {
+    "name": "Amir Coffey",
+    "chunk": "Player: Amir Coffey\nHeight: 6-7, Weight: 210 lbs\nPros: Tall, versatile guard/forward, solid defender, moves well off the ball\nCons: Limited offensive impact, not a strong shooter, passive at times\nStats: PPG: 9.7, RPG: 2.2, APG: 1.1, BPG: 0.1, SPG: 0.6, FG%: 47.1, FT%: 89.1, 3P%: 40.9"
+  },
+  {
+    "name": "Isaiah Collier",
+    "chunk": "Player: Isaiah Collier\nHeight: 6-3, Weight: 210 lbs\nPros: Strong frame, excellent playmaker, great in transition\nCons: Inconsistent shooter, turnover-prone, needs to improve defense\nStats: PPG: 8.7, RPG: 3.3, APG: 6.3, BPG: 0.2, SPG: 0.9, FG%: 42.2, FT%: 68.2, 3P%: 24.9"
+  },
+  {
+    "name": "John Collins",
+    "chunk": "Player: John Collins\nHeight: 6-9, Weight: 226 lbs\nPros: Explosive finisher, solid rebounder, improving three-point shot\nCons: Defensive awareness, inconsistent effort, limited playmaking\nStats: PPG: 19.0, RPG: 8.2, APG: 2.0, BPG: 1.0, SPG: 1.0, FG%: 52.7, FT%: 84.8, 3P%: 39.9"
+  },
+  {
+    "name": "Zach Collins",
+    "chunk": "Player: Zach Collins\nHeight: 6-11, Weight: 250 lbs\nPros: Skilled big with shooting touch, good passer, solid shot-blocker\nCons: Injury history, not very athletic, can struggle defensively\nStats: PPG: 6.3, RPG: 4.4, APG: 1.7, BPG: 0.4, SPG: 0.4, FG%: 50.8, FT%: 88.5, 3P%: 30.2"
+  },
+  {
+    "name": "Mike Conley",
+    "chunk": "Player: Mike Conley\nHeight: 6-0, Weight: 175 lbs\nPros: Veteran leader, smart playmaker, reliable shooter\nCons: Aging, limited explosiveness, defensive decline\nStats: PPG: 7.8, RPG: 2.6, APG: 4.3, BPG: 0.2, SPG: 1.0, FG%: 38.3, FT%: 90.3, 3P%: 39.7"
+  },
+  {
+    "name": "Pat Connaughton",
+    "chunk": "Player: Pat Connaughton\nHeight: 6-5, Weight: 209 lbs\nPros: Solid 3-and-D contributor, strong leaper, good hustle\nCons: Inconsistent scoring, limited ball-handling, not a creator\nStats: PPG: 4.9, RPG: 2.5, APG: 1.6, BPG: 0.2, SPG: 0.2, FG%: 45.7, FT%: 75.8, 3P%: 31.4"
+  },
+  {
+    "name": "Bilal Coulibaly",
+    "chunk": "Player: Bilal Coulibaly\nHeight: 6-8, Weight: 195 lbs\nPros: Elite length and athleticism, great defensive potential, explosive in transition\nCons: Raw offensive game, shooting needs development, still learning pace of play\nStats: PPG: 12.3, RPG: 5.0, APG: 3.4, BPG: 0.7, SPG: 1.3, FG%: 42.1, FT%: 74.6, 3P%: 28.1"
+  },
+  {
+    "name": "Ricky Council IV",
+    "chunk": "Player: Ricky Council IV\nHeight: 6-6, Weight: 207 lbs\nPros: Explosive athlete, strong slasher, high motor\nCons: Limited shooting, raw offensive game, inconsistent playmaking\nStats: PPG: 7.3, RPG: 2.9, APG: 1.3, BPG: 0.2, SPG: 0.4, FG%: 38.2, FT%: 80.4, 3P%: 25.8"
+  },
+  {
+    "name": "Torrey Craig",
+    "chunk": "Player: Torrey Craig\nHeight: 6-5, Weight: 221 lbs\nPros: Solid 3-and-D wing, strong rebounder for size, tough defender\nCons: Streaky shooter, not a creator, limited offensive versatility\nStats: PPG: 3.7, RPG: 2.5, APG: 0.6, BPG: 0.4, SPG: 0.3, FG%: 42.6, FT%: 66.7, 3P%: 37.7"
+  },
+  {
+    "name": "Isaiah Crawford",
+    "chunk": "Player: Isaiah Crawford\nHeight: 6-6, Weight: 220 lbs\nPros: Physical defender, active hands, high-energy wing\nCons: Inconsistent jumper, lacks offensive creativity, limited handle\nStats: PPG: 0.9, RPG: 0.5, APG: 0.1, BPG: 0.1, SPG: 0.1, FG%: 45.5, FT%: 50.0, 3P%: 20.0"
+  },
+  {
+    "name": "Jae Crowder",
+    "chunk": "Player: Jae Crowder\nHeight: 6-6, Weight: 235 lbs\nPros: Tough defender, capable three-point shooter, playoff experience\nCons: Streaky offense, aging, can be foul-prone\nStats: PPG: 2.6, RPG: 2.2, APG: 0.7, BPG: 0.0, SPG: 0.3, FG%: 31.8, FT%: 83.3, 3P%: 26.7"
+  },
+  {
+    "name": "Cade Cunningham",
+    "chunk": "Player: Cade Cunningham\nHeight: 6-6, Weight: 220 lbs\nPros: Excellent playmaker, strong frame for a guard, smooth mid-range game\nCons: Injury history, inconsistent shooting from deep, still developing as a leader\nStats: PPG: 25.8, RPG: 6.2, APG: 9.0, BPG: 0.8, SPG: 1.1, FG%: 46.6, FT%: 84.5, 3P%: 34.7"
+  },
+  {
+    "name": "Seth Curry",
+    "chunk": "Player: Seth Curry\nHeight: 6-1, Weight: 185 lbs\nPros: Elite shooter, great off-ball movement, high IQ\nCons: Undersized, limited defensively, not a primary creator\nStats: PPG: 6.5, RPG: 1.7, APG: 0.9, BPG: 0.1, SPG: 0.4, FG%: 47.8, FT%: 84.6, 3P%: 45.6"
+  },
+  {
+    "name": "Stephen Curry",
+    "chunk": "Player: Stephen Curry\nHeight: 6-2, Weight: 185 lbs\nPros: Greatest shooter of all time, elite playmaker, excellent off-ball movement\nCons: Undersized for a guard, average defender, injury-prone earlier in career\nStats: PPG: 24.1, RPG: 4.6, APG: 5.8, BPG: 0.4, SPG: 1.1, FG%: 45.0, FT%: 93.2, 3P%: 39.8"
+  },
+  {
+    "name": "Tristan Da Silva",
+    "chunk": "Player: Tristan Da Silva\nHeight: 6-8, Weight: 217 lbs\nPros: Smooth scorer, good size and mobility, intelligent off-ball player\nCons: Needs to improve rebounding, strength, and physicality\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Pacome Dadiet",
+    "chunk": "Player: Pacome Dadiet\nHeight: 6-8, Weight: 210 lbs\nPros: Intriguing international prospect, fluid athlete, potential on both ends\nCons: Still raw, lacks consistency, needs to develop shooting\nStats: PPG: 1.6, RPG: 0.9, APG: 0.2, BPG: 0.1, SPG: 0.1, FG%: 34.4, FT%: 66.7, 3P%: 31.6"
+  },
+  {
+    "name": "Dyson Daniels",
+    "chunk": "Player: Dyson Daniels\nHeight: 6-7, Weight: 199 lbs\nPros: Elite defender, high basketball IQ, strong passer\nCons: Needs consistent jumper, limited scoring upside, still developing offensive game\nStats: PPG: 14.0, RPG: 6.0, APG: 4.4, BPG: 0.7, SPG: 3.0, FG%: 49.0, FT%: 59.2, 3P%: 34.0"
+  },
+  {
+    "name": "N'Faly Dante",
+    "chunk": "Player: N'Faly Dante\nHeight: 6-11, Weight: 230 lbs\nPros: Physical big man, strong rebounder, good shot-blocker\nCons: Limited mobility, injury-prone, not a shooter\nStats: PPG: 6.0, RPG: 5.2, APG: 0.5, BPG: 1.2, SPG: 0.2, FG%: 76.9, FT%: 80.0, 3P%: nan"
+  },
+  {
+    "name": "Anthony Davis",
+    "chunk": "Player: Anthony Davis\nHeight: 6-10, Weight: 253 lbs\nPros: Elite defender, great shot-blocker, versatile scorer inside and mid-range\nCons: Injury history, inconsistent outside shooting, sometimes passive offensively\nStats: PPG: 25.1, RPG: 11.5, APG: 3.5, BPG: 2.2, SPG: 1.2, FG%: 51.5, FT%: 77.8, 3P%: 29.2"
+  },
+  {
+    "name": "J.D. Davison",
+    "chunk": "Player: J.D. Davison\nHeight: 6-1, Weight: 195 lbs\nPros: Athletic guard, solid passer, fast in transition\nCons: Inconsistent shooting, defensive lapses, turnover-prone\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "DeMar DeRozan",
+    "chunk": "Player: DeMar DeRozan\nHeight: 6-6, Weight: 220 lbs\nPros: Elite mid-range scorer, clutch performer, solid playmaker\nCons: Limited three-point shooting, declining athleticism, average defense\nStats: PPG: 22.3, RPG: 3.9, APG: 4.4, BPG: 0.4, SPG: 0.8, FG%: 47.7, FT%: 85.7, 3P%: 33.0"
+  },
+  {
+    "name": "RayJ Dennis",
+    "chunk": "Player: RayJ Dennis\nHeight: 6-2, Weight: 180 lbs\nPros: Strong scoring guard, good size, efficient in pick-and-roll\nCons: Inconsistent shooter, limited defense, not a high-level athlete\nStats: PPG: 2.7, RPG: 1.1, APG: 1.3, BPG: 0.2, SPG: 0.6, FG%: 33.3, FT%: 100.0, 3P%: 28.6"
+  },
+  {
+    "name": "Donte DiVincenzo",
+    "chunk": "Player: Donte DiVincenzo\nHeight: 6-4, Weight: 203 lbs\nPros: Tenacious defender, capable shooter, high-energy role player\nCons: Streaky offensively, injury history, undersized for his position\nStats: PPG: 11.1, RPG: 3.6, APG: 3.6, BPG: 0.3, SPG: 1.2, FG%: 41.2, FT%: 77.6, 3P%: 38.4"
+  },
+  {
+    "name": "Moussa Diabate",
+    "chunk": "Player: Moussa Diabate\nHeight: 6-9, Weight: 210 lbs\nPros: Energetic big, athletic rebounder, rim-runner\nCons: Limited offense, raw skill set, foul-prone\nStats: PPG: 5.7, RPG: 6.2, APG: 0.8, BPG: 0.6, SPG: 0.6, FG%: 59.6, FT%: 59.5, 3P%: 0.0"
+  },
+  {
+    "name": "Gradey Dick",
+    "chunk": "Player: Gradey Dick\nHeight: 6-6, Weight: 200 lbs\nPros: Elite three-point shooter, good size for a wing, high basketball IQ\nCons: Struggles defensively, lacks physicality, limited off-the-dribble game\nStats: PPG: 14.4, RPG: 3.6, APG: 1.8, BPG: 0.2, SPG: 0.9, FG%: 41.0, FT%: 85.8, 3P%: 35.0"
+  },
+  {
+    "name": "Ousmane Dieng",
+    "chunk": "Player: Ousmane Dieng\nHeight: 6-9, Weight: 185 lbs\nPros: Tall, fluid wing, promising defender, developing offensive skillset\nCons: Needs strength, inconsistent shooting, not a creator yet\nStats: PPG: 3.6, RPG: 2.0, APG: 0.8, BPG: 0.2, SPG: 0.4, FG%: 43.2, FT%: 72.2, 3P%: 34.2"
+  },
+  {
+    "name": "Rob Dillingham",
+    "chunk": "Player: Rob Dillingham\nHeight: 6-3, Weight: 175 lbs\nPros: Lightning-quick guard, creative scorer, great ball-handler\nCons: Undersized, streaky shooter, defensive liability\nStats: PPG: 4.4, RPG: 1.0, APG: 2.0, BPG: 0.0, SPG: 0.4, FG%: 43.8, FT%: 52.9, 3P%: 34.2"
+  },
+  {
+    "name": "Spencer Dinwiddie",
+    "chunk": "Player: Spencer Dinwiddie\nHeight: 6-5, Weight: 215 lbs\nPros: Big combo guard, capable scorer, solid playmaker\nCons: Streaky shooter, average defender, inconsistent decision-making\nStats: PPG: 10.8, RPG: 2.6, APG: 4.3, BPG: 0.2, SPG: 0.9, FG%: 41.5, FT%: 80.2, 3P%: 33.2"
+  },
+  {
+    "name": "Luka Doncic",
+    "chunk": "Player: Luka Doncic\nHeight: 6-6, Weight: 230 lbs\nPros: Elite scorer and playmaker, high basketball IQ, clutch performer\nCons: Average defender, heavy usage player, conditioning concerns\nStats: PPG: 28.3, RPG: 8.1, APG: 7.5, BPG: 0.4, SPG: 1.7, FG%: 45.0, FT%: 79.4, 3P%: 36.6"
+  },
+  {
+    "name": "Luguentz Dort",
+    "chunk": "Player: Luguentz Dort\nHeight: 6-4, Weight: 220 lbs\nPros: Elite on-ball defender, strong and physical, improving three-point shot\nCons: Limited offensive versatility, inconsistent shooting, foul-prone\nStats: PPG: 9.6, RPG: 4.1, APG: 1.5, BPG: 0.5, SPG: 1.1, FG%: 41.8, FT%: 71.2, 3P%: 38.7"
+  },
+  {
+    "name": "Ayo Dosunmu",
+    "chunk": "Player: Ayo Dosunmu\nHeight: 6-5, Weight: 200 lbs\nPros: Versatile defender, quick in transition, improving shot\nCons: Inconsistent offense, not a pure point guard, limited playmaking\nStats: PPG: 12.3, RPG: 3.5, APG: 4.5, BPG: 0.4, SPG: 0.9, FG%: 49.2, FT%: 78.5, 3P%: 32.8"
+  },
+  {
+    "name": "Jeff Dowtin",
+    "chunk": "Player: Jeff Dowtin\nHeight: 6-3, Weight: 177 lbs\nPros: Steady ball-handler, good decision maker, solid on-ball defender\nCons: Lacks offensive aggression, not a volume scorer, fringe rotation player\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Andre Drummond",
+    "chunk": "Player: Andre Drummond\nHeight: 6-11, Weight: 279 lbs\nPros: Elite rebounder, strong physical presence, good finisher inside\nCons: Limited shooting, poor free-throw percentage, defensive lapses\nStats: PPG: 7.3, RPG: 7.8, APG: 0.8, BPG: 0.4, SPG: 1.0, FG%: 50.0, FT%: 62.2, 3P%: 15.0"
+  },
+  {
+    "name": "Alex Ducas",
+    "chunk": "Player: Alex Ducas\nHeight: 6-7, Weight: 220 lbs\nPros: Capable outside shooter, solid wing size, good off-ball movement\nCons: Needs to improve defense, limited playmaking, lacks athleticism\nStats: PPG: 1.6, RPG: 1.2, APG: 0.2, BPG: 0.0, SPG: 0.2, FG%: 40.0, FT%: 100.0, 3P%: 47.6"
+  },
+  {
+    "name": "David Duke",
+    "chunk": "Player: David Duke\nHeight: 6-4, Weight: 204 lbs\nPros: Good size and athleticism for a guard, active defender, slasher\nCons: Inconsistent shooter, not a true point guard, struggles in half-court sets\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Kris Dunn",
+    "chunk": "Player: Kris Dunn\nHeight: 6-3, Weight: 205 lbs\nPros: Excellent defender, good passer, veteran presence\nCons: Limited shooting range, turnover-prone at times, offensive inconsistency\nStats: PPG: 6.4, RPG: 3.4, APG: 2.7, BPG: 0.4, SPG: 1.7, FG%: 43.5, FT%: 68.2, 3P%: 33.7"
+  },
+  {
+    "name": "Ryan Dunn",
+    "chunk": "Player: Ryan Dunn\nHeight: 6-8, Weight: 216 lbs\nPros: Elite defensive instincts, long and athletic, disruptive on-ball defender\nCons: Raw offensive game, limited shooting, not a creator\nStats: PPG: 6.9, RPG: 3.6, APG: 0.8, BPG: 0.5, SPG: 0.6, FG%: 43.2, FT%: 50.0, 3P%: 31.1"
+  },
+  {
+    "name": "Kevin Durant",
+    "chunk": "Player: Kevin Durant\nHeight: 6-11, Weight: 240 lbs\nPros: Elite scorer at all levels, clutch performer, strong defender when engaged\nCons: Injury-prone, sometimes passive as a leader, not a traditional playmaker\nStats: PPG: 25.8, RPG: 5.9, APG: 4.2, BPG: 1.2, SPG: 0.8, FG%: 52.4, FT%: 83.9, 3P%: 42.7"
+  },
+  {
+    "name": "Jalen Duren",
+    "chunk": "Player: Jalen Duren\nHeight: 6-10, Weight: 250 lbs\nPros: Powerful finisher, elite rebounder, physical shot blocker\nCons: Raw offensive game, poor free-throw shooter, still learning NBA pace\nStats: PPG: 11.8, RPG: 10.4, APG: 2.7, BPG: 1.2, SPG: 0.7, FG%: 68.9, FT%: 68.3, 3P%: nan"
+  },
+  {
+    "name": "Tari Eason",
+    "chunk": "Player: Tari Eason\nHeight: 6-8, Weight: 215 lbs\nPros: Athletic wing, great defender, high motor\nCons: Inconsistent shooter, lacks polish offensively, foul-prone\nStats: PPG: 11.5, RPG: 6.1, APG: 1.4, BPG: 0.9, SPG: 1.6, FG%: 48.6, FT%: 74.1, 3P%: 34.5"
+  },
+  {
+    "name": "Zach Edey",
+    "chunk": "Player: Zach Edey\nHeight: 7-4, Weight: 305 lbs\nPros: Huge size and interior presence, dominant rebounder, great touch near rim\nCons: Limited mobility, perimeter defense liability, slow-paced\nStats: PPG: 9.1, RPG: 8.3, APG: 1.0, BPG: 1.3, SPG: 0.5, FG%: 58.0, FT%: 70.3, 3P%: 34.6"
+  },
+  {
+    "name": "Anthony Edwards",
+    "chunk": "Player: Anthony Edwards\nHeight: 6-4, Weight: 225 lbs\nPros: Elite athlete, dynamic scorer, strong defender\nCons: Occasional tunnel vision, inconsistent decision-making, still developing playmaking\nStats: PPG: 27.2, RPG: 6.0, APG: 4.7, BPG: 0.7, SPG: 1.1, FG%: 44.8, FT%: 81.9, 3P%: 38.9"
+  },
+  {
+    "name": "Jesse Edwards",
+    "chunk": "Player: Jesse Edwards\nHeight: 7-0, Weight: 236 lbs\nPros: Mobile big man, good shot blocker, strong finisher\nCons: Needs to add strength, limited range, can get overpowered by stronger bigs\nStats: PPG: 0.0, RPG: 0.0, APG: 0.3, BPG: 0.0, SPG: 0.0, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Justin Edwards",
+    "chunk": "Player: Justin Edwards\nHeight: 6-7, Weight: 203 lbs\nPros: Strong wing athlete, solid finisher, defensive upside\nCons: Inconsistent shooter, raw ball skills, needs to develop offensive polish\nStats: PPG: 10.1, RPG: 3.4, APG: 1.6, BPG: 0.4, SPG: 1.0, FG%: 45.5, FT%: 69.6, 3P%: 36.3"
+  },
+  {
+    "name": "Kessler Edwards",
+    "chunk": "Player: Kessler Edwards\nHeight: 6-7, Weight: 203 lbs\nPros: Versatile defender, good size, can hit open shots\nCons: Low offensive ceiling, inconsistent shooting, limited ball-handling\nStats: PPG: 4.2, RPG: 2.9, APG: 1.0, BPG: 0.5, SPG: 0.5, FG%: 49.6, FT%: 92.3, 3P%: 40.7"
+  },
+  {
+    "name": "Keon Ellis",
+    "chunk": "Player: Keon Ellis\nHeight: 6-4, Weight: 175 lbs\nPros: Tough defender, good lateral quickness, smart team player\nCons: Limited scoring ability, not a creator, inconsistent shooter\nStats: PPG: 8.3, RPG: 2.6, APG: 1.5, BPG: 0.8, SPG: 1.5, FG%: 49.1, FT%: 85.1, 3P%: 43.5"
+  },
+  {
+    "name": "Joel Embiid",
+    "chunk": "Player: Joel Embiid\nHeight: 7-0, Weight: 280 lbs\nPros: Dominant scorer and defender, elite post presence, good passer\nCons: Injury history, heavy usage, sometimes struggles with double teams\nStats: PPG: 23.8, RPG: 8.2, APG: 4.5, BPG: 0.9, SPG: 0.7, FG%: 44.4, FT%: 88.2, 3P%: 29.9"
+  },
+  {
+    "name": "Tyson Etienne",
+    "chunk": "Player: Tyson Etienne\nHeight: 6-2, Weight: 200 lbs\nPros: Confident scorer, good quickness, capable shooter\nCons: Undersized, streaky shooter, needs to improve playmaking\nStats: PPG: 7.9, RPG: 1.3, APG: 1.7, BPG: 0.1, SPG: 0.4, FG%: 32.7, FT%: 80.0, 3P%: 29.5"
+  },
+  {
+    "name": "Drew Eubanks",
+    "chunk": "Player: Drew Eubanks\nHeight: 6-10, Weight: 245 lbs\nPros: Energetic big, solid rim protector, good finisher\nCons: Limited shooting range, struggles guarding stretch bigs, foul-prone\nStats: PPG: 4.4, RPG: 3.5, APG: 0.8, BPG: 0.6, SPG: 0.2, FG%: 58.7, FT%: 66.2, 3P%: 50.0"
+  },
+  {
+    "name": "Tosan Evbuomwan",
+    "chunk": "Player: Tosan Evbuomwan\nHeight: 6-7, Weight: 217 lbs\nPros: Smart passer for a forward, solid size and versatility, good defensive instincts\nCons: Inconsistent shooter, raw scoring ability, not explosive\nStats: PPG: 9.5, RPG: 4.3, APG: 2.0, BPG: 0.4, SPG: 0.9, FG%: 42.7, FT%: 75.3, 3P%: 31.2"
+  },
+  {
+    "name": "Dante Exum",
+    "chunk": "Player: Dante Exum\nHeight: 6-5, Weight: 214 lbs\nPros: Versatile defender, improved playmaker, strong size for a guard\nCons: Injury-prone, limited scoring, inconsistent jumper\nStats: PPG: 8.5, RPG: 1.7, APG: 2.8, BPG: 0.1, SPG: 0.6, FG%: 48.9, FT%: 75.8, 3P%: 43.9"
+  },
+  {
+    "name": "Kyle Filipowski",
+    "chunk": "Player: Kyle Filipowski\nHeight: 6-11, Weight: 250 lbs\nPros: Skilled big with shooting touch, strong rebounder, good basketball IQ\nCons: Needs to improve defense, lacks elite athleticism, inconsistent finishing\nStats: PPG: 9.6, RPG: 6.1, APG: 1.9, BPG: 0.3, SPG: 0.7, FG%: 50.2, FT%: 65.0, 3P%: 35.0"
+  },
+  {
+    "name": "Dorian Finney-Smith",
+    "chunk": "Player: Dorian Finney-Smith\nHeight: 6-7, Weight: 220 lbs\nPros: Reliable 3-and-D wing, strong defender, good size and experience\nCons: Limited offensive creation, streaky shooting, not a primary scorer\nStats: PPG: 8.5, RPG: 3.9, APG: 1.5, BPG: 0.4, SPG: 0.9, FG%: 44.6, FT%: 66.7, 3P%: 40.8"
+  },
+  {
+    "name": "Adam Flagler",
+    "chunk": "Player: Adam Flagler\nHeight: 6-3, Weight: 180 lbs\nPros: High IQ guard, solid three-point shooter, good decision-maker\nCons: Undersized, lacks elite burst, defensive limitations\nStats: PPG: 1.7, RPG: 0.7, APG: 0.3, BPG: 0.1, SPG: 0.2, FG%: 26.0, FT%: 50.0, 3P%: 19.4"
+  },
+  {
+    "name": "Trentyn Flowers",
+    "chunk": "Player: Trentyn Flowers\nHeight: 6-9, Weight: 185 lbs\nPros: Great athleticism, versatile scorer, solid ball skills\nCons: Raw decision-making, defensive consistency, still developing physically\nStats: PPG: 1.8, RPG: 0.7, APG: 0.0, BPG: 0.0, SPG: 0.0, FG%: 36.4, FT%: 100.0, 3P%: 0.0"
+  },
+  {
+    "name": "Simone Fontecchio",
+    "chunk": "Player: Simone Fontecchio\nHeight: 6-7, Weight: 209 lbs\nPros: Sharp shooter, good size for a wing, effective in catch-and-shoot\nCons: Limited creation ability, average defender, inconsistent motor\nStats: PPG: 5.9, RPG: 2.9, APG: 0.9, BPG: 0.2, SPG: 0.4, FG%: 40.2, FT%: 83.3, 3P%: 33.5"
+  },
+  {
+    "name": "De'Aaron Fox",
+    "chunk": "Player: De'Aaron Fox\nHeight: 6-3, Weight: 185 lbs\nPros: Elite speed, clutch scorer, strong finisher at the rim\nCons: Inconsistent three-point shooter, average playmaking for position, defensive effort can vary\nStats: PPG: 23.5, RPG: 4.8, APG: 6.3, BPG: 0.4, SPG: 1.5, FG%: 46.3, FT%: 82.7, 3P%: 31.0"
+  },
+  {
+    "name": "Enrique Freeman",
+    "chunk": "Player: Enrique Freeman\nHeight: 6-7, Weight: 220 lbs\nPros: High motor, tough rebounder, finishes strong around the rim\nCons: Limited range, undersized for position, needs polish offensively\nStats: PPG: 2.1, RPG: 1.4, APG: 0.4, BPG: 0.1, SPG: 0.1, FG%: 43.2, FT%: 68.4, 3P%: 10.0"
+  },
+  {
+    "name": "Markelle Fultz",
+    "chunk": "Player: Markelle Fultz\nHeight: 6-4, Weight: 209 lbs\nPros: Strong slasher, good mid-range game, solid defender\nCons: Injury-prone, limited shooting range, struggles with spacing\nStats: PPG: 2.8, RPG: 0.9, APG: 1.2, BPG: 0.1, SPG: 0.5, FG%: 41.8, FT%: 100.0, 3P%: 50.0"
+  },
+  {
+    "name": "Johnny Furphy",
+    "chunk": "Player: Johnny Furphy\nHeight: 6-9, Weight: 200 lbs\nPros: Promising young wing, good shooting mechanics, active rebounder\nCons: Needs to add strength, defensive awareness still developing, raw overall game\nStats: PPG: 1.8, RPG: 1.3, APG: 0.4, BPG: 0.2, SPG: 0.3, FG%: 36.8, FT%: 81.8, 3P%: 28.8"
+  },
+  {
+    "name": "Daniel Gafford",
+    "chunk": "Player: Daniel Gafford\nHeight: 6-10, Weight: 265 lbs\nPros: Elite shot-blocker, strong rim finisher, good energy player\nCons: Limited range, foul-prone, struggles with physical bigs\nStats: PPG: 12.1, RPG: 6.7, APG: 1.4, BPG: 1.8, SPG: 0.4, FG%: 70.4, FT%: 69.2, 3P%: nan"
+  },
+  {
+    "name": "Darius Garland",
+    "chunk": "Player: Darius Garland\nHeight: 6-1, Weight: 192 lbs\nPros: Elite ball handler, great shooter, creative passer\nCons: Undersized, defensive liability, injury history\nStats: PPG: 20.2, RPG: 2.8, APG: 6.6, BPG: 0.1, SPG: 1.2, FG%: 46.9, FT%: 88.2, 3P%: 39.5"
+  },
+  {
+    "name": "Luka Garza",
+    "chunk": "Player: Luka Garza\nHeight: 6-10, Weight: 243 lbs\nPros: Great touch around the rim, capable mid-range shooter, strong post skills\nCons: Struggles defensively, lacks lateral quickness, not athletic\nStats: PPG: 3.4, RPG: 1.3, APG: 0.2, BPG: 0.1, SPG: 0.1, FG%: 52.3, FT%: 68.6, 3P%: 29.7"
+  },
+  {
+    "name": "Keyonte George",
+    "chunk": "Player: Keyonte George\nHeight: 6-4, Weight: 185 lbs\nPros: Natural scorer, quick first step, confident shooter\nCons: Shot selection issues, streaky shooting, defensive discipline\nStats: PPG: 16.6, RPG: 3.8, APG: 5.5, BPG: 0.1, SPG: 0.7, FG%: 39.0, FT%: 81.8, 3P%: 34.2"
+  },
+  {
+    "name": "Kyshawn George",
+    "chunk": "Player: Kyshawn George\nHeight: 6-8, Weight: 200 lbs\nPros: Good size for a guard, smooth shot, promising offensive feel\nCons: Needs strength, not a high-level athlete, inexperienced\nStats: PPG: 8.7, RPG: 4.2, APG: 2.5, BPG: 0.7, SPG: 1.0, FG%: 37.2, FT%: 75.3, 3P%: 32.2"
+  },
+  {
+    "name": "Paul George",
+    "chunk": "Player: Paul George\nHeight: 6-8, Weight: 220 lbs\nPros: Elite two-way wing, strong shooter, excellent defender\nCons: Injury concerns, inconsistent aggressiveness, sometimes passive in big moments\nStats: PPG: 16.2, RPG: 5.3, APG: 4.3, BPG: 0.5, SPG: 1.8, FG%: 43.0, FT%: 81.4, 3P%: 35.8"
+  },
+  {
+    "name": "Taj Gibson",
+    "chunk": "Player: Taj Gibson\nHeight: 6-9, Weight: 232 lbs\nPros: Veteran leadership, physical interior defender, experienced in playoff settings\nCons: Limited mobility due to age, not a floor spacer, reduced offensive impact\nStats: PPG: 2.9, RPG: 3.2, APG: 0.6, BPG: 0.5, SPG: 0.2, FG%: 49.5, FT%: 60.0, 3P%: 50.0"
+  },
+  {
+    "name": "Josh Giddey",
+    "chunk": "Player: Josh Giddey\nHeight: 6-8, Weight: 216 lbs\nPros: Excellent passer, great size for a guard, strong rebounding guard\nCons: Limited shooting range, struggles defensively, lacks elite speed\nStats: PPG: 14.7, RPG: 8.1, APG: 7.1, BPG: 0.6, SPG: 1.2, FG%: 46.4, FT%: 78.3, 3P%: 37.5"
+  },
+  {
+    "name": "Shai Gilgeous-Alexander",
+    "chunk": "Player: Shai Gilgeous-Alexander\nHeight: 6-6, Weight: 195 lbs\nPros: Elite scorer, crafty finisher, great defender\nCons: Low three-point volume, sometimes over-dribbles, not a traditional playmaker\nStats: PPG: 31.5, RPG: 5.0, APG: 6.3, BPG: 0.9, SPG: 1.7, FG%: 51.0, FT%: 88.9, 3P%: 36.3"
+  },
+  {
+    "name": "Anthony Gill",
+    "chunk": "Player: Anthony Gill\nHeight: 6-8, Weight: 230 lbs\nPros: Efficient role player, strong frame, good mid-range game\nCons: Limited playmaking, not a three-point threat, below-average athlete\nStats: PPG: 2.5, RPG: 1.3, APG: 0.3, BPG: 0.0, SPG: 0.2, FG%: 48.9, FT%: 66.0, 3P%: 32.3"
+  },
+  {
+    "name": "Collin Gillespie",
+    "chunk": "Player: Collin Gillespie\nHeight: 6-1, Weight: 195 lbs\nPros: Smart floor general, solid shooter, poised decision maker\nCons: Undersized, struggles defensively, limited athleticism\nStats: PPG: 5.9, RPG: 2.4, APG: 2.4, BPG: 0.2, SPG: 0.6, FG%: 43.0, FT%: 86.4, 3P%: 43.3"
+  },
+  {
+    "name": "Rudy Gobert",
+    "chunk": "Player: Rudy Gobert\nHeight: 7-1, Weight: 258 lbs\nPros: Elite shot blocker, strong rebounder, great rim protector\nCons: Limited offensive skills, poor free-throw shooter, not a floor spacer\nStats: PPG: 11.3, RPG: 10.5, APG: 1.6, BPG: 1.4, SPG: 0.7, FG%: 65.7, FT%: 65.0, 3P%: nan"
+  },
+  {
+    "name": "Jordan Goodwin",
+    "chunk": "Player: Jordan Goodwin\nHeight: 6-5, Weight: 215 lbs\nPros: Tough defender, good size for a guard, scrappy on both ends\nCons: Inconsistent shooter, limited playmaking, can be turnover-prone\nStats: PPG: 5.0, RPG: 3.5, APG: 1.3, BPG: 0.4, SPG: 0.9, FG%: 43.0, FT%: 76.9, 3P%: 37.1"
+  },
+  {
+    "name": "Aaron Gordon",
+    "chunk": "Player: Aaron Gordon\nHeight: 6-8, Weight: 235 lbs\nPros: Athletic finisher, versatile defender, strong rebounder\nCons: Limited outside shooting, inconsistent offensive role, not a playmaker\nStats: PPG: 15.0, RPG: 5.4, APG: 3.1, BPG: 0.3, SPG: 0.5, FG%: 52.0, FT%: 82.1, 3P%: 42.2"
+  },
+  {
+    "name": "Eric Gordon",
+    "chunk": "Player: Eric Gordon\nHeight: 6-3, Weight: 215 lbs\nPros: Veteran scorer, reliable shooter, good off-ball movement\nCons: Aging, defensive liability, streaky shooting\nStats: PPG: 6.8, RPG: 1.2, APG: 1.7, BPG: 0.3, SPG: 0.7, FG%: 42.6, FT%: 75.0, 3P%: 40.9"
+  },
+  {
+    "name": "Jerami Grant",
+    "chunk": "Player: Jerami Grant\nHeight: 6-7, Weight: 210 lbs\nPros: Versatile forward, strong mid-range scorer, solid defender\nCons: Can be inefficient, not a primary playmaker, injury-prone\nStats: PPG: 14.4, RPG: 3.5, APG: 2.1, BPG: 1.0, SPG: 0.9, FG%: 37.3, FT%: 84.9, 3P%: 36.5"
+  },
+  {
+    "name": "A.J. Green",
+    "chunk": "Player: A.J. Green\nHeight: 6-4, Weight: 190 lbs\nPros: Sharp three-point shooter, quick release, efficient scorer\nCons: Limited defense, not a playmaker, undersized for a wing\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Draymond Green",
+    "chunk": "Player: Draymond Green\nHeight: 6-6, Weight: 230 lbs\nPros: Elite defender, great passer for a big, emotional leader\nCons: Limited scoring, foul-prone, volatile temperament\nStats: PPG: 9.0, RPG: 6.0, APG: 5.4, BPG: 1.0, SPG: 1.5, FG%: 41.6, FT%: 69.1, 3P%: 31.1"
+  },
+  {
+    "name": "Jalen Green",
+    "chunk": "Player: Jalen Green\nHeight: 6-4, Weight: 186 lbs\nPros: Explosive athlete, scoring upside, improving shooter\nCons: Inconsistent defense, shot selection issues, not a great passer\nStats: PPG: 20.4, RPG: 4.7, APG: 3.4, BPG: 0.3, SPG: 0.8, FG%: 42.0, FT%: 80.3, 3P%: 35.0"
+  },
+  {
+    "name": "Javonte Green",
+    "chunk": "Player: Javonte Green\nHeight: 6-5, Weight: 205 lbs\nPros: High-energy defender, athletic finisher, strong rebounder for size\nCons: Limited offensive range, undersized for forward, not a creator\nStats: PPG: 4.9, RPG: 3.1, APG: 0.8, BPG: 0.4, SPG: 0.9, FG%: 42.8, FT%: 74.4, 3P%: 32.2"
+  },
+  {
+    "name": "Jeff Green",
+    "chunk": "Player: Jeff Green\nHeight: 6-8, Weight: 235 lbs\nPros: Veteran presence, capable shooter, versatile forward\nCons: Aging, inconsistent effort, limited rebounding\nStats: PPG: 5.0, RPG: 1.7, APG: 0.6, BPG: 0.1, SPG: 0.2, FG%: 50.0, FT%: 80.8, 3P%: 37.5"
+  },
+  {
+    "name": "Josh Green",
+    "chunk": "Player: Josh Green\nHeight: 6-5, Weight: 200 lbs\nPros: High motor defender, improving three-point shot, athletic wing\nCons: Still developing offensively, not a shot creator, inconsistent impact\nStats: PPG: 7.4, RPG: 2.5, APG: 1.6, BPG: 0.2, SPG: 1.1, FG%: 42.8, FT%: 68.1, 3P%: 39.1"
+  },
+  {
+    "name": "Quentin Grimes",
+    "chunk": "Player: Quentin Grimes\nHeight: 6-4, Weight: 210 lbs\nPros: 3-and-D guard, strong defender, good off-ball movement\nCons: Inconsistent shooting, limited playmaking, not a primary scorer\nStats: PPG: 14.6, RPG: 4.3, APG: 3.0, BPG: 0.3, SPG: 1.0, FG%: 46.7, FT%: 75.7, 3P%: 38.5"
+  },
+  {
+    "name": "Mouhamed Gueye",
+    "chunk": "Player: Mouhamed Gueye\nHeight: 6-10, Weight: 210 lbs\nPros: Mobile big, rim protector, has offensive potential\nCons: Raw skillset, foul-prone, not a floor spacer\nStats: PPG: 6.1, RPG: 4.1, APG: 0.9, BPG: 1.0, SPG: 0.8, FG%: 43.6, FT%: 72.3, 3P%: 26.5"
+  },
+  {
+    "name": "Rui Hachimura",
+    "chunk": "Player: Rui Hachimura\nHeight: 6-8, Weight: 230 lbs\nPros: Strong mid-range game, solid post-up scorer, good size\nCons: Inconsistent shooter, average defender, low assist numbers\nStats: PPG: 13.3, RPG: 5.0, APG: 1.4, BPG: 0.5, SPG: 0.8, FG%: 50.7, FT%: 77.6, 3P%: 42.1"
+  },
+  {
+    "name": "Tyrese Haliburton",
+    "chunk": "Player: Tyrese Haliburton\nHeight: 6-5, Weight: 185 lbs\nPros: Elite passer, great shooter, high basketball IQ\nCons: Skinny frame, not a great defender, limited inside scoring\nStats: PPG: 18.7, RPG: 3.9, APG: 9.3, BPG: 0.7, SPG: 1.4, FG%: 47.2, FT%: 84.2, 3P%: 37.9"
+  },
+  {
+    "name": "P.J. Hall",
+    "chunk": "Player: P.J. Hall\nHeight: 6-10, Weight: 245 lbs\nPros: Strong build, effective post scorer, good touch around the rim\nCons: Undersized center, not a floor spacer, average defender\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Tim Hardaway Jr.",
+    "chunk": "Player: Tim Hardaway Jr.\nHeight: 6-5, Weight: 205 lbs\nPros: Reliable shooter, good spacing, veteran experience\nCons: Streaky scorer, average defender, not a playmaker\nStats: PPG: 11.0, RPG: 2.4, APG: 1.6, BPG: 0.1, SPG: 0.5, FG%: 39.9, FT%: 85.2, 3P%: 36.1"
+  },
+  {
+    "name": "James Harden",
+    "chunk": "Player: James Harden\nHeight: 6-5, Weight: 220 lbs\nPros: Elite scorer and passer, high basketball IQ, draws fouls effectively\nCons: Defensive lapses, playoff inconsistency, declining athleticism\nStats: PPG: 22.0, RPG: 5.6, APG: 8.6, BPG: 0.7, SPG: 1.4, FG%: 41.2, FT%: 87.1, 3P%: 35.4"
+  },
+  {
+    "name": "Jaden Hardy",
+    "chunk": "Player: Jaden Hardy\nHeight: 6-3, Weight: 198 lbs\nPros: Natural scorer, confident shooter, offensive upside\nCons: Inconsistent efficiency, needs to improve defense, raw decision-making\nStats: PPG: 8.6, RPG: 1.5, APG: 1.4, BPG: 0.1, SPG: 0.5, FG%: 43.4, FT%: 69.8, 3P%: 38.6"
+  },
+  {
+    "name": "E.J. Harkless",
+    "chunk": "Player: E.J. Harkless\nHeight: 6-3, Weight: 195 lbs\nPros: Solid defender, good size for a wing, experienced\nCons: Limited offensive output, not a shooter, injury history\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Ron Harper",
+    "chunk": "Player: Ron Harper\nHeight: 6-4, Weight: 233 lbs\nPros: Strong guard, solid defender, high basketball IQ\nCons: Limited offensive creativity, not a high-volume scorer, average shooter\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Gary Harris",
+    "chunk": "Player: Gary Harris\nHeight: 6-4, Weight: 210 lbs\nPros: Good perimeter defender, reliable three-point shooter, experienced\nCons: Injury-prone, limited playmaking, inconsistent scoring\nStats: PPG: 2.9, RPG: 1.3, APG: 0.6, BPG: 0.2, SPG: 0.6, FG%: 38.5, FT%: 58.3, 3P%: 35.2"
+  },
+  {
+    "name": "Tobias Harris",
+    "chunk": "Player: Tobias Harris\nHeight: 6-8, Weight: 226 lbs\nPros: Versatile scorer, strong mid-range game, consistent contributor\nCons: Not a great defender, lacks playmaking, can disappear in big games\nStats: PPG: 13.9, RPG: 6.1, APG: 2.1, BPG: 0.8, SPG: 1.0, FG%: 47.7, FT%: 87.4, 3P%: 35.2"
+  },
+  {
+    "name": "Josh Hart",
+    "chunk": "Player: Josh Hart\nHeight: 6-4, Weight: 215 lbs\nPros: Elite rebounder for size, high energy, versatile defender\nCons: Inconsistent three-point shooter, not a go-to scorer, limited ball-handling\nStats: PPG: 13.3, RPG: 9.4, APG: 5.6, BPG: 0.4, SPG: 1.5, FG%: 51.6, FT%: 77.6, 3P%: 34.0"
+  },
+  {
+    "name": "Isaiah Hartenstein",
+    "chunk": "Player: Isaiah Hartenstein\nHeight: 7-0, Weight: 250 lbs\nPros: Great passer for a big, good rebounder, solid interior defender\nCons: Limited range, foul-prone, not an elite athlete\nStats: PPG: 10.8, RPG: 10.1, APG: 3.4, BPG: 1.0, SPG: 0.8, FG%: 58.8, FT%: 68.1, 3P%: 0.0"
+  },
+  {
+    "name": "Sam Hauser",
+    "chunk": "Player: Sam Hauser\nHeight: 6-7, Weight: 217 lbs\nPros: Elite shooter, good off-ball movement, efficient scorer\nCons: Below-average defender, not a playmaker, limited athleticism\nStats: PPG: 8.0, RPG: 3.0, APG: 0.9, BPG: 0.2, SPG: 0.5, FG%: 45.0, FT%: 100.0, 3P%: 41.2"
+  },
+  {
+    "name": "Jordan Hawkins",
+    "chunk": "Player: Jordan Hawkins\nHeight: 6-5, Weight: 190 lbs\nPros: Sharp shooter, moves well without the ball, high motor\nCons: Needs to improve defense, limited ball-handling, undersized for a wing\nStats: PPG: 10.8, RPG: 2.8, APG: 1.2, BPG: 0.4, SPG: 0.5, FG%: 37.2, FT%: 81.6, 3P%: 33.1"
+  },
+  {
+    "name": "Jaxson Hayes",
+    "chunk": "Player: Jaxson Hayes\nHeight: 7-0, Weight: 220 lbs\nPros: Athletic big, strong shot blocker, great lob finisher\nCons: Limited offensive skillset, inconsistent effort, foul trouble\nStats: PPG: 6.5, RPG: 4.6, APG: 1.0, BPG: 0.9, SPG: 0.5, FG%: 71.0, FT%: 62.0, 3P%: 0.0"
+  },
+  {
+    "name": "Scoot Henderson",
+    "chunk": "Player: Scoot Henderson\nHeight: 6-3, Weight: 206 lbs\nPros: Explosive athlete, great court vision, confident leader\nCons: Inconsistent shooting, turnovers, defensive focus\nStats: PPG: 12.7, RPG: 3.0, APG: 5.1, BPG: 0.2, SPG: 1.0, FG%: 41.9, FT%: 76.7, 3P%: 35.4"
+  },
+  {
+    "name": "Taylor Hendricks",
+    "chunk": "Player: Taylor Hendricks\nHeight: 6-9, Weight: 215 lbs\nPros: Versatile defender, good shooting potential, solid rim protector\nCons: Raw offensive game, needs to improve handle, inconsistent motor\nStats: PPG: 4.7, RPG: 5.0, APG: 0.7, BPG: 1.3, SPG: 1.7, FG%: 22.2, FT%: 75.0, 3P%: 25.0"
+  },
+  {
+    "name": "Tyler Herro",
+    "chunk": "Player: Tyler Herro\nHeight: 6-5, Weight: 195 lbs\nPros: Elite scorer, confident shooter, solid playmaker\nCons: Defensive liability, injury-prone, inconsistent under pressure\nStats: PPG: 23.6, RPG: 5.1, APG: 5.3, BPG: 0.2, SPG: 0.9, FG%: 47.3, FT%: 87.5, 3P%: 37.5"
+  },
+  {
+    "name": "Buddy Hield",
+    "chunk": "Player: Buddy Hield\nHeight: 6-4, Weight: 220 lbs\nPros: Elite three-point shooter, floor spacer, experienced\nCons: Not a defender, limited ball-handling, streaky scorer\nStats: PPG: 11.2, RPG: 3.2, APG: 1.6, BPG: 0.3, SPG: 0.9, FG%: 41.6, FT%: 84.6, 3P%: 37.5"
+  },
+  {
+    "name": "Haywood Highsmith",
+    "chunk": "Player: Haywood Highsmith\nHeight: 6-5, Weight: 220 lbs\nPros: Strong wing defender, good role player, improving shooter\nCons: Limited offense, not a creator, low usage\nStats: PPG: 6.6, RPG: 3.5, APG: 1.5, BPG: 0.5, SPG: 0.9, FG%: 46.6, FT%: 72.1, 3P%: 38.7"
+  },
+  {
+    "name": "Aaron Holiday",
+    "chunk": "Player: Aaron Holiday\nHeight: 6-0, Weight: 185 lbs\nPros: Quick guard, good three-point shooter, energetic defender\nCons: Undersized, not a primary playmaker, streaky scorer\nStats: PPG: 5.4, RPG: 1.2, APG: 1.3, BPG: 0.2, SPG: 0.3, FG%: 43.5, FT%: 80.0, 3P%: 39.8"
+  },
+  {
+    "name": "Jrue Holiday",
+    "chunk": "Player: Jrue Holiday\nHeight: 6-4, Weight: 205 lbs\nPros: Elite perimeter defender, smart playmaker, clutch performer\nCons: Inconsistent scoring, aging, sometimes passive offensively\nStats: PPG: 10.9, RPG: 4.3, APG: 3.9, BPG: 0.4, SPG: 1.0, FG%: 44.7, FT%: 87.8, 3P%: 35.2"
+  },
+  {
+    "name": "Ron Holland",
+    "chunk": "Player: Ron Holland\nHeight: 6-8, Weight: 206 lbs\nPros: Athletic wing, strong slasher, defensive upside\nCons: Needs consistent jumper, raw offensive game, limited shot creation\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "DaRon Holmes II",
+    "chunk": "Player: DaRon Holmes II\nHeight: 6-10, Weight: 225 lbs\nPros: Mobile big with scoring touch, solid rebounder, active shot blocker\nCons: Needs more strength, limited shooting range, raw in decision-making\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Richaun Holmes",
+    "chunk": "Player: Richaun Holmes\nHeight: 6-9, Weight: 235 lbs\nPros: Efficient finisher, strong in the pick-and-roll, solid rebounder\nCons: Limited range, average rim protector, undersized for a center\nStats: PPG: 7.4, RPG: 5.7, APG: 1.4, BPG: 0.7, SPG: 0.3, FG%: 64.7, FT%: 83.3, 3P%: 0.0"
+  },
+  {
+    "name": "Chet Holmgren",
+    "chunk": "Player: Chet Holmgren\nHeight: 7-1, Weight: 208 lbs\nPros: Elite shot blocker, great shooting touch for size, versatile defender\nCons: Thin frame, injury concerns, still developing physicality\nStats: PPG: 15.5, RPG: 8.2, APG: 1.7, BPG: 2.1, SPG: 0.8, FG%: 49.0, FT%: 75.5, 3P%: 36.2"
+  },
+  {
+    "name": "Jalen Hood-Schifino",
+    "chunk": "Player: Jalen Hood-Schifino\nHeight: 6-5, Weight: 210 lbs\nPros: Strong guard, good size, solid mid-range game\nCons: Inconsistent shooter, adjusting to NBA pace, needs more playmaking polish\nStats: PPG: 6.6, RPG: 1.7, APG: 2.3, BPG: 0.4, SPG: 0.3, FG%: 37.8, FT%: 85.7, 3P%: 30.4"
+  },
+  {
+    "name": "Al Horford",
+    "chunk": "Player: Al Horford\nHeight: 6-9, Weight: 240 lbs\nPros: Veteran leader, strong defender, reliable shooter\nCons: Aging, limited mobility, not a high-usage scorer\nStats: PPG: 8.8, RPG: 6.1, APG: 2.1, BPG: 0.9, SPG: 0.6, FG%: 43.0, FT%: 88.9, 3P%: 36.7"
+  },
+  {
+    "name": "Talen Horton-Tucker",
+    "chunk": "Player: Talen Horton-Tucker\nHeight: 6-4, Weight: 234 lbs\nPros: Strong slasher, decent playmaker, versatile guard\nCons: Inconsistent jumper, defensive lapses, turnover-prone\nStats: PPG: 6.6, RPG: 1.7, APG: 1.4, BPG: 0.2, SPG: 0.4, FG%: 46.1, FT%: 73.5, 3P%: 33.6"
+  },
+  {
+    "name": "Caleb Houstan",
+    "chunk": "Player: Caleb Houstan\nHeight: 6-8, Weight: 205 lbs\nPros: Good three-point shooter, solid size for a wing, developing defender\nCons: Inconsistent production, not a creator, needs strength\nStats: PPG: 3.8, RPG: 1.3, APG: 0.6, BPG: 0.1, SPG: 0.3, FG%: 40.0, FT%: 88.2, 3P%: 38.6"
+  },
+  {
+    "name": "Jett Howard",
+    "chunk": "Player: Jett Howard\nHeight: 6-6, Weight: 215 lbs\nPros: Skilled shooter, smooth offensive game, NBA-ready frame\nCons: Struggles defensively, not a playmaker, needs to improve efficiency\nStats: PPG: 4.4, RPG: 1.1, APG: 0.7, BPG: 0.2, SPG: 0.2, FG%: 37.6, FT%: 69.6, 3P%: 30.2"
+  },
+  {
+    "name": "Kevin Huerter",
+    "chunk": "Player: Kevin Huerter\nHeight: 6-7, Weight: 198 lbs\nPros: Sharp shooter, good passer for a wing, high basketball IQ\nCons: Inconsistent defense, struggles with physical wings, not a primary creator\nStats: PPG: 9.9, RPG: 2.9, APG: 2.2, BPG: 0.3, SPG: 1.0, FG%: 42.6, FT%: 73.1, 3P%: 33.7"
+  },
+  {
+    "name": "James Huff",
+    "chunk": "Player: James Huff\nHeight: 7-1, Weight: 240 lbs\nPros: Tall rim protector, good touch around the rim, mobile for size\nCons: Thin frame, lacks offensive range, injury-prone\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Ariel Hukporti",
+    "chunk": "Player: Ariel Hukporti\nHeight: 6-11, Weight: 246 lbs\nPros: Strong, athletic center, physical rebounder, rim runner\nCons: Raw skill set, inconsistent hands, developing basketball IQ\nStats: PPG: 1.9, RPG: 1.9, APG: 0.4, BPG: 0.5, SPG: 0.0, FG%: 69.7, FT%: 40.0, 3P%: nan"
+  },
+  {
+    "name": "De'Andre Hunter",
+    "chunk": "Player: De'Andre Hunter\nHeight: 6-8, Weight: 221 lbs\nPros: Strong wing defender, good size and length, capable shooter\nCons: Injury-prone, inconsistent offensively, not a playmaker\nStats: PPG: 16.3, RPG: 4.0, APG: 1.4, BPG: 0.2, SPG: 0.8, FG%: 46.7, FT%: 84.6, 3P%: 40.8"
+  },
+  {
+    "name": "Bones Hyland",
+    "chunk": "Player: Bones Hyland\nHeight: 6-2, Weight: 169 lbs\nPros: Dynamic scorer, confident shooter, high energy\nCons: Undersized, defensive liability, decision-making issues\nStats: PPG: 5.5, RPG: 0.9, APG: 1.2, BPG: 0.1, SPG: 0.7, FG%: 39.8, FT%: 88.5, 3P%: 39.0"
+  },
+  {
+    "name": "Oso Ighodaro",
+    "chunk": "Player: Oso Ighodaro\nHeight: 7-0, Weight: 235 lbs\nPros: Mobile big, solid finisher, good passer for position\nCons: Undersized for center, limited shooting, foul-prone\nStats: PPG: 4.2, RPG: 3.6, APG: 1.2, BPG: 0.5, SPG: 0.5, FG%: 60.4, FT%: 58.0, 3P%: 0.0"
+  },
+  {
+    "name": "Joe Ingles",
+    "chunk": "Player: Joe Ingles\nHeight: 6-8, Weight: 220 lbs\nPros: Smart playmaker, reliable shooter, veteran presence\nCons: Aging, lacks athleticism, struggles on defense\nStats: PPG: 0.8, RPG: 0.6, APG: 1.2, BPG: 0.0, SPG: 0.1, FG%: 26.1, FT%: nan, 3P%: 20.0"
+  },
+  {
+    "name": "Brandon Ingram",
+    "chunk": "Player: Brandon Ingram\nHeight: 6-8, Weight: 190 lbs\nPros: Smooth scorer, great mid-range game, good passer\nCons: Injury history, inconsistent three-point shooting, not a great defender\nStats: PPG: 22.2, RPG: 5.6, APG: 5.2, BPG: 0.6, SPG: 0.9, FG%: 46.5, FT%: 85.5, 3P%: 37.4"
+  },
+  {
+    "name": "Harrison Ingram",
+    "chunk": "Player: Harrison Ingram\nHeight: 6-5, Weight: 230 lbs\nPros: Versatile wing, solid passer, strong frame\nCons: Inconsistent shooter, needs to improve lateral quickness, developing offensive game\nStats: PPG: 0.8, RPG: 1.8, APG: 0.6, BPG: 0.0, SPG: 0.6, FG%: 50.0, FT%: nan, 3P%: 0.0"
+  },
+  {
+    "name": "Kyrie Irving",
+    "chunk": "Player: Kyrie Irving\nHeight: 6-2, Weight: 195 lbs\nPros: Elite ball handler, clutch scorer, unstoppable in isolation\nCons: Injury-prone, defensive liability, off-court distractions\nStats: PPG: 23.9, RPG: 4.7, APG: 4.5, BPG: 0.4, SPG: 1.3, FG%: 47.4, FT%: 91.6, 3P%: 40.3"
+  },
+  {
+    "name": "Jonathan Isaac",
+    "chunk": "Player: Jonathan Isaac\nHeight: 6-10, Weight: 230 lbs\nPros: Elite defender, great length and mobility, shot-blocking wing\nCons: Injury-plagued career, limited offense, lacks playmaking\nStats: PPG: 5.2, RPG: 4.3, APG: 0.6, BPG: 1.1, SPG: 0.8, FG%: 42.4, FT%: 67.9, 3P%: 25.6"
+  },
+  {
+    "name": "Jaden Ivey",
+    "chunk": "Player: Jaden Ivey\nHeight: 6-4, Weight: 195 lbs\nPros: Explosive athlete, downhill scorer, improving passer\nCons: Inconsistent jumper, turnover-prone, still developing defensively\nStats: PPG: 17.6, RPG: 4.1, APG: 4.0, BPG: 0.4, SPG: 0.9, FG%: 46.0, FT%: 73.3, 3P%: 40.9"
+  },
+  {
+    "name": "G.G. Jackson",
+    "chunk": "Player: G.G. Jackson\nHeight: 6-9, Weight: 210 lbs\nPros: Promising scorer, good size for forward, confident shot taker\nCons: Shot selection issues, defensive lapses, still raw and developing\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Isaiah Jackson",
+    "chunk": "Player: Isaiah Jackson\nHeight: 6-9, Weight: 205 lbs\nPros: Athletic shot blocker, great vertical, good finisher\nCons: Thin frame, foul-prone, limited offensive game\nStats: PPG: 7.0, RPG: 5.6, APG: 1.0, BPG: 1.6, SPG: 0.6, FG%: 60.9, FT%: 50.0, 3P%: nan"
+  },
+  {
+    "name": "Andre Jackson, Jr.",
+    "chunk": "Player: Andre Jackson, Jr.\nHeight: 6-6, Weight: 209 lbs\nPros: Elite athlete, strong defender, great in transition\nCons: Limited shooter, not a scoring threat, inconsistent half-court offense\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Jaren Jackson, Jr.",
+    "chunk": "Player: Jaren Jackson, Jr.\nHeight: 6-10, Weight: 242 lbs\nPros: Elite shot blocker, capable floor spacer, versatile defender\nCons: Foul trouble issues, rebounding inconsistency, injury history\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Quenton Jackson",
+    "chunk": "Player: Quenton Jackson\nHeight: 6-5, Weight: 173 lbs\nPros: Explosive guard, good slasher, high energy\nCons: Inconsistent shooter, limited playmaking, defensive lapses\nStats: PPG: 5.8, RPG: 1.6, APG: 1.9, BPG: 0.2, SPG: 0.8, FG%: 47.5, FT%: 77.5, 3P%: 37.5"
+  },
+  {
+    "name": "Trayce Jackson-Davis",
+    "chunk": "Player: Trayce Jackson-Davis\nHeight: 6-9, Weight: 245 lbs\nPros: Strong interior scorer, great rebounder, effective post player\nCons: Limited shooting range, not a stretch big, needs to improve defense\nStats: PPG: 6.2, RPG: 4.6, APG: 1.5, BPG: 0.6, SPG: 0.4, FG%: 59.5, FT%: 55.7, 3P%: 0.0"
+  },
+  {
+    "name": "Bronny James",
+    "chunk": "Player: Bronny James\nHeight: 6-3, Weight: 210 lbs\nPros: Good defensive instincts, solid frame, unselfish passer\nCons: Still raw offensively, lacks elite athleticism, inconsistent shooter\nStats: PPG: 2.1, RPG: 0.6, APG: 0.8, BPG: 0.1, SPG: 0.3, FG%: 30.4, FT%: 78.6, 3P%: 26.5"
+  },
+  {
+    "name": "LeBron James",
+    "chunk": "Player: LeBron James\nHeight: 6-9, Weight: 250 lbs\nPros: Elite playmaker, strong scorer, high basketball IQ, unmatched experience\nCons: Aging, sometimes coasts defensively, heavy mileage\nStats: PPG: 24.5, RPG: 7.9, APG: 8.0, BPG: 0.6, SPG: 1.1, FG%: 51.1, FT%: 78.2, 3P%: 37.5"
+  },
+  {
+    "name": "Jaime Jaquez, Jr.",
+    "chunk": "Player: Jaime Jaquez, Jr.\nHeight: 6-6, Weight: 225 lbs\nPros: Polished scorer, high basketball IQ, good post-up game for wing\nCons: Limited athleticism, not a quick defender, average three-point shooter\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "DaQuan Jeffries",
+    "chunk": "Player: DaQuan Jeffries\nHeight: 6-5, Weight: 222 lbs\nPros: Strong, athletic wing, capable defender, plays with energy\nCons: Limited offensive creation, streaky shooter, lacks consistent role\nStats: PPG: 6.7, RPG: 2.9, APG: 1.1, BPG: 0.5, SPG: 0.6, FG%: 40.5, FT%: 80.0, 3P%: 33.5"
+  },
+  {
+    "name": "Trey Jemison",
+    "chunk": "Player: Trey Jemison\nHeight: 6-11, Weight: 270 lbs\nPros: Physical center, solid rebounder, strong finisher\nCons: Limited mobility, not a shooter, struggles in space defensively\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Daniss Jenkins",
+    "chunk": "Player: Daniss Jenkins\nHeight: 6-3, Weight: 165 lbs\nPros: Solid ball-handler, good in pick-and-roll, active defender\nCons: Inconsistent shooting, lacks size, still developing playmaking\nStats: PPG: 1.0, RPG: 0.3, APG: 0.4, BPG: 0.0, SPG: 0.0, FG%: 30.0, FT%: 0.0, 3P%: 14.3"
+  },
+  {
+    "name": "Ty Jerome",
+    "chunk": "Player: Ty Jerome\nHeight: 6-5, Weight: 195 lbs\nPros: Smart guard, good shooter, reliable decision-maker\nCons: Limited athleticism, struggles defensively, not a high-usage player\nStats: PPG: 12.4, RPG: 2.5, APG: 3.4, BPG: 0.1, SPG: 1.1, FG%: 50.1, FT%: 86.9, 3P%: 43.3"
+  },
+  {
+    "name": "Isaiah Joe",
+    "chunk": "Player: Isaiah Joe\nHeight: 6-3, Weight: 165 lbs\nPros: Elite three-point shooter, great spacing option, confident stroke\nCons: Undersized for defense, not a playmaker, streaky production\nStats: PPG: 9.3, RPG: 2.5, APG: 1.5, BPG: 0.1, SPG: 0.6, FG%: 44.1, FT%: 82.6, 3P%: 40.7"
+  },
+  {
+    "name": "A.J. Johnson",
+    "chunk": "Player: A.J. Johnson\nHeight: 6-5, Weight: 160 lbs\nPros: Tall combo guard, intriguing upside, smooth shot\nCons: Needs to add strength, raw decision-making, limited experience\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Cameron Johnson",
+    "chunk": "Player: Cameron Johnson\nHeight: 6-8, Weight: 210 lbs\nPros: Excellent shooter, good off-ball movement, smart team defender\nCons: Injury-prone, not a creator, average athleticism\nStats: PPG: 18.8, RPG: 4.3, APG: 3.4, BPG: 0.4, SPG: 0.9, FG%: 47.5, FT%: 89.3, 3P%: 39.0"
+  },
+  {
+    "name": "Jalen Johnson",
+    "chunk": "Player: Jalen Johnson\nHeight: 6-8, Weight: 219 lbs\nPros: Versatile forward, strong rebounder, athletic in transition\nCons: Inconsistent jumper, raw decision-making, prone to fouling\nStats: PPG: 18.9, RPG: 10.0, APG: 5.0, BPG: 1.0, SPG: 1.6, FG%: 50.0, FT%: 74.6, 3P%: 31.2"
+  },
+  {
+    "name": "James Johnson",
+    "chunk": "Player: James Johnson\nHeight: 6-7, Weight: 240 lbs\nPros: Tough defender, veteran enforcer, brings physicality\nCons: Limited offensive impact, aging, not a shooter\nStats: PPG: 0.9, RPG: 0.5, APG: 0.4, BPG: 0.3, SPG: 0.1, FG%: 42.9, FT%: 33.3, 3P%: 0.0"
+  },
+  {
+    "name": "Keldon Johnson",
+    "chunk": "Player: Keldon Johnson\nHeight: 6-5, Weight: 220 lbs\nPros: Aggressive scorer, strong frame, good rebounder for size\nCons: Streaky shooter, inconsistent defense, limited passing\nStats: PPG: 12.7, RPG: 4.8, APG: 1.6, BPG: 0.3, SPG: 0.6, FG%: 48.2, FT%: 77.3, 3P%: 31.8"
+  },
+  {
+    "name": "Keon Johnson",
+    "chunk": "Player: Keon Johnson\nHeight: 6-5, Weight: 185 lbs\nPros: Elite athleticism, high-energy defender, good slasher\nCons: Struggles shooting, raw offensively, turnover-prone\nStats: PPG: 10.6, RPG: 3.8, APG: 2.2, BPG: 0.4, SPG: 1.0, FG%: 38.9, FT%: 77.0, 3P%: 31.4"
+  },
+  {
+    "name": "Marcus Sasser",
+    "chunk": "Player: Marcus Sasser\nHeight: 6-2, Weight: 195 lbs\nPros: Quick guard with solid shooting ability, tough on-ball defender, high motor\nCons: Undersized for position, limited playmaking, struggles finishing through contact\nStats: PPG: 6.6, RPG: 1.2, APG: 2.3, BPG: 0.1, SPG: 0.6, FG%: 46.3, FT%: 84.3, 3P%: 38.2"
+  },
+  {
+    "name": "Baylor Scheierman",
+    "chunk": "Player: Baylor Scheierman\nHeight: 6-6, Weight: 205 lbs\nPros: Versatile shooter, solid rebounding wing, high IQ passer\nCons: Not very athletic, average defender, limited upside off the dribble\nStats: PPG: 3.5, RPG: 2.0, APG: 0.9, BPG: 0.1, SPG: 0.5, FG%: 35.0, FT%: 75.0, 3P%: 32.2"
+  },
+  {
+    "name": "Dennis Schroder",
+    "chunk": "Player: Dennis Schroder\nHeight: 6-1, Weight: 175 lbs\nPros: Speedy playmaker, solid mid-range game, veteran experience\nCons: Streaky shooter, defensive inconsistencies, sometimes high turnover rate\nStats: PPG: 13.0, RPG: 2.6, APG: 5.3, BPG: 0.2, SPG: 0.9, FG%: 41.1, FT%: 83.6, 3P%: 34.9"
+  },
+  {
+    "name": "Alperen Sengun",
+    "chunk": "Player: Alperen Sengun\nHeight: 6-11, Weight: 243 lbs\nPros: Elite post scorer, excellent passer for a big, good footwork\nCons: Below-average rim protection, not a stretch big, defensive liability in space\nStats: PPG: 18.8, RPG: 10.2, APG: 4.8, BPG: 0.8, SPG: 1.1, FG%: 49.2, FT%: 68.6, 3P%: 24.5"
+  },
+  {
+    "name": "Brice Sensabaugh",
+    "chunk": "Player: Brice Sensabaugh\nHeight: 6-5, Weight: 235 lbs\nPros: Strong scorer, good shooting mechanics, physical wing\nCons: Inconsistent defender, needs conditioning, limited lateral quickness\nStats: PPG: 10.9, RPG: 3.0, APG: 1.5, BPG: 0.1, SPG: 0.6, FG%: 45.9, FT%: 89.0, 3P%: 42.2"
+  },
+  {
+    "name": "Collin Sexton",
+    "chunk": "Player: Collin Sexton\nHeight: 6-3, Weight: 190 lbs\nPros: Aggressive scorer, fast with the ball, high motor\nCons: Undersized for SG, tunnel vision, inconsistent playmaking\nStats: PPG: 18.4, RPG: 2.7, APG: 4.2, BPG: 0.1, SPG: 0.7, FG%: 48.0, FT%: 86.5, 3P%: 40.6"
+  },
+  {
+    "name": "Landry Shamet",
+    "chunk": "Player: Landry Shamet\nHeight: 6-4, Weight: 190 lbs\nPros: Solid three-point shooter, good off-ball movement, experienced role player\nCons: Below-average defender, limited ball-handling, streaky shooter\nStats: PPG: 5.1, RPG: 1.1, APG: 0.6, BPG: 0.0, SPG: 0.4, FG%: 46.0, FT%: 59.1, 3P%: 40.4"
+  },
+  {
+    "name": "Terrence Shannon, Jr.",
+    "chunk": "Player: Terrence Shannon, Jr.\nHeight: 6-6, Weight: 215 lbs\nPros: Athletic slasher, strong defender, high motor wing\nCons: Inconsistent outside shot, still developing as playmaker, turnover-prone\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Day'Ron Sharpe",
+    "chunk": "Player: Day'Ron Sharpe\nHeight: 6-9, Weight: 265 lbs\nPros: Strong rebounder, physical inside presence, good screen setter\nCons: Limited offensive range, foul-prone, struggles guarding stretch bigs\nStats: PPG: 7.9, RPG: 6.6, APG: 1.8, BPG: 0.8, SPG: 0.8, FG%: 52.1, FT%: 75.7, 3P%: 24.4"
+  },
+  {
+    "name": "Shaedon Sharpe",
+    "chunk": "Player: Shaedon Sharpe\nHeight: 6-5, Weight: 208 lbs\nPros: Explosive athlete, great shot creator, high ceiling\nCons: Raw decision-making, inconsistent defense, still learning pace of play\nStats: PPG: 18.5, RPG: 4.5, APG: 2.8, BPG: 0.2, SPG: 0.9, FG%: 45.2, FT%: 78.5, 3P%: 31.1"
+  },
+  {
+    "name": "Jamal Shead",
+    "chunk": "Player: Jamal Shead\nHeight: 6-1, Weight: 200 lbs\nPros: Elite on-ball defender, strong leadership, high effort player\nCons: Limited offensive creativity, undersized, needs to improve outside shot\nStats: PPG: 7.1, RPG: 1.5, APG: 4.2, BPG: 0.1, SPG: 0.8, FG%: 40.5, FT%: 76.8, 3P%: 32.3"
+  },
+  {
+    "name": "Ben Sheppard",
+    "chunk": "Player: Ben Sheppard\nHeight: 6-6, Weight: 190 lbs\nPros: High-energy defender, good three-point shooter, plays with intensity\nCons: Limited off-dribble game, average passer, adjusting to NBA speed\nStats: PPG: 4.9, RPG: 2.6, APG: 1.2, BPG: 0.2, SPG: 0.5, FG%: 42.5, FT%: 90.3, 3P%: 35.1"
+  },
+  {
+    "name": "Reed Sheppard",
+    "chunk": "Player: Reed Sheppard\nHeight: 6-2, Weight: 185 lbs\nPros: Smart and efficient shooter, quick decision-maker, great feel for the game\nCons: Undersized, average athlete, defensive limitations\nStats: PPG: 4.2, RPG: 1.4, APG: 1.4, BPG: 0.3, SPG: 0.7, FG%: 34.9, FT%: 81.2, 3P%: 33.3"
+  },
+  {
+    "name": "Pascal Siakam",
+    "chunk": "Player: Pascal Siakam\nHeight: 6-8, Weight: 245 lbs\nPros: Versatile forward, strong scorer and defender, excellent in transition\nCons: Inconsistent shooting range, not a true closer, decision-making under pressure\nStats: PPG: 20.0, RPG: 6.6, APG: 3.3, BPG: 0.5, SPG: 0.9, FG%: 52.2, FT%: 72.1, 3P%: 39.9"
+  },
+  {
+    "name": "Ben Simmons",
+    "chunk": "Player: Ben Simmons\nHeight: 6-10, Weight: 240 lbs\nPros: Elite passer and defender, great size and speed for PG, versatile defensively\nCons: Refuses to shoot, major injury and confidence issues, offensive liability in halfcourt\nStats: PPG: 4.6, RPG: 4.4, APG: 5.2, BPG: 0.5, SPG: 0.7, FG%: 51.5, FT%: 72.7, 3P%: nan"
+  },
+  {
+    "name": "Anfernee Simons",
+    "chunk": "Player: Anfernee Simons\nHeight: 6-3, Weight: 200 lbs\nPros: Skilled scorer, smooth shooter, explosive off the dribble\nCons: Undersized for SG, defensive struggles, limited playmaking vision\nStats: PPG: 19.3, RPG: 2.7, APG: 4.8, BPG: 0.1, SPG: 0.9, FG%: 42.6, FT%: 90.2, 3P%: 36.3"
+  },
+  {
+    "name": "K.J. Simpson",
+    "chunk": "Player: K.J. Simpson\nHeight: 6-0, Weight: 189 lbs\nPros: Crafty scorer, quick release, solid handle\nCons: Undersized, inconsistent defense, not a traditional playmaker\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Jericho Sims",
+    "chunk": "Player: Jericho Sims\nHeight: 6-10, Weight: 250 lbs\nPros: Elite athlete, strong rebounder, rim protector\nCons: Limited offense, struggles outside the paint, poor free-throw shooter\nStats: PPG: 1.9, RPG: 3.7, APG: 0.6, BPG: 0.3, SPG: 0.2, FG%: 66.2, FT%: 62.5, 3P%: nan"
+  },
+  {
+    "name": "Marcus Smart",
+    "chunk": "Player: Marcus Smart\nHeight: 6-3, Weight: 220 lbs\nPros: Elite defender, strong leader, tough mentality\nCons: Inconsistent shooting, turnover-prone, aggressive play can backfire\nStats: PPG: 9.0, RPG: 2.1, APG: 3.2, BPG: 0.3, SPG: 1.1, FG%: 39.3, FT%: 76.1, 3P%: 34.8"
+  },
+  {
+    "name": "Dru Smith",
+    "chunk": "Player: Dru Smith\nHeight: 6-2, Weight: 203 lbs\nPros: Solid defender, good IQ, efficient role player\nCons: Limited scoring ability, lacks explosiveness, fringe offensive impact\nStats: PPG: 6.2, RPG: 2.6, APG: 1.6, BPG: 0.4, SPG: 1.5, FG%: 50.8, FT%: 75.0, 3P%: 53.3"
+  },
+  {
+    "name": "Jalen Smith",
+    "chunk": "Player: Jalen Smith\nHeight: 6-9, Weight: 215 lbs\nPros: Stretch big with good shooting touch, solid shot blocker, improving rebounding\nCons: Inconsistent defender, still developing physically, limited offensive versatility\nStats: PPG: 8.1, RPG: 5.5, APG: 1.0, BPG: 0.7, SPG: 0.3, FG%: 46.6, FT%: 80.9, 3P%: 32.4"
+  },
+  {
+    "name": "Jabari Smith, Jr.",
+    "chunk": "Player: Jabari Smith, Jr.\nHeight: 6-10, Weight: 220 lbs\nPros: Elite shooter for a big, versatile defender, great length\nCons: Struggles creating off the dribble, inconsistent finishing, limited playmaking\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Nick Smith, Jr.",
+    "chunk": "Player: Nick Smith, Jr.\nHeight: 6-2, Weight: 185 lbs\nPros: Scoring guard with quick release, confident shot maker, good upside\nCons: Injury history, inconsistent defense, decision-making needs work\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Tolu Smith",
+    "chunk": "Player: Tolu Smith\nHeight: 6-11, Weight: 245 lbs\nPros: Strong post scorer, physical presence, good rebounder\nCons: Limited range, below-average mobility, defensive versatility is a concern\nStats: PPG: 14.0, RPG: 8.0, APG: 0.0, BPG: 0.0, SPG: 0.0, FG%: 66.7, FT%: 66.7, 3P%: nan"
+  },
+  {
+    "name": "Tyler Smith",
+    "chunk": "Player: Tyler Smith\nHeight: 6-9, Weight: 224 lbs\nPros: Promising young forward, good size and touch, improving shooter\nCons: Still raw, lacks polish on defense, needs strength and experience\nStats: PPG: 2.8, RPG: 1.0, APG: 0.2, BPG: 0.2, SPG: 0.1, FG%: 48.0, FT%: 75.0, 3P%: 43.3"
+  },
+  {
+    "name": "Jeremy Sochan",
+    "chunk": "Player: Jeremy Sochan\nHeight: 6-8, Weight: 230 lbs\nPros: Versatile defender, high energy, capable playmaker at forward\nCons: Unrefined offensive game, inconsistent shooter, still developing touch\nStats: PPG: 11.4, RPG: 6.5, APG: 2.4, BPG: 0.5, SPG: 0.8, FG%: 53.5, FT%: 69.6, 3P%: 30.8"
+  },
+  {
+    "name": "Cam Spencer",
+    "chunk": "Player: Cam Spencer\nHeight: 6-4, Weight: 205 lbs\nPros: Sharp shooter, smart off-ball movement, high basketball IQ\nCons: Undersized, not a shot creator, defensive limitations\nStats: PPG: 4.2, RPG: 1.2, APG: 1.4, BPG: 0.0, SPG: 0.4, FG%: 41.5, FT%: 100.0, 3P%: 36.5"
+  },
+  {
+    "name": "Pat Spencer",
+    "chunk": "Player: Pat Spencer\nHeight: 6-3, Weight: 205 lbs\nPros: Strong and physical, good team defender, versatile athlete\nCons: Limited NBA experience, average shooting, not a primary ball handler\nStats: PPG: 2.9, RPG: 1.2, APG: 1.1, BPG: 0.1, SPG: 0.4, FG%: 45.2, FT%: 77.8, 3P%: 24.0"
+  },
+  {
+    "name": "Jaden Springer",
+    "chunk": "Player: Jaden Springer\nHeight: 6-4, Weight: 202 lbs\nPros: Strong defender, physical guard, plays with intensity\nCons: Limited offensive creativity, shooting inconsistency, lacks polish\nStats: PPG: 2.5, RPG: 1.3, APG: 0.8, BPG: 0.1, SPG: 0.6, FG%: 38.9, FT%: 71.1, 3P%: 25.0"
+  },
+  {
+    "name": "Isaiah Stevens",
+    "chunk": "Player: Isaiah Stevens\nHeight: 6-0, Weight: 185 lbs\nPros: Crafty playmaker, good vision, effective mid-range shooter\nCons: Undersized, not a high-level athlete, defensive liability\nStats: PPG: 0.0, RPG: 0.7, APG: 0.0, BPG: 0.0, SPG: 0.3, FG%: 0.0, FT%: nan, 3P%: 0.0"
+  },
+  {
+    "name": "Lamar Stevens",
+    "chunk": "Player: Lamar Stevens\nHeight: 6-7, Weight: 230 lbs\nPros: Strong defender, good energy, physical presence on the wing\nCons: Limited offensive game, inconsistent shooting, not a playmaker\nStats: PPG: 3.9, RPG: 2.1, APG: 0.4, BPG: 0.1, SPG: 0.2, FG%: 42.5, FT%: 72.7, 3P%: 26.7"
+  },
+  {
+    "name": "Isaiah Stewart II",
+    "chunk": "Player: Isaiah Stewart II\nHeight: 6-8, Weight: 250 lbs\nPros: Tough interior defender, strong rebounder, improving shooter\nCons: Undersized center, foul-prone, limited mobility\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Julian Strawther",
+    "chunk": "Player: Julian Strawther\nHeight: 6-6, Weight: 205 lbs\nPros: Great shooter, good size for a wing, moves well off the ball\nCons: Defensive concerns, limited shot creation, average athleticism\nStats: PPG: 8.5, RPG: 2.0, APG: 1.1, BPG: 0.2, SPG: 0.6, FG%: 43.2, FT%: 82.5, 3P%: 35.6"
+  },
+  {
+    "name": "Max Strus",
+    "chunk": "Player: Max Strus\nHeight: 6-5, Weight: 215 lbs\nPros: Reliable shooter, hard-nosed defender, high motor\nCons: Not a shot creator, streaky, limited athletic tools\nStats: PPG: 9.8, RPG: 4.5, APG: 3.3, BPG: 0.2, SPG: 0.5, FG%: 43.7, FT%: 82.5, 3P%: 38.6"
+  },
+  {
+    "name": "Jalen Suggs",
+    "chunk": "Player: Jalen Suggs\nHeight: 6-5, Weight: 205 lbs\nPros: Strong defender, aggressive driver, great athleticism\nCons: Inconsistent shooting, turnover-prone, still developing offensive identity\nStats: PPG: 16.2, RPG: 4.0, APG: 3.7, BPG: 0.9, SPG: 1.5, FG%: 41.0, FT%: 88.2, 3P%: 31.4"
+  },
+  {
+    "name": "Cole Swider",
+    "chunk": "Player: Cole Swider\nHeight: 6-8, Weight: 220 lbs\nPros: Elite shooter, good size, confident scorer\nCons: Struggles defensively, not a ball handler, slow laterally\nStats: PPG: 5.9, RPG: 2.7, APG: 0.3, BPG: 0.2, SPG: 0.4, FG%: 34.9, FT%: 0.0, 3P%: 31.9"
+  },
+  {
+    "name": "Jae'sean Tate",
+    "chunk": "Player: Jae'sean Tate\nHeight: 6-4, Weight: 230 lbs\nPros: Versatile defender, physical wing, good passer for size\nCons: Poor three-point shooter, undersized for a forward, limited offensive ceiling\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Jayson Tatum",
+    "chunk": "Player: Jayson Tatum\nHeight: 6-8, Weight: 210 lbs\nPros: Elite scorer, versatile defender, clutch performer\nCons: Occasional shot selection issues, can be turnover-prone, not a pure playmaker\nStats: PPG: 26.6, RPG: 8.8, APG: 5.8, BPG: 0.5, SPG: 1.1, FG%: 45.1, FT%: 82.2, 3P%: 34.8"
+  },
+  {
+    "name": "Garrett Temple",
+    "chunk": "Player: Garrett Temple\nHeight: 6-5, Weight: 195 lbs\nPros: Veteran presence, solid defender, high basketball IQ\nCons: Aging, limited offense, not a consistent contributor\nStats: PPG: 1.9, RPG: 1.0, APG: 1.1, BPG: 0.1, SPG: 0.6, FG%: 30.0, FT%: 91.7, 3P%: 21.4"
+  },
+  {
+    "name": "Dalen Terry",
+    "chunk": "Player: Dalen Terry\nHeight: 6-7, Weight: 195 lbs\nPros: Long and athletic, strong defender, good passer\nCons: Raw offensive game, inconsistent shooting, needs more aggression\nStats: PPG: 4.4, RPG: 1.7, APG: 1.3, BPG: 0.2, SPG: 0.6, FG%: 44.5, FT%: 71.0, 3P%: 35.2"
+  },
+  {
+    "name": "Cam Thomas",
+    "chunk": "Player: Cam Thomas\nHeight: 6-3, Weight: 210 lbs\nPros: Elite microwave scorer, highly confident shooter, excels in isolation and tough shot-making scenarios.\nCons: Lacks playmaking for others, inconsistent defender, not always efficient with shot selection.\nStats: PPG: 24.0, RPG: 3.3, APG: 3.8, BPG: 0.1, SPG: 0.6, FG%: 43.8, FT%: 88.1, 3P%: 34.9"
+  },
+  {
+    "name": "Amen Thompson",
+    "chunk": "Player: Amen Thompson\nHeight: 6-7, Weight: 200 lbs\nPros: Explosive athlete with elite burst, excellent passer in transition, strong perimeter defender with great instincts.\nCons: Jump shot remains a major weakness, struggles in half-court sets, needs polish in shot mechanics.\nStats: PPG: 14.1, RPG: 8.0, APG: 3.8, BPG: 1.2, SPG: 1.4, FG%: 55.0, FT%: 68.6, 3P%: 27.4"
+  },
+  {
+    "name": "Ausar Thompson",
+    "chunk": "Player: Ausar Thompson\nHeight: 6-6, Weight: 205 lbs\nPros: High-level athlete and defender, great rebounder for a wing, improving playmaker with strong feel for the game.\nCons: Inconsistent shooting form, limited offensive polish, struggles creating efficient shots in tight spaces.\nStats: PPG: 10.2, RPG: 5.1, APG: 2.2, BPG: 0.7, SPG: 1.6, FG%: 53.8, FT%: 62.9, 3P%: 21.6"
+  },
+  {
+    "name": "Ethan Thompson",
+    "chunk": "Player: Ethan Thompson\nHeight: 6-5, Weight: 195 lbs\nPros: Steady combo guard, solid size and IQ, capable passer and defender in structured systems.\nCons: Lacks burst and athleticism, inconsistent shooting range, not a high-level scorer or creator.\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Klay Thompson",
+    "chunk": "Player: Klay Thompson\nHeight: 6-5, Weight: 220 lbs\nPros: One of the best shooters in NBA history, elite off-ball movement, reliable wing defender when healthy.\nCons: Declining lateral quickness post-injuries, limited shot creation, no longer a high-level athlete.\nStats: PPG: 14.1, RPG: 3.4, APG: 2.0, BPG: 0.4, SPG: 0.7, FG%: 41.6, FT%: 89.6, 3P%: 39.4"
+  },
+  {
+    "name": "Tristan Thompson",
+    "chunk": "Player: Tristan Thompson\nHeight: 6-9, Weight: 254 lbs\nPros: Veteran rebounder with championship experience, good screen setter and physical presence in the paint.\nCons: Limited offensive skills, poor free-throw shooter, offers little floor spacing or mobility.\nStats: PPG: 1.8, RPG: 3.5, APG: 0.6, BPG: 0.3, SPG: 0.1, FG%: 44.2, FT%: 24.2, 3P%: 0.0"
+  },
+  {
+    "name": "J.T. Thor",
+    "chunk": "Player: J.T. Thor\nHeight: 6-9, Weight: 203 lbs\nPros: Long and athletic forward, solid shot-blocker with weak-side potential, improving three-point shooter.\nCons: Still raw offensively, lacks consistency and confidence with the ball, thin frame limits physical impact.\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Matisse Thybulle",
+    "chunk": "Player: Matisse Thybulle\nHeight: 6-5, Weight: 201 lbs\nPros: Elite defensive disruptor with quick hands and reflexes, excels in passing lanes and guarding multiple positions.\nCons: Extremely limited offensive threat, hesitant shooter, liabilities in spacing and half-court offense.\nStats: PPG: 7.5, RPG: 3.5, APG: 1.9, BPG: 0.6, SPG: 2.2, FG%: 47.7, FT%: 46.7, 3P%: 43.8"
+  },
+  {
+    "name": "Xavier Tillman, Sr.",
+    "chunk": "Player: Xavier Tillman, Sr.\nHeight: 6-7, Weight: 245 lbs\nPros: High IQ defender and screen setter, great positioning and anticipation, excellent passer for a big.\nCons: Undersized center, not a shot-blocking presence, limited scoring upside and range.\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Drew Timme",
+    "chunk": "Player: Drew Timme\nHeight: 6-10, Weight: 235 lbs\nPros: Polished post scorer with great footwork, high basketball IQ, strong leadership and feel for the game.\nCons: Struggles with NBA-level athleticism, not a rim protector or shooter, defensive limitations in space.\nStats: PPG: 12.1, RPG: 7.2, APG: 2.2, BPG: 0.1, SPG: 0.4, FG%: 44.1, FT%: 62.5, 3P%: 25.7"
+  },
+  {
+    "name": "Nae'qwan Tomlin",
+    "chunk": "Player: Nae'qwan Tomlin\nHeight: 6-10, Weight: 210 lbs\nPros: Athletic forward with strong finishing ability, good energy on defense and rebounding.\nCons: Raw offensive game, inconsistent shooting, lacks refined handle and decision-making.\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Nikola Topic",
+    "chunk": "Player: Nikola Topic\nHeight: 6-6, Weight: 200 lbs\nPros: Tall point guard with high-level passing vision, advanced pick-and-roll operator, composed under pressure.\nCons: Needs to add strength, inconsistent outside shot, defensive awareness still developing.\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Jacob Toppin",
+    "chunk": "Player: Jacob Toppin\nHeight: 6-8, Weight: 200 lbs\nPros: Elite vertical athlete, exciting in transition, shows flashes as a slasher and cutter.\nCons: Limited ball skills, inconsistent jumper, struggles to impact half-court offense regularly.\nStats: PPG: 1.4, RPG: 0.9, APG: 0.4, BPG: 0.0, SPG: 0.1, FG%: 40.9, FT%: nan, 3P%: 50.0"
+  },
+  {
+    "name": "Obi Toppin",
+    "chunk": "Player: Obi Toppin\nHeight: 6-9, Weight: 220 lbs\nPros: Great transition scorer, high-flying finisher, improved three-point shooter.\nCons: Defensive rotations and awareness are lacking, not a strong rebounder for his position.\nStats: PPG: 10.2, RPG: 3.9, APG: 1.6, BPG: 0.3, SPG: 0.6, FG%: 52.5, FT%: 78.3, 3P%: 35.6"
+  },
+  {
+    "name": "Karl-Anthony Towns",
+    "chunk": "Player: Karl-Anthony Towns\nHeight: 7-0, Weight: 248 lbs\nPros: One of the best shooting bigs in NBA history, elite offensive skillset, solid passer for his size.\nCons: Defensive inconsistency, prone to foul trouble, durability and leadership have been questioned.\nStats: PPG: 23.5, RPG: 12.3, APG: 2.7, BPG: 0.7, SPG: 0.9, FG%: 51.9, FT%: 83.2, 3P%: 40.8"
+  },
+  {
+    "name": "Luke Travers",
+    "chunk": "Player: Luke Travers\nHeight: 6-7, Weight: 207 lbs\nPros: Versatile international wing, capable passer, high motor and rebounding for his position.\nCons: Inconsistent shot mechanics, still adjusting to NBA pace, lacks top-end quickness.\nStats: PPG: 1.0, RPG: 1.7, APG: 0.7, BPG: 0.1, SPG: 0.1, FG%: 25.0, FT%: 100.0, 3P%: 0.0"
+  },
+  {
+    "name": "Gary Trent, Jr.",
+    "chunk": "Player: Gary Trent, Jr.\nHeight: 6-5, Weight: 204 lbs\nPros: Reliable catch-and-shoot player, active hands on defense, quick release with good shot mechanics.\nCons: One-dimensional offensively, limited playmaking, can be streaky from three.\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Oscar Tshiebwe",
+    "chunk": "Player: Oscar Tshiebwe\nHeight: 6-8, Weight: 255 lbs\nPros: Elite rebounder with relentless energy, strong finisher around the basket, physical presence.\nCons: Limited shooting and ball skills, undersized for center, struggles defending in space.\nStats: PPG: 7.6, RPG: 8.7, APG: 0.6, BPG: 0.1, SPG: 0.9, FG%: 60.0, FT%: 74.2, 3P%: nan"
+  },
+  {
+    "name": "P.J. Tucker",
+    "chunk": "Player: P.J. Tucker\nHeight: 6-5, Weight: 245 lbs\nPros: Tough, physical defender with playoff experience, corner three-point specialist, strong locker room presence.\nCons: Extremely limited offensively outside corner threes, aging, no longer a consistent starter-level player.\nStats: PPG: 2.2, RPG: 2.0, APG: 0.0, BPG: 0.2, SPG: 0.2, FG%: 42.9, FT%: nan, 3P%: 50.0"
+  },
+  {
+    "name": "Myles Turner",
+    "chunk": "Player: Myles Turner\nHeight: 6-11, Weight: 250 lbs\nPros: Elite shot blocker, good rim protection, improved three-point shooter for a center.\nCons: Injury history, not a dominant rebounder, sometimes passive offensively.\nStats: PPG: 15.5, RPG: 6.2, APG: 1.5, BPG: 2.0, SPG: 0.7, FG%: 48.8, FT%: 77.4, 3P%: 39.7"
+  },
+  {
+    "name": "Hunter Tyson",
+    "chunk": "Player: Hunter Tyson\nHeight: 6-8, Weight: 215 lbs\nPros: Stretch forward with reliable three-point range, high basketball IQ, plays with effort on both ends.\nCons: Limited lateral quickness, struggles against athletic wings, not a strong shot creator.\nStats: PPG: 2.7, RPG: 1.5, APG: 0.4, BPG: 0.1, SPG: 0.2, FG%: 38.5, FT%: 78.1, 3P%: 30.4"
+  },
+  {
+    "name": "Jaylon Tyson",
+    "chunk": "Player: Jaylon Tyson\nHeight: 6-6, Weight: 215 lbs\nPros: Versatile scorer with size, confident shot maker, can initiate offense from the wing.\nCons: Streaky shooter, inconsistent decision-making, still developing on defense.\nStats: PPG: 3.7, RPG: 2.0, APG: 1.0, BPG: 0.1, SPG: 0.3, FG%: 43.3, FT%: 80.0, 3P%: 37.3"
+  },
+  {
+    "name": "Stanley Umude",
+    "chunk": "Player: Stanley Umude\nHeight: 6-6, Weight: 210 lbs\nPros: Strong frame, solid shooter, brings energy off the bench, capable rebounder for position.\nCons: Inconsistent role, struggles with shot selection, not a primary ball-handler.\nStats: PPG: 0.7, RPG: 0.8, APG: 0.2, BPG: 0.3, SPG: 0.1, FG%: 19.2, FT%: 50.0, 3P%: 20.0"
+  },
+  {
+    "name": "Jonas Valanciunas",
+    "chunk": "Player: Jonas Valanciunas\nHeight: 6-11, Weight: 265 lbs\nPros: Excellent rebounder, skilled in the post, reliable mid-range and occasional three-point shooter.\nCons: Slow footed, struggles defending pick-and-roll, not a rim protector.\nStats: PPG: 10.3, RPG: 7.7, APG: 2.0, BPG: 0.6, SPG: 0.5, FG%: 55.2, FT%: 87.9, 3P%: 21.6"
+  },
+  {
+    "name": "Fred VanVleet",
+    "chunk": "Player: Fred VanVleet\nHeight: 6-0, Weight: 197 lbs\nPros: Clutch shooter, high IQ point guard, excellent defender for size, strong leader.\nCons: Undersized, takes difficult shots, prone to cold shooting stretches.\nStats: PPG: 14.6, RPG: 3.7, APG: 5.4, BPG: 0.4, SPG: 1.5, FG%: 38.4, FT%: 83.9, 3P%: 35.6"
+  },
+  {
+    "name": "Jarred Vanderbilt",
+    "chunk": "Player: Jarred Vanderbilt\nHeight: 6-8, Weight: 214 lbs\nPros: Elite defender, great rebounder, high motor, versatile on switches.\nCons: Very limited offensive game, poor free-throw shooter, provides little spacing.\nStats: PPG: 3.8, RPG: 4.9, APG: 1.1, BPG: 0.3, SPG: 0.9, FG%: 48.0, FT%: 57.5, 3P%: 27.3"
+  },
+  {
+    "name": "Devin Vassell",
+    "chunk": "Player: Devin Vassell\nHeight: 6-5, Weight: 200 lbs\nPros: Silky shooting stroke, smooth movement off-ball, solid team defender with long arms.\nCons: Still developing strength, not a strong shot creator, can be passive at times.\nStats: PPG: 16.3, RPG: 4.0, APG: 2.9, BPG: 0.5, SPG: 1.3, FG%: 44.3, FT%: 79.2, 3P%: 36.8"
+  },
+  {
+    "name": "Gabe Vincent",
+    "chunk": "Player: Gabe Vincent\nHeight: 6-2, Weight: 200 lbs\nPros: Tough perimeter defender, capable spot-up shooter, confident in big moments.\nCons: Undersized for his role, struggles finishing at the rim, inconsistent playmaking.\nStats: PPG: 6.2, RPG: 1.3, APG: 1.3, BPG: 0.2, SPG: 0.7, FG%: 39.9, FT%: 71.4, 3P%: 35.1"
+  },
+  {
+    "name": "Nikola Vucevic",
+    "chunk": "Player: Nikola Vucevic\nHeight: 6-10, Weight: 260 lbs\nPros: Skilled offensive big, good passer, capable mid-range and three-point shooter, double-double machine.\nCons: Lacks mobility on defense, not a shot blocker, slow-footed in space.\nStats: PPG: 18.4, RPG: 10.1, APG: 3.5, BPG: 0.7, SPG: 0.8, FG%: 52.9, FT%: 80.8, 3P%: 40.2"
+  },
+  {
+    "name": "Tristan Vukcevic",
+    "chunk": "Player: Tristan Vukcevic\nHeight: 7-0, Weight: 220 lbs\nPros: Tall and skilled stretch big, smooth shooting form, shows promise as pick-and-pop option.\nCons: Still developing physically, not a strong rebounder or interior defender, raw defensively.\nStats: PPG: 9.4, RPG: 3.7, APG: 1.1, BPG: 0.7, SPG: 0.3, FG%: 49.6, FT%: 77.6, 3P%: 37.3"
+  },
+  {
+    "name": "Dean Wade",
+    "chunk": "Player: Dean Wade\nHeight: 6-9, Weight: 228 lbs\nPros: Reliable catch-and-shoot forward, plays hard on defense, high effort role player.\nCons: Limited off-the-dribble game, low usage player, inconsistent impact in bigger roles.\nStats: PPG: 4.9, RPG: 4.2, APG: 1.2, BPG: 0.3, SPG: 0.7, FG%: 40.8, FT%: 53.3, 3P%: 35.2"
+  },
+  {
+    "name": "Franz Wagner",
+    "chunk": "Player: Franz Wagner\nHeight: 6-10, Weight: 220 lbs\nPros: Excellent all-around wing, strong defender, smart passer, finishes well around the rim.\nCons: Not yet an elite scorer, sometimes passive offensively, still improving three-point consistency.\nStats: PPG: 24.1, RPG: 5.7, APG: 4.8, BPG: 0.4, SPG: 1.3, FG%: 46.0, FT%: 86.1, 3P%: 28.2"
+  },
+  {
+    "name": "Moe Wagner",
+    "chunk": "Player: Moe Wagner\nHeight: 6-11, Weight: 245 lbs\nPros: High-energy big, solid shooter for his size, good offensive feel and passing.\nCons: Struggles with defense in space, foul-prone, not a rim protector.\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Jabari Walker",
+    "chunk": "Player: Jabari Walker\nHeight: 6-7, Weight: 237 lbs\nPros: Good rebounder, plays with toughness, capable three-point shooter at forward.\nCons: Offense still developing, not a self-creator, limited ball-handling.\nStats: PPG: 5.2, RPG: 3.5, APG: 0.6, BPG: 0.1, SPG: 0.6, FG%: 51.5, FT%: 69.0, 3P%: 38.9"
+  },
+  {
+    "name": "Jarace Walker",
+    "chunk": "Player: Jarace Walker\nHeight: 6-7, Weight: 235 lbs\nPros: Strong, physical forward, excellent defensive instincts, capable passer and playmaker for position.\nCons: Inconsistent shooting, offensive polish still developing, foul-prone at times.\nStats: PPG: 5.7, RPG: 2.9, APG: 1.4, BPG: 0.3, SPG: 0.6, FG%: 46.4, FT%: 65.8, 3P%: 40.5"
+  },
+  {
+    "name": "Lonnie Walker",
+    "chunk": "Player: Lonnie Walker\nHeight: 6-4, Weight: 204 lbs\nPros: Athletic wing, explosive scorer, improved shooting and finishing around the rim.\nCons: Inconsistent effort on defense, streaky shooter, not a playmaker.\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Cason Wallace",
+    "chunk": "Player: Cason Wallace\nHeight: 6-3, Weight: 195 lbs\nPros: Elite point-of-attack defender, smart playmaker, good touch around the basket.\nCons: Limited shot creation, needs to improve shooting consistency, not very explosive.\nStats: PPG: 7.8, RPG: 3.2, APG: 2.6, BPG: 0.5, SPG: 1.7, FG%: 46.7, FT%: 78.3, 3P%: 35.0"
+  },
+  {
+    "name": "Keaton Wallace",
+    "chunk": "Player: Keaton Wallace\nHeight: 6-3, Weight: 185 lbs\nPros: Combo guard with scoring instincts, active defender, good feel in transition.\nCons: Undersized for SG, not a consistent shooter, struggles with shot selection.\nStats: PPG: 5.4, RPG: 1.6, APG: 2.6, BPG: 0.3, SPG: 0.9, FG%: 40.1, FT%: 100.0, 3P%: 32.9"
+  },
+  {
+    "name": "Jordan Walsh",
+    "chunk": "Player: Jordan Walsh\nHeight: 6-6, Weight: 205 lbs\nPros: Elite defensive upside, long and athletic wing, high energy and motor.\nCons: Limited shooting, raw offensive game, not yet comfortable with ball-handling.\nStats: PPG: 1.4, RPG: 1.2, APG: 0.4, BPG: 0.2, SPG: 0.2, FG%: 35.7, FT%: 58.3, 3P%: 26.8"
+  },
+  {
+    "name": "Ja'Kobe Walter",
+    "chunk": "Player: Ja'Kobe Walter\nHeight: 6-5, Weight: 180 lbs\nPros: Prolific scorer with deep shooting range, high confidence, strong build for a wing.\nCons: Can be streaky, needs to improve shot selection and defense, still developing playmaking.\nStats: PPG: 8.6, RPG: 3.1, APG: 1.6, BPG: 0.2, SPG: 0.8, FG%: 40.5, FT%: 79.5, 3P%: 34.9"
+  },
+  {
+    "name": "Grant Williams",
+    "chunk": "Player: Grant Williams\nHeight: 6-6, Weight: 236 lbs\nPros: Strong and physical defender, capable three-point shooter, valuable playoff experience.\nCons: Limited off-the-dribble creation, inconsistent shooting under pressure, not a shot creator.\nStats: PPG: 10.4, RPG: 5.1, APG: 2.3, BPG: 0.8, SPG: 1.1, FG%: 43.9, FT%: 83.8, 3P%: 36.5"
+  },
+  {
+    "name": "Jalen Williams",
+    "chunk": "Player: Jalen Williams\nHeight: 6-5, Weight: 211 lbs\nPros: Versatile scorer, strong frame, capable ball handler and facilitator from the wing.\nCons: Still growing as a defender, occasionally disappears offensively, needs consistent three-point shot.\nStats: PPG: 21.1, RPG: 5.3, APG: 5.1, BPG: 0.7, SPG: 1.6, FG%: 47.7, FT%: 78.4, 3P%: 35.3"
+  },
+  {
+    "name": "Jaylin Williams",
+    "chunk": "Player: Jaylin Williams\nHeight: 6-9, Weight: 240 lbs\nPros: High IQ big, excellent charge-taker, good passer for his size.\nCons: Undersized for center, not a strong rim protector, limited offensive skillset.\nStats: PPG: 5.1, RPG: 4.7, APG: 2.2, BPG: 0.5, SPG: 0.5, FG%: 43.3, FT%: 71.8, 3P%: 38.5"
+  },
+  {
+    "name": "Nate Williams, Jr.",
+    "chunk": "Player: Nate Williams, Jr.\nHeight: 6-5, Weight: 205 lbs\nPros: Strong athletic profile, solid defender, capable of scoring in transition.\nCons: Limited offensive polish, decision-making still developing, not polished offensively.\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Vincent Williams, Jr.",
+    "chunk": "Player: Vincent Williams, Jr.\nHeight: 6-4, Weight: 205 lbs\nPros: Good length and mobility, active on defense, plays with energy.\nCons: Low usage offensively, not a primary scorer, needs to improve shooting.\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Kenrich Williams",
+    "chunk": "Player: Kenrich Williams\nHeight: 6-6, Weight: 210 lbs\nPros: Tough, gritty defender, does the little things, strong rebounder for size.\nCons: Limited offensive game, not a floor spacer, lacks quickness off the dribble.\nStats: PPG: 6.0, RPG: 3.4, APG: 1.3, BPG: 0.1, SPG: 0.6, FG%: 47.4, FT%: 72.1, 3P%: 37.0"
+  },
+  {
+    "name": "Mark Williams",
+    "chunk": "Player: Mark Williams\nHeight: 7-0, Weight: 240 lbs\nPros: Elite shot blocker, great length, strong lob threat and rebounder.\nCons: Limited shooting, can struggle with quick guards, foul-prone.\nStats: PPG: 15.2, RPG: 10.2, APG: 2.5, BPG: 1.2, SPG: 0.7, FG%: 60.4, FT%: 80.4, 3P%: 0.0"
+  },
+  {
+    "name": "Patrick Williams",
+    "chunk": "Player: Patrick Williams\nHeight: 6-7, Weight: 215 lbs\nPros: Strong frame, good mid-range shooter, potential as a two-way forward.\nCons: Passive offensively, inconsistent three-point shooting, needs to assert himself more.\nStats: PPG: 8.8, RPG: 3.7, APG: 1.9, BPG: 0.5, SPG: 0.8, FG%: 39.6, FT%: 72.3, 3P%: 35.2"
+  },
+  {
+    "name": "Robert Williams",
+    "chunk": "Player: Robert Williams\nHeight: 6-9, Weight: 249 lbs\nPros: Excellent shot blocker and rim protector, elite vertical athlete, efficient around the basket.\nCons: Injury-prone, limited offensive range, struggles with spacing.\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Ziaire Williams",
+    "chunk": "Player: Ziaire Williams\nHeight: 6-9, Weight: 185 lbs\nPros: Long, fluid athlete, potential as a two-way wing, shows flashes of perimeter shooting.\nCons: Inconsistent production, needs to add strength, raw offensively.\nStats: PPG: 10.0, RPG: 4.6, APG: 1.3, BPG: 0.4, SPG: 1.0, FG%: 41.2, FT%: 82.1, 3P%: 34.1"
+  },
+  {
+    "name": "Zion Williamson",
+    "chunk": "Player: Zion Williamson\nHeight: 6-6, Weight: 284 lbs\nPros: Unstoppable scorer in the paint, elite explosiveness and strength, great touch around the rim.\nCons: Major injury concerns, limited shooting, conditioning issues.\nStats: PPG: 24.6, RPG: 7.2, APG: 5.3, BPG: 0.9, SPG: 1.2, FG%: 56.7, FT%: 65.6, 3P%: 23.1"
+  },
+  {
+    "name": "Jalen Wilson",
+    "chunk": "Player: Jalen Wilson\nHeight: 6-6, Weight: 220 lbs\nPros: Physical wing, strong rebounder for size, aggressive slasher.\nCons: Streaky shooter, not a creator off the dribble, average lateral quickness.\nStats: PPG: 9.5, RPG: 3.4, APG: 1.8, BPG: 0.1, SPG: 0.5, FG%: 39.7, FT%: 81.8, 3P%: 33.7"
+  },
+  {
+    "name": "Delon Wright",
+    "chunk": "Player: Delon Wright\nHeight: 6-5, Weight: 185 lbs\nPros: Veteran guard with defensive prowess, smart decision-maker, low mistake player.\nCons: Limited scoring, not a threat from deep, passive in creating offense.\nStats: PPG: 2.9, RPG: 1.5, APG: 1.8, BPG: 0.3, SPG: 0.8, FG%: 33.6, FT%: 63.0, 3P%: 26.6"
+  },
+  {
+    "name": "Guerschon Yabusele",
+    "chunk": "Player: Guerschon Yabusele\nHeight: 6-8, Weight: 265 lbs\nPros: Strong post presence, good shooting touch, can stretch the floor.\nCons: Limited quickness, struggles defending perimeter, inconsistent impact.\nStats: PPG: 11.0, RPG: 5.6, APG: 2.1, BPG: 0.3, SPG: 0.8, FG%: 50.1, FT%: 72.5, 3P%: 38.0"
+  },
+  {
+    "name": "Jahmir Young",
+    "chunk": "Player: Jahmir Young\nHeight: 6-1, Weight: 185 lbs\nPros: Quick, scoring guard, aggressive downhill attacker, confident shot taker.\nCons: Undersized, turnover-prone, needs to improve shot selection and playmaking.\nStats: PPG: 1.8, RPG: 0.5, APG: 1.0, BPG: 0.0, SPG: 0.0, FG%: 80.0, FT%: 100.0, 3P%: 50.0"
+  },
+  {
+    "name": "Trae Young",
+    "chunk": "Player: Trae Young\nHeight: 6-1, Weight: 164 lbs\nPros: Elite passer and scorer, deep shooting range, clutch offensive engine.\nCons: Defensive liability, high turnover rate, shot selection can be questionable.\nStats: PPG: 23.8, RPG: 3.1, APG: 11.3, BPG: 0.2, SPG: 1.2, FG%: 41.1, FT%: 87.6, 3P%: 33.8"
+  },
+  {
+    "name": "Ivica Zubac",
+    "chunk": "Player: Ivica Zubac\nHeight: 7-0, Weight: 240 lbs\nPros: Efficient inside scorer, solid rebounder, dependable screen setter.\nCons: Limited mobility, not a shooter, struggles defending in space.\nStats: PPG: 16.8, RPG: 12.4, APG: 2.6, BPG: 1.1, SPG: 0.7, FG%: 63.1, FT%: 64.9, 3P%: nan"
+  },
+  {
+    "name": "Kobe Brown",
+    "chunk": "Player: Kobe Brown\nHeight: 6-7, Weight: 250 lbs\nPros: Strong frame, can shoot from outside, plays with poise and control, versatile offensively.\nCons: Limited lateral quickness, struggles against quicker wings, defensive consistency varies.\nStats: PPG: 2.2, RPG: 1.5, APG: 0.7, BPG: 0.1, SPG: 0.2, FG%: 50.0, FT%: 75.0, 3P%: 25.9"
+  },
+  {
+    "name": "Moses Brown",
+    "chunk": "Player: Moses Brown\nHeight: nan, Weight: nan lbs\nPros: Towering presence, great rebounder, good touch around the rim.\nCons: Very limited offensively, slow footed, struggles in defensive rotations.\nStats: PPG: 5.8, RPG: 3.4, APG: 0.2, BPG: 0.3, SPG: 0.5, FG%: 69.4, FT%: 72.7, 3P%: nan"
+  },
+  {
+    "name": "Tony Bradley",
+    "chunk": "Player: Tony Bradley\nHeight: 6-11, Weight: 248 lbs\nPros: Solid screen setter, decent touch near the basket, experienced bench big.\nCons: Low mobility, doesn't stretch the floor, not a rim protector.\nStats: PPG: 3.1, RPG: 2.5, APG: 0.4, BPG: 0.5, SPG: 0.1, FG%: 62.0, FT%: 50.0, 3P%: 25.0"
+  },
+  {
+    "name": "Malaki Branham",
+    "chunk": "Player: Malaki Branham\nHeight: 6-4, Weight: 180 lbs\nPros: Smooth scoring guard, great mid-range game, improving shooter from deep.\nCons: Needs defensive improvement, not a natural playmaker, streaky offensive stretches.\nStats: PPG: 5.0, RPG: 1.1, APG: 0.8, BPG: 0.0, SPG: 0.2, FG%: 45.8, FT%: 81.8, 3P%: 40.5"
+  },
+  {
+    "name": "Christian Braun",
+    "chunk": "Player: Christian Braun\nHeight: 6-6, Weight: 220 lbs\nPros: High-energy wing, great in transition, solid defender and finisher.\nCons: Inconsistent outside shot, not a creator off the dribble, limited offensive upside.\nStats: PPG: 15.0, RPG: 5.4, APG: 2.6, BPG: 0.5, SPG: 1.1, FG%: 56.0, FT%: 81.2, 3P%: 37.4"
+  },
+  {
+    "name": "Jalen Bridges",
+    "chunk": "Player: Jalen Bridges\nHeight: 6-8, Weight: 225 lbs\nPros: Reliable 3-and-D potential, smart cutter, plays within system.\nCons: Low usage offensively, not a creator, average rebounder for position.\nStats: PPG: 1.1, RPG: 0.5, APG: 0.0, BPG: 0.0, SPG: 0.0, FG%: 28.6, FT%: 75.0, 3P%: 28.6"
+  },
+  {
+    "name": "Mikal Bridges",
+    "chunk": "Player: Mikal Bridges\nHeight: 6-6, Weight: 209 lbs\nPros: Elite defender with long wingspan, efficient scorer, can guard multiple positions.\nCons: Still growing as a creator, sometimes too passive, not a dominant offensive player.\nStats: PPG: 17.2, RPG: 3.4, APG: 3.6, BPG: 0.6, SPG: 1.0, FG%: 49.2, FT%: 80.6, 3P%: 35.1"
+  },
+  {
+    "name": "Miles Bridges",
+    "chunk": "Player: Miles Bridges\nHeight: 6-7, Weight: 225 lbs\nPros: Explosive athlete, powerful finisher, improved three-point shooter.\nCons: Off-court concerns, inconsistent defense, limited playmaking.\nStats: PPG: 20.3, RPG: 7.5, APG: 3.9, BPG: 0.7, SPG: 0.7, FG%: 43.1, FT%: 87.0, 3P%: 31.3"
+  },
+  {
+    "name": "Oshae Brissett",
+    "chunk": "Player: Oshae Brissett\nHeight: nan, Weight: nan lbs\nPros: Active rebounder, good hustle player, can defend multiple spots.\nCons: Inconsistent shooting, low offensive ceiling, limited creation.\nStats: PPG: 5.2, RPG: 2.2, APG: 0.4, BPG: 0.3, SPG: 0.4, FG%: 48.7, FT%: 57.1, 3P%: 33.3"
+  },
+  {
+    "name": "Malcolm Brogdon",
+    "chunk": "Player: Malcolm Brogdon\nHeight: 6-4, Weight: 229 lbs\nPros: Smart veteran, efficient shooter, capable playmaker and secondary scorer.\nCons: Injury-prone, not the quickest guard, limited upside at this stage.\nStats: PPG: 12.7, RPG: 3.8, APG: 4.1, BPG: 0.2, SPG: 0.5, FG%: 43.3, FT%: 88.0, 3P%: 28.6"
+  },
+  {
+    "name": "Dillon Brooks",
+    "chunk": "Player: Dillon Brooks\nHeight: 6-6, Weight: 225 lbs\nPros: Physical defender, confident shooter, plays with intensity and toughness.\nCons: Questionable shot selection, volatile decision-making, can be overly aggressive.\nStats: PPG: 13.9, RPG: 3.6, APG: 1.7, BPG: 0.2, SPG: 0.8, FG%: 43.0, FT%: 82.1, 3P%: 39.4"
+  },
+  {
+    "name": "Keion Brooks Jr.",
+    "chunk": "Player: Keion Brooks Jr.\nHeight: nan, Weight: nan lbs\nPros: Lengthy forward with athleticism, good slasher, shows flashes as a scorer.\nCons: Needs shooting consistency, decision-making still developing, not polished offensively.\nStats: PPG: 10.1, RPG: 4.1, APG: 0.9, BPG: 0.7, SPG: 0.7, FG%: 48.6, FT%: 73.3, 3P%: 32.6"
+  },
+  {
+    "name": "Bruce Brown",
+    "chunk": "Player: Bruce Brown\nHeight: nan, Weight: nan lbs\nPros: Defensive-minded guard/wing, strong rebounder for size, great cutter and finisher.\nCons: Not a consistent shooter, limited creation off the dribble, fits best in a specific system.\nStats: PPG: 8.3, RPG: 4.0, APG: 2.0, BPG: 0.2, SPG: 0.8, FG%: 42.1, FT%: 81.5, 3P%: 33.3"
+  },
+  {
+    "name": "Jaylen Brown",
+    "chunk": "Player: Jaylen Brown\nHeight: 6-6, Weight: 223 lbs\nPros: Elite scorer, strong finisher, great defensive potential on the wing.\nCons: Ball-handling can be shaky, decision-making under pressure, not a primary playmaker.\nStats: PPG: 21.8, RPG: 5.9, APG: 4.3, BPG: 0.3, SPG: 1.1, FG%: 46.1, FT%: 76.3, 3P%: 32.4"
+  },
+  {
+    "name": "Thomas Bryant",
+    "chunk": "Player: Thomas Bryant\nHeight: 6-10, Weight: 248 lbs\nPros: Energetic big with offensive touch, good floor runner, capable shooter for a center.\nCons: Defensive liability, lacks rim protection, struggles in pick-and-roll coverage.\nStats: PPG: 5.9, RPG: 3.5, APG: 0.7, BPG: 0.6, SPG: 0.4, FG%: 50.6, FT%: 86.5, 3P%: 34.2"
+  },
+  {
+    "name": "Kobe Bufkin",
+    "chunk": "Player: Kobe Bufkin\nHeight: 6-4, Weight: 195 lbs\nPros: Crafty combo guard, solid shooter, good touch around the rim, strong potential.\nCons: Needs to get stronger, not a true point guard, can be turnover-prone.\nStats: PPG: 5.3, RPG: 2.1, APG: 1.7, BPG: 0.2, SPG: 0.3, FG%: 38.3, FT%: 72.2, 3P%: 21.1"
+  },
+  {
+    "name": "Alec Burks",
+    "chunk": "Player: Alec Burks\nHeight: 6-5, Weight: 214 lbs\nPros: Veteran scorer, can play both guard spots, reliable shooting from deep.\nCons: Defensive effort varies, not a primary creator, aging physically.\nStats: PPG: 7.1, RPG: 2.6, APG: 1.2, BPG: 0.2, SPG: 0.6, FG%: 42.1, FT%: 77.6, 3P%: 41.7"
+  },
+  {
+    "name": "Jimmy Butler",
+    "chunk": "Player: Jimmy Butler\nHeight: nan, Weight: nan lbs\nPros: Elite two-way player, clutch scorer, tenacious defender and leader.\nCons: Not a consistent three-point shooter, prone to sitting regular season games, aging.\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Jared Butler",
+    "chunk": "Player: Jared Butler\nHeight: 6-3, Weight: 193 lbs\nPros: Smart and steady guard, good three-point shooter, mature decision-maker.\nCons: Undersized, lacks elite quickness, not a strong defender.\nStats: PPG: 9.0, RPG: 1.8, APG: 3.7, BPG: 0.2, SPG: 0.7, FG%: 44.8, FT%: 82.4, 3P%: 35.5"
+  },
+  {
+    "name": "Matas Buzelis",
+    "chunk": "Player: Matas Buzelis\nHeight: 6-10, Weight: 209 lbs\nPros: Tall, skilled forward, versatile offensive game, good ball skills for his size.\nCons: Still raw physically, defensive focus fluctuates, shot consistency needs work.\nStats: PPG: 8.6, RPG: 3.5, APG: 1.0, BPG: 0.9, SPG: 0.4, FG%: 45.4, FT%: 80.7, 3P%: 35.9"
+  },
+  {
+    "name": "Anthony Gill",
+    "chunk": "Player: Anthony Gill\nHeight: 6-8, Weight: 230 lbs lbs\nPros: Versatile forward with solid shooting mechanics and high basketball IQ.\nCons: Limited athleticism and struggles to create his own shot. \nStats: PPG: 2.5, RPG: 1.3, APG: 0.3, BPG: 0.0, SPG: 0.2, FG%: 48.9, FT%: 66.0, 3P%: 32.3"
+  },
+  {
+    "name": "Bismack Biyombo",
+    "chunk": "Player: Bismack Biyombo\nHeight: 6-8, Weight: 255 lbs lbs\nPros: Elite shot-blocker and rebounder; provides strong interior defense and veteran leadership.\nCons: Limited offensive skills and free-throw shooting. \nStats: PPG: 5.1, RPG: 5.6, APG: 1.1, BPG: 0.8, SPG: 0.6, FG%: 58.8, FT%: 40.0, 3P%: nan"
+  },
+  {
+    "name": "Bogdan Bogdanovi_",
+    "chunk": "Player: Bogdan Bogdanovi_\nHeight: 6-5, Weight: 225 lbs lbs\nPros: Skilled scorer with excellent three-point shooting and playmaking abilities.\nCons: Inconsistent defense and can be streaky with shooting.\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Brook Lopez",
+    "chunk": "Player: Brook Lopez\nHeight: 7-1, Weight: 282 lbs lbs\nPros: Strong rim protector with the ability to stretch the floor with his three-point shooting.\nCons: Mobility can be an issue against quicker opponents. \nStats: PPG: 12.5, RPG: 4.9, APG: 1.7, BPG: 1.8, SPG: 0.6, FG%: 50.4, FT%: 83.2, 3P%: 37.1"
+  },
+  {
+    "name": "Buddy Hield",
+    "chunk": "Player: Buddy Hield\nHeight: 6-4, Weight: 215 lbs lbs\nPros: Exceptional three-point shooter with quick release and high scoring potential.\nCons: Defensive liabilities and limited playmaking.\nStats: PPG: 11.2, RPG: 3.2, APG: 1.6, BPG: 0.3, SPG: 0.9, FG%: 41.6, FT%: 84.6, 3P%: 37.5"
+  },
+  {
+    "name": "CJ McCollum",
+    "chunk": "Player: CJ McCollum\nHeight: 6-3, Weight: 190 lbs lbs\nPros: Smooth scorer with excellent ball-handling and mid-range game.\nCons: Undersized for his position and average defender. \nStats: PPG: 21.1, RPG: 3.8, APG: 4.1, BPG: 0.4, SPG: 0.8, FG%: 44.4, FT%: 71.7, 3P%: 37.3"
+  },
+  {
+    "name": "Caris LeVert",
+    "chunk": "Player: Caris LeVert\nHeight: 6-6, Weight: 205 lbs lbs\nPros: Versatile wing capable of creating his own shot and facilitating offense.\nCons: Injury-prone and inconsistent shooting. \nStats: PPG: 12.1, RPG: 3.3, APG: 3.4, BPG: 0.5, SPG: 0.9, FG%: 46.2, FT%: 69.8, 3P%: 36.9"
+  },
+  {
+    "name": "Cory Joseph",
+    "chunk": "Player: Cory Joseph\nHeight: 6-3, Weight: 200 lbs lbs\nPros: Reliable backup point guard with solid defense and leadership qualities.\nCons: Limited scoring ability and not a primary playmaker. \nStats: PPG: 3.8, RPG: 1.5, APG: 1.6, BPG: 0.1, SPG: 0.6, FG%: 40.8, FT%: 80.0, 3P%: 35.4"
+  },
+  {
+    "name": "Damion Lee",
+    "chunk": "Player: Damion Lee\nHeight: 6-6, Weight: 210 lbs lbs\nPros: Effective three-point shooter and provides depth off the bench.\nCons: Defensive limitations and not a primary ball-handler. \nStats: PPG: 3.3, RPG: 0.8, APG: 0.4, BPG: 0.0, SPG: 0.2, FG%: 36.5, FT%: 95.2, 3P%: 24.3"
+  },
+  {
+    "name": "Daniel Theis",
+    "chunk": "Player: Daniel Theis\nHeight: 6-8, Weight: 245 lbs lbs\nPros: Strong pick-and-roll defender with good rebounding and interior presence.\nCons: Limited offensive range and undersized for a center. \nStats: PPG: 4.3, RPG: 4.3, APG: 1.6, BPG: 0.5, SPG: 0.5, FG%: 47.3, FT%: 83.8, 3P%: 24.3"
+  },
+  {
+    "name": "Dario _ari_",
+    "chunk": "Player: Dario _ari_\nHeight: 6-10, Weight: 225 lbs lbs\nPros: Versatile big man with solid shooting touch and high basketball IQ.\nCons: Lacks elite athleticism and struggles with defensive quickness.\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "DeAndre Jordan",
+    "chunk": "Player: DeAndre Jordan\nHeight: 6-11, Weight: 265 lbs lbs\nPros: Elite rebounder and shot-blocker; provides strong interior defense.\nCons: Limited offensive skills and free-throw shooting.\nStats: PPG: 3.4, RPG: 4.7, APG: 0.9, BPG: 0.4, SPG: 0.3, FG%: 65.7, FT%: 39.7, 3P%: nan"
+  },
+  {
+    "name": "DeMar DeRozan",
+    "chunk": "Player: DeMar DeRozan\nHeight: 6-6, Weight: 220 lbs lbs\nPros: Prolific mid-range scorer with excellent footwork and veteran leadership.\nCons: Limited three-point shooting and average defender.\nStats: PPG: 22.3, RPG: 3.9, APG: 4.4, BPG: 0.4, SPG: 0.8, FG%: 47.7, FT%: 85.7, 3P%: 33.0"
+  },
+  {
+    "name": "Dennis SchrÅ¡der",
+    "chunk": "Player: Dennis SchrÅ¡der\nHeight: 6-1, Weight: 175 lbs lbs\nPros: Quick and agile guard with strong pick-and-roll play and defensive tenacity.\nCons: Streaky shooter and can be turnover-prone under pressure.\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Dorian Finney-Smith",
+    "chunk": "Player: Dorian Finney-Smith\nHeight: 6-7, Weight: 220 lbs lbs\nPros: Reliable 3-and-D player with versatility to guard multiple positions.\nCons: Limited shot creation and inconsistent offensive production.\nStats: PPG: 8.5, RPG: 3.9, APG: 1.5, BPG: 0.4, SPG: 0.9, FG%: 44.6, FT%: 66.7, 3P%: 40.8"
+  },
+  {
+    "name": "Doug McDermott",
+    "chunk": "Player: Doug McDermott\nHeight: 6-7, Weight: 225 lbs lbs\nPros: Excellent three-point shooter with high basketball IQ and off-ball movement.\nCons: Defensive limitations and struggles to create his own shot.\nStats: PPG: 3.4, RPG: 0.5, APG: 0.2, BPG: 0.0, SPG: 0.1, FG%: 42.0, FT%: 60.0, 3P%: 42.7"
+  },
+  {
+    "name": "Draymond Green",
+    "chunk": "Player: Draymond Green\nHeight: 6-6, Weight: 230 lbs lbs\nPros: Elite defender with exceptional playmaking skills and leadership qualities.\nCons: Limited scoring ability and prone to technical fouls.\nStats: PPG: 9.0, RPG: 6.0, APG: 5.4, BPG: 1.0, SPG: 1.5, FG%: 41.6, FT%: 69.1, 3P%: 31.1"
+  },
+  {
+    "name": "Dwight Powell",
+    "chunk": "Player: Dwight Powell\nHeight: 6-10, Weight: 240 lbs lbs\nPros: Athletic big man with strong pick-and-roll finishing and high energy.\nCons: Limited shooting range and average rim protection.\nStats: PPG: 2.0, RPG: 2.1, APG: 1.0, BPG: 0.4, SPG: 0.3, FG%: 65.6, FT%: 65.1, 3P%: 40.0"
+  },
+  {
+    "name": "Elfrid Payton",
+    "chunk": "Player: Elfrid Payton\nHeight: 6-3, Weight: 185 lbs lbs\nPros: Solid playmaker with good court vision and defensive instincts.\nCons: Inconsistent shooting and struggles with turnovers.\nStats: PPG: 3.5, RPG: 3.3, APG: 6.9, BPG: 0.5, SPG: 1.0, FG%: 32.8, FT%: 57.1, 3P%: 16.7"
+  },
+  {
+    "name": "Eric Gordon",
+    "chunk": "Player: Eric Gordon\nHeight: 6-3, Weight: 215 lbs lbs\nPros: Experienced scorer with deep shooting range; reliable in clutch situations.\nCons: Prone to injuries; defensive consistency can waver.\nStats: PPG: 6.8, RPG: 1.2, APG: 1.7, BPG: 0.3, SPG: 0.7, FG%: 42.6, FT%: 75.0, 3P%: 40.9"
+  },
+  {
+    "name": "Garrett Temple",
+    "chunk": "Player: Garrett Temple\nHeight: 6-5, Weight: 195 lbs lbs\nPros: Versatile defender; provides veteran leadership and locker room presence.\nCons: Limited offensive output; shooting percentages have declined.\nStats: PPG: 1.9, RPG: 1.0, APG: 1.1, BPG: 0.1, SPG: 0.6, FG%: 30.0, FT%: 91.7, 3P%: 21.4"
+  },
+  {
+    "name": "Georges Niang",
+    "chunk": "Player: Georges Niang\nHeight: 6-7, Weight: 230 lbs lbs\nPros: Effective stretch-four with high basketball IQ; reliable three-point shooter.\nCons: Defensive agility can be a concern against quicker forwards.\nStats: PPG: 10.1, RPG: 3.4, APG: 1.4, BPG: 0.2, SPG: 0.4, FG%: 46.3, FT%: 81.2, 3P%: 40.2"
+  },
+  {
+    "name": "Harrison Barnes",
+    "chunk": "Player: Harrison Barnes\nHeight: 6-8, Weight: 225 lbs lbs\nPros: Consistent scorer; excels in catch-and-shoot situations; provides veteran experience.\nCons: Not a primary playmaker; defensive impact is average.\nStats: PPG: 12.3, RPG: 3.8, APG: 1.7, BPG: 0.2, SPG: 0.5, FG%: 50.8, FT%: 80.9, 3P%: 43.3"
+  },
+  {
+    "name": "Jae Crowder",
+    "chunk": "Player: Jae Crowder\nHeight: 6-6, Weight: 235 lbs lbs\nPros: Tough defender; brings physicality and playoff experience; capable three-point shooter.\nCons: Offensive inconsistency; can be streaky from beyond the arc.\nStats: PPG: 2.6, RPG: 2.2, APG: 0.7, BPG: 0.0, SPG: 0.3, FG%: 31.8, FT%: 83.3, 3P%: 26.7"
+  },
+  {
+    "name": "James Johnson",
+    "chunk": "Player: James Johnson\nHeight: 6-7, Weight: 240 lbs lbs\nPros: Physical defender; brings toughness and versatility; has a background in martial arts enhancing his physical play.\nCons: Offensive contributions are limited; shooting range is restricted.\nStats: PPG: 0.9, RPG: 0.5, APG: 0.4, BPG: 0.3, SPG: 0.1, FG%: 42.9, FT%: 33.3, 3P%: 0.0"
+  },
+  {
+    "name": "Javonte Green",
+    "chunk": "Player: Javonte Green\nHeight: 6-5, Weight: 205 lbs lbs\nPros: Athletic wing; excels in transition; provides energy off the bench.\nCons: Limited shooting range; not a primary ball-handler.\nStats: PPG: 4.9, RPG: 3.1, APG: 0.8, BPG: 0.4, SPG: 0.9, FG%: 42.8, FT%: 74.4, 3P%: 32.2"
+  },
+  {
+    "name": "Jeff Green",
+    "chunk": "Player: Jeff Green\nHeight: 6-8, Weight: 235 lbs lbs\nPros: Versatile forward; can play multiple positions; provides veteran leadership.\nCons: Inconsistency in performance; age may impact athleticism.\nStats: PPG: 5.0, RPG: 1.7, APG: 0.6, BPG: 0.1, SPG: 0.2, FG%: 50.0, FT%: 80.8, 3P%: 37.5"
+  },
+  {
+    "name": "Jerami Grant",
+    "chunk": "Player: Jerami Grant\nHeight: 6-7, Weight: 210 lbs lbs\nPros: Athletic forward; capable scorer; strong defender with the ability to guard multiple positions.\nCons: Needs to improve playmaking skills; can be turnover-prone.\nStats: PPG: 14.4, RPG: 3.5, APG: 2.1, BPG: 1.0, SPG: 0.9, FG%: 37.3, FT%: 84.9, 3P%: 36.5"
+  },
+  {
+    "name": "Joe Ingles",
+    "chunk": "Player: Joe Ingles\nHeight: 6-8, Weight: 220 lbs lbs\nPros: High basketball IQ; excellent passer; reliable three-point shooter.\nCons: Lacks elite athleticism; defensive quickness can be exploited.\nStats: PPG: 0.8, RPG: 0.6, APG: 1.2, BPG: 0.0, SPG: 0.1, FG%: 26.1, FT%: nan, 3P%: 20.0"
+  },
+  {
+    "name": "Jonas Valan_i_nas",
+    "chunk": "Player: Jonas Valan_i_nas\nHeight: 6-11, Weight: 265 lbs lbs\nPros: Dominant rebounder and efficient scorer in the paint; provides strong interior presence.\nCons: Limited mobility on defense; struggles to defend against quicker opponents.\nStats: PPG: nan, RPG: nan, APG: nan, BPG: nan, SPG: nan, FG%: nan, FT%: nan, 3P%: nan"
+  },
+  {
+    "name": "Jordan Clarkson",
+    "chunk": "Player: Jordan Clarkson\nHeight: 6-4, Weight: 186 lbs lbs\nPros: Explosive scorer off the bench; excels in creating his own shot and providing instant offense.\nCons: Inconsistent defense; prone to streaky shooting performances.\nStats: PPG: 16.2, RPG: 3.2, APG: 3.7, BPG: 0.2, SPG: 0.8, FG%: 40.8, FT%: 79.7, 3P%: 36.2"
+  },
+  {
+    "name": "Josh Richardson",
+    "chunk": "Player: Josh Richardson\nHeight: 6-5, Weight: 200 lbs lbs\nPros: Versatile defender; capable of guarding multiple positions; solid three-point shooter.\nCons: Offensive production can be inconsistent; not a primary playmaker.\nStats: PPG: 4.0, RPG: 1.5, APG: 1.5, BPG: 0.1, SPG: 1.0, FG%: 28.9, FT%: 100.0, 3P%: 27.3"
+  },
+  {
+    "name": "Kawhi Leonard",
+    "chunk": "Player: Kawhi Leonard\nHeight: 6-7, Weight: 225 lbs lbs\nPros: Elite two-way player; exceptional defender and efficient scorer; proven playoff performer.\nCons: History of injuries; load management limits availability.\nStats: PPG: 22.1, RPG: 6.2, APG: 3.4, BPG: 0.5, SPG: 1.5, FG%: 50.4, FT%: 80.3, 3P%: 41.0"
+  },
+  {
+    "name": "Kelly Olynyk",
+    "chunk": "Player: Kelly Olynyk\nHeight: 6-11, Weight: 240 lbs lbs\nPros: Stretch big with reliable three-point shooting; high basketball IQ; facilitates ball movement.\nCons: Defensive limitations; struggles against more athletic opponents.\nStats: PPG: 8.7, RPG: 4.7, APG: 2.9, BPG: 0.4, SPG: 0.8, FG%: 50.0, FT%: 76.9, 3P%: 41.8"
+  },
+  {
+    "name": "Kevin Love",
+    "chunk": "Player: Kevin Love\nHeight: 6-8, Weight: 251 lbs lbs\nPros: Excellent rebounder; capable floor spacer with three-point range; veteran leadership.\nCons: Declining athleticism; defensive vulnerabilities against quicker players.\nStats: PPG: 5.3, RPG: 4.1, APG: 1.0, BPG: 0.2, SPG: 0.7, FG%: 35.7, FT%: 69.6, 3P%: 35.8"
+  },
+  {
+    "name": "Khris Middleton",
+    "chunk": "Player: Khris Middleton\nHeight: 6-7, Weight: 222 lbs lbs\nPros: Reliable mid-range shooter; clutch performer; strong perimeter defender.\nCons: Injury history; occasional inconsistency in offensive output.\nStats: PPG: 11.9, RPG: 3.7, APG: 4.1, BPG: 0.2, SPG: 0.9, FG%: 47.5, FT%: 85.7, 3P%: 36.1"
+  },
+  {
+    "name": "Klay Thompson",
+    "chunk": "Player: Klay Thompson\nHeight: 6-6, Weight: 220 lbs lbs\nPros: Elite shooter with quick release; strong perimeter defender; championship experience.\nCons: Recent injuries have impacted mobility; relies heavily on shooting rhythm.\nStats: PPG: 14.1, RPG: 3.4, APG: 2.0, BPG: 0.4, SPG: 0.7, FG%: 41.6, FT%: 89.6, 3P%: 39.4"
+  },
+  {
+    "name": "Kris Dunn",
+    "chunk": "Player: Kris Dunn\nHeight: 6-3, Weight: 205 lbs lbs\nPros: Tenacious on-ball defender; effective in transition; solid playmaker.\nCons: Limited shooting range; offensive contributions can be inconsistent.\nStats: PPG: 6.4, RPG: 3.4, APG: 2.7, BPG: 0.4, SPG: 1.7, FG%: 43.5, FT%: 68.2, 3P%: 33.7"
+  },
+  {
+    "name": "Kyle Anderson",
+    "chunk": "Player: Kyle Anderson\nHeight: 6-9, Weight: 230 lbs lbs\nPros: High basketball IQ; versatile defender; facilitates offense with unselfish play.\nCons: Lacks speed and athleticism; shooting can be inconsistent.\nStats: PPG: 5.6, RPG: 3.2, APG: 2.4, BPG: 0.6, SPG: 0.6, FG%: 46.5, FT%: 71.6, 3P%: 36.6"
+  },
+  {
+    "name": "Larry Nance Jr.",
+    "chunk": "Player: Larry Nance Jr.\nHeight: 6-7, Weight: 227 lbs lbs\nPros: Athletic and versatile defender; provides energy and rebounding off the bench. \nCons: Limited offensive range; not a primary scoring option.\nStats: PPG: 8.5, RPG: 4.3, APG: 1.6, BPG: 0.5, SPG: 0.8, FG%: 51.6, FT%: 69.2, 3P%: 44.7"
+  },
+  {
+    "name": "Malcolm Brogdon",
+    "chunk": "Player: Malcolm Brogdon\nHeight: 6-5, Weight: 223 lbs lbs\nPros: Smart and efficient scorer; strong defender and playmaker. \nCons: Injury-prone; lacks elite athleticism.\nStats: PPG: 12.7, RPG: 3.8, APG: 4.1, BPG: 0.2, SPG: 0.5, FG%: 43.3, FT%: 88.0, 3P%: 28.6"
+  },
+  {
+    "name": "Marcus Smart",
+    "chunk": "Player: Marcus Smart\nHeight: 6-3, Weight: 220 lbs lbs\nPros: Elite perimeter defender; high basketball IQ and leadership qualities.\nCons: Inconsistent shooting; can be overly aggressive defensively.\nStats: PPG: 9.0, RPG: 2.1, APG: 3.2, BPG: 0.3, SPG: 1.1, FG%: 39.3, FT%: 76.1, 3P%: 34.8"
+  },
+  {
+    "name": "Markieff Morris",
+    "chunk": "Player: Markieff Morris\nHeight: 6-9, Weight: 245 lbs lbs\nPros: Physical defender; capable of stretching the floor with three-point shooting. \nCons: Prone to fouls; inconsistent offensive production.\nStats: PPG: 3.7, RPG: 1.5, APG: 1.4, BPG: 0.2, SPG: 0.1, FG%: 30.0, FT%: 83.3, 3P%: 25.0"
+  },
+  {
+    "name": "Mason Plumlee",
+    "chunk": "Player: Mason Plumlee\nHeight: 6-11, Weight: 254 lbs lbs\nPros: Solid rebounder and passer for a big man; provides energy and hustle.\nCons: Limited shooting range; struggles with free-throw shooting.\nStats: PPG: 4.5, RPG: 6.1, APG: 1.8, BPG: 0.6, SPG: 0.4, FG%: 61.9, FT%: 64.8, 3P%: 0.0"
+  },
+  {
+    "name": "Maxi Kleber",
+    "chunk": "Player: Maxi Kleber\nHeight: 6-10, Weight: 240 lbs lbs\nPros: Strong defender; capable three-point shooter; provides floor spacing. \nCons: Injury concerns; inconsistent offensive contributions.\nStats: PPG: 3.0, RPG: 2.7, APG: 1.2, BPG: 0.5, SPG: 0.3, FG%: 38.1, FT%: 78.3, 3P%: 26.0"
+  },
+  {
+    "name": "Mike Conley",
+    "chunk": "Player: Mike Conley\nHeight: 6-0, Weight: 175 lbs lbs\nPros: Veteran leader; excellent playmaker and defender; reliable shooter. \nCons: Age-related decline; durability issues.\nStats: PPG: 7.8, RPG: 2.6, APG: 4.3, BPG: 0.2, SPG: 1.0, FG%: 38.3, FT%: 90.3, 3P%: 39.7"
+  },
+  {
+    "name": "Monte Morris",
+    "chunk": "Player: Monte Morris\nHeight: 6-2, Weight: 183 lbs lbs\nPros: Low turnover rate; efficient scorer and facilitator. \nCons: Not a high-volume scorer; limited defensive impact.\nStats: PPG: 5.2, RPG: 1.5, APG: 1.6, BPG: 0.1, SPG: 0.4, FG%: 42.6, FT%: 85.7, 3P%: 36.0"
+  },
+  {
+    "name": "Nicolas Batum",
+    "chunk": "Player: Nicolas Batum\nHeight: 6-9, Weight: 210 lbs lbs\nPros: Versatile defender; high basketball IQ; capable three-point shooter. \nCons: Declining athleticism; inconsistent offensive output.\nStats: PPG: 4.1, RPG: 2.9, APG: 1.2, BPG: 0.6, SPG: 0.7, FG%: 43.2, FT%: 81.0, 3P%: 42.8"
+  },
+  {
+    "name": "Nikola Vucevic",
+    "chunk": "Player: Nikola Vucevic\nHeight: 6-10, Weight: 260 lbs lbs\nPros: Skilled scorer and rebounder; reliable mid-range and three-point shooter.\nCons: Defensive limitations; not a rim protector.\nStats: PPG: 18.4, RPG: 10.1, APG: 3.5, BPG: 0.7, SPG: 0.8, FG%: 52.9, FT%: 80.8, 3P%: 40.2"
+  },
+  {
+    "name": "Norman Powell",
+    "chunk": "Player: Norman Powell\nHeight: 6-4, Weight: 215 lbs lbs\nPros: Explosive scorer with strong finishing ability; reliable three-point shooter.\nCons: Defensive consistency can waver; not a primary playmaker.\nStats: PPG: 21.2, RPG: 3.1, APG: 2.1, BPG: 0.2, SPG: 1.2, FG%: 48.3, FT%: 80.2, 3P%: 41.2"
+  },
+  {
+    "name": "P.J. Tucker",
+    "chunk": "Player: P.J. Tucker\nHeight: 6-5, Weight: 245 lbs lbs\nPros: Tenacious defender; excels in corner three-point shooting; brings veteran leadership.\nCons: Limited offensive versatility; age-related decline in mobility.\nStats: PPG: 2.2, RPG: 2.0, APG: 0.0, BPG: 0.2, SPG: 0.2, FG%: 42.9, FT%: nan, 3P%: 50.0"
+  },
+  {
+    "name": "Pat Connaughton",
+    "chunk": "Player: Pat Connaughton\nHeight: 6-5, Weight: 209 lbs lbs\nPros: Athletic wing with solid three-point shooting; contributes effectively off the bench.\nCons: Not a primary scorer; defensive impact is average.\nStats: PPG: 4.9, RPG: 2.5, APG: 1.6, BPG: 0.2, SPG: 0.2, FG%: 45.7, FT%: 75.8, 3P%: 31.4"
+  },
+  {
+    "name": "Patty Mills",
+    "chunk": "Player: Patty Mills\nHeight: 6-2, Weight: 180 lbs lbs\nPros: Experienced floor general; excellent three-point shooter; high basketball IQ.\nCons: Defensive limitations due to size; not a primary playmaker.\nStats: PPG: 3.8, RPG: 0.7, APG: 0.9, BPG: 0.1, SPG: 0.4, FG%: 37.8, FT%: 92.9, 3P%: 35.5"
+  },
+  {
+    "name": "Paul George",
+    "chunk": "Player: Paul George\nHeight: 6-8, Weight: 220 lbs lbs\nPros: Elite two-way player; excellent perimeter defender; versatile scorer.\nCons: Injury history; occasional inconsistency in offensive output.\nStats: PPG: 16.2, RPG: 5.3, APG: 4.3, BPG: 0.5, SPG: 1.8, FG%: 43.0, FT%: 81.4, 3P%: 35.8"
+  },
+  {
+    "name": "Reggie Jackson",
+    "chunk": "Player: Reggie Jackson\nHeight: 6-2, Weight: 208 lbs lbs\nPros: Quick and agile guard; capable scorer and playmaker; provides veteran experience.\nCons: Inconsistent shooting; defensive liabilities.\nStats: PPG: 4.4, RPG: 1.4, APG: 1.5, BPG: 0.1, SPG: 0.5, FG%: 39.1, FT%: 77.8, 3P%: 33.8"
+  },
+  {
+    "name": "Richaun Holmes",
+    "chunk": "Player: Richaun Holmes\nHeight: 6-9, Weight: 235 lbs lbs\nPros: Efficient scorer around the rim; strong rebounder; provides energy and hustle.\nCons: Limited shooting range; struggles with foul trouble.\nStats: PPG: 7.4, RPG: 5.7, APG: 1.4, BPG: 0.7, SPG: 0.3, FG%: 64.7, FT%: 83.3, 3P%: 0.0"
+  },
+  {
+    "name": "Royce O'Neale",
+    "chunk": "Player: Royce O'Neale\nHeight: 6-6, Weight: 226 lbs lbs\nPros: Versatile defender; reliable three-point shooter; high basketball IQ.\nCons: Limited shot creation; not a primary scoring option.\nStats: PPG: 9.1, RPG: 4.7, APG: 2.2, BPG: 0.5, SPG: 0.9, FG%: 42.3, FT%: 73.1, 3P%: 40.6"
+  },
+  {
+    "name": "Russell Westbrook",
+    "chunk": "Player: Russell Westbrook\nHeight: 6-4, Weight: 200 lbs lbs\nPros: Explosive athlete; excellent rebounder and playmaker; brings intensity and leadership.\nCons: Turnover-prone; inconsistent shooting; adapting to reduced role.\nStats: PPG: 13.0, RPG: 4.8, APG: 5.6, BPG: 0.4, SPG: 1.3, FG%: 44.1, FT%: 66.7, 3P%: 32.2"
+  },
+  {
+    "name": "Seth Curry",
+    "chunk": "Player: Seth Curry\nHeight: 6-1, Weight: 185 lbs lbs\nPros: Elite three-point shooter; efficient scorer; high basketball IQ.\nCons: Defensive limitations due to size; not a primary playmaker.\nStats: PPG: 6.5, RPG: 1.7, APG: 0.9, BPG: 0.1, SPG: 0.4, FG%: 47.8, FT%: 84.6, 3P%: 45.6"
+  },
+  {
+    "name": "Spencer Dinwiddie",
+    "chunk": "Player: Spencer Dinwiddie\nHeight: 6-5, Weight: 215 lbs lbs\nPros: Versatile guard; capable scorer and facilitator; strong in pick-and-roll situations.\nCons: Inconsistent shooting; defensive impact is average.\nStats: PPG: 10.8, RPG: 2.6, APG: 4.3, BPG: 0.2, SPG: 0.9, FG%: 41.5, FT%: 80.2, 3P%: 33.2"
+  },
+  {
+    "name": "T.J. McConnell",
+    "chunk": "Player: T.J. McConnell\nHeight: 6-1, Weight: 190 lbs lbs\nPros: Tenacious defender; excellent playmaker; high energy off the bench.\nCons: Limited shooting range; undersized for position.\nStats: PPG: 9.0, RPG: 2.6, APG: 4.4, BPG: 0.2, SPG: 0.9, FG%: 52.0, FT%: 75.8, 3P%: 31.7"
+  },
+  {
+    "name": "Taj Gibson",
+    "chunk": "Player: Taj Gibson\nHeight: 6-9, Weight: 232 lbs lbs\nPros: Veteran presence; strong defender and rebounder; provides toughness.\nCons: Limited offensive contributions; age-related decline in athleticism.\nStats: PPG: 2.9, RPG: 3.2, APG: 0.6, BPG: 0.5, SPG: 0.2, FG%: 49.5, FT%: 60.0, 3P%: 50.0"
+  },
+  {
+    "name": "Taurean Prince",
+    "chunk": "Player: Taurean Prince\nHeight: 6-6, Weight: 218 lbs lbs\nPros: Solid three-point shooter; versatile defender; provides depth at forward positions.\nCons: Inconsistent offensive production; not a primary scorer.\nStats: PPG: 7.8, RPG: 3.4, APG: 1.9, BPG: 0.2, SPG: 0.9, FG%: 45.1, FT%: 81.2, 3P%: 43.3"
+  },
+  {
+    "name": "Tim Hardaway Jr.",
+    "chunk": "Player: Tim Hardaway Jr.\nHeight: 6-5, Weight: 205 lbs lbs\nPros: Capable scorer; strong three-point shooter; provides offensive spark.\nCons: Streaky shooting; defensive consistency can vary.\nStats: PPG: 11.0, RPG: 2.4, APG: 1.6, BPG: 0.1, SPG: 0.5, FG%: 39.9, FT%: 85.2, 3P%: 36.1"
+  },
+  {
+    "name": "Torrey Craig",
+    "chunk": "Player: Torrey Craig\nHeight: 6-7, Weight: 221 lbs lbs\nPros: Strong defender; effective rebounder; provides energy and hustle.\nCons: Limited offensive skill set; not a primary scoring option.\nStats: PPG: 3.7, RPG: 2.5, APG: 0.6, BPG: 0.4, SPG: 0.3, FG%: 42.6, FT%: 66.7, 3P%: 37.7"
+  },
+  {
+    "name": "Tristan Thompson",
+    "chunk": "Player: Tristan Thompson\nHeight: 6-9, Weight: 254 lbs lbs\nPros: Excellent rebounder; provides interior defense and toughness.\nCons: Limited offensive range; struggles with free-throw shooting.\nStats: PPG: 1.8, RPG: 3.5, APG: 0.6, BPG: 0.3, SPG: 0.1, FG%: 44.2, FT%: 24.2, 3P%: 0.0"
+  }
+]

@@ -1,0 +1,21 @@
+# Ignore .env to protect API keys
+.env
+
+# Ignore typical Python/Streamlit cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Streamlit and log artifacts
+.streamlit/
+logs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Mac and VS Code specific
+.DS_Store
+.vscode/
