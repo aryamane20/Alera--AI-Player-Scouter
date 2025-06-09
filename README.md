@@ -1,4 +1,4 @@
-# 🏀 Alera – AI-powered NBA Scouting Assistant
+# Alera – AI-powered Scouting Assistant
 
 **Your Vision, Their Future.**
 
@@ -11,7 +11,9 @@ players through natural language queries. Powered by DeepSeek and FAISS, Alera t
 
 https://nba-draft-scout-app-hns9k3gqyyx4gw6sqqfjop.streamlit.app/
 
-## 🔍 Key Features
+---
+
+## Key Features
 
 - **LLM-Based Recommendations**  
   Generates personalized scouting insights using DeepSeek's instruction-tuned LLM via OpenAI-compatible API.
@@ -27,7 +29,7 @@ https://nba-draft-scout-app-hns9k3gqyyx4gw6sqqfjop.streamlit.app/
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. **Embeddings Generation**  
    - Player bios, stats, and scouting summaries are embedded using `sentence-transformers`.
@@ -45,7 +47,7 @@ https://nba-draft-scout-app-hns9k3gqyyx4gw6sqqfjop.streamlit.app/
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Component           | Tool/Library                      |
 |---------------------|-----------------------------------|
@@ -59,10 +61,25 @@ https://nba-draft-scout-app-hns9k3gqyyx4gw6sqqfjop.streamlit.app/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.9+
 - API key for DeepSeek (or compatible OpenAI LLM)
 - Tableau Public or Tableau Server credentials (optional)
 - Streamlit Cloud or local environment
+
+
+## Future Enhancements
+
+- **Model Evaluation Pipeline**  
+  Implement quantitative metrics (e.g., F1 Score, BLEU, Recall@k) to benchmark recommendation quality.
+
+- **Multi-Modal Scouting**  
+  Integrate video highlight clips and physical metrics (wingspan, vertical leap) for deeper player evaluations.
+
+- **User Authentication & Save Queries**  
+  Enable scouts to log in, save recommendations, and track historical comparisons.
+
+- **Expand to Other Sports**  
+  Add support for other sports and leagues like soccer, NFL, WNBA, NHL etc.
